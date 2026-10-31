@@ -1,202 +1,236 @@
-# 沉积式技术 · Sediment Architecture
+# Sediment Architecture · 沉积式技术
 
-> **给已经训练好的模型装卸「技能」的一套机制：技能做成几十 MB 的小插件（0.83B 基座上 r8 只有 12 MB），插上就用、拔掉就恢复、互不破坏。**
-> 部署 2.5 GB 显存起，训练 6.4 GB 起。
+**English** | [中文](README.zh-CN.md)
+
+> **A mechanism for plugging skills in and out of an already-trained model.** Each skill is a small
+> module (12 MB at rank 8 on the 0.83B backbone): plug it in and it works, unplug it and everything
+> is restored, and skills never damage each other.
+> Deploy from 2.5 GB of VRAM; train from 6.4 GB.
 >
-> **它不提升模型的智力。** 这是本仓库最重要的一条结论，也是我们花最多时间量清楚的事。
+> **It does not make the model smarter.** This is the single most important conclusion in this
+> repository, and the thing we spent the most time measuring.
 
 ---
 
-## 0. 一句话讲清它是什么
+## 0. What it is, in one sentence
 
-想给模型加一门新手艺（公司内部术语、某张表格的填法、一门自造语），传统只有两条路：重新训练整个模型（贵、慢、还会挤掉原来会的），或者塞进提示词（占上下文、长一点就忘）。
+Giving a model a new craft — your company's internal jargon, the exact way a form must be filled,
+a constructed language — traditionally leaves two bad options: retrain the whole model (expensive,
+slow, and it erodes what the model already knew), or stuff instructions into the prompt (eats
+context, forgotten once the conversation grows).
 
-**沉积式技术给第三条路：把新手艺做成一个很小的插件，插在模型上。** 常用的插件常驻显存，不常用的沉到硬盘，用的时候再插回来——就像操作系统管理内存页那样。
+**Sediment proposes a third path: package the craft as a small plug-in and plug it into the model.**
+Frequently used plug-ins stay resident in VRAM; rarely used ones sink to disk and are plugged back in
+when needed — the way an operating system manages memory pages.
 
-它卖的**不是"更聪明"，是"更便宜、可插拔、互不打架的手艺"**。
+What it sells is **not "being smarter", but "cheaper, hot-pluggable, mutually harmless crafts".**
 
 ---
 
-## 1. 这个仓库是什么 / 不是什么
+## 1. What this repository is / is not
 
 | | |
 |---|---|
-| **是** | 一套在真实模型上做完的实验记录（含大量负结果）、可复现代码、判分协议、以及一个自建 0.83B 基座的全流程 |
-| **是** | 两条并行验证线：**A 线**自研 0.83B 基座；**B 线** Qwen3-4B 选型对照 |
-| **不是** | 一个新的预训练模型（自研 L0 语料只有 0.97B token，只够验证机制，不足以做产品） |
-| **不是** | 「小模型追平大模型」的方案 —— 实测明确否定，见 §4 |
+| **Is** | A complete experimental record on real models (including many negative results), reproducible code, grading protocols, and an end-to-end run of a self-built 0.83B backbone |
+| **Is** | Two parallel validation tracks: **Track A** — self-built 0.83B backbone; **Track B** — Qwen3-4B as a reference pick |
+| **Is not** | A new pretrained model (the self-built L0 saw only 0.97B tokens — enough to validate the mechanism, not enough to ship) |
+| **Is not** | A "small model catches up with large models" proposal — we measured it and it is false, see §4 |
 
 ---
 
-## 2. 核心结果一览
+## 2. Results at a glance
 
-### 2.1 四条职责验收（两个基座都过了）
+### 2.1 Four duty checks (both backbones pass)
 
-| 职责 | A 线：自研 L0 0.83B | B 线：Qwen3-4B |
+| Duty | Track A: self-built L0 0.83B | Track B: Qwen3-4B |
 |---|---|---|
-| D1 语言能力 (ppl) | 56.9 | **16.76** |
-| D2 技能承载 (A_tf / A_gen) | 0.973 / 0.880 | **0.994 / 0.960** |
-| D2 的 C 门（通用回归，严格线 1.02） | **1.0223×**（校准步后） | **0.861×（反而变好）** |
-| D3 MSP 锚点（项目口径 cos≥0.60） | 0.974 | 0.983 |
-| D4 调度接口 | ✅ | ✅（原生 KV） |
+| D1 language ability (ppl) | 56.9 | **16.76** |
+| D2 skill hosting (A_tf / A_gen) | 0.973 / 0.880 | **0.994 / 0.960** |
+| D2's C-gate (general regression, strict line 1.02) | **1.0223×** (after a calibration pass) | **0.861× (it actually improves)** |
+| D3 MSP anchors (project criterion: cos ≥ 0.60) | 0.974 | 0.983 |
+| D4 scheduling interface | ✅ | ✅ (native KV cache) |
 
-判分口径写在 `scripts/accept_l0_d2.py`：A_tf = 答案区间逐 token 准确率 ≥0.90；A_gen = 整句精确匹配 ≥0.80；裸基座 A_gen ≤0.15。
+Grading protocol lives in `scripts/accept_l0_d2.py`: A_tf = per-token accuracy over the answer span
+(≥ 0.90); A_gen = exact-match rate of the full answer (≥ 0.80); bare backbone A_gen ≤ 0.15.
 
-### 2.2 技能真正做到了什么（E1 多技能闭环）
+### 2.2 What the skills actually achieve (E1 multi-skill loop)
 
-三个互不相同的自造语技能（Sedu / Nuri / Tavi）各自独立训练，再逐个挂载、跨技能测：
+Three mutually distinct constructed-language skills (Sedu / Nuri / Tavi) were trained independently,
+then mounted one at a time and evaluated across all three:
 
-| 挂载 → | 测 sedu | 测 nuri | 测 tavi | 自己 A_gen |
+| Mounted → | on sedu | on nuri | on tavi | own A_gen |
 |---|---|---|---|---|
-| 裸基座 | 0.333 | 0.366 | 0.364 | — |
+| bare backbone | 0.333 | 0.366 | 0.364 | — |
 | sedu | **0.995** | 0.627 | 0.614 | 0.960 |
 | nuri | 0.641 | **0.996** | 0.638 | 0.980 |
 | tavi | 0.588 | 0.684 | **0.944** | 0.660 |
 
-**技能之间零破坏**：交叉准确率全部**高于**裸基座（破坏率 −0.69 ~ −0.92）。存在 0.39–0.50 的「格式迁移」（学一个技能会让别的技能答案更规范），但没有可迁移的知识。
+**Zero cross-skill damage**: every cross accuracy is *higher* than the bare backbone (damage ratio
+−0.69 to −0.92). There is a 0.39–0.50 "format transfer" effect (learning one skill makes answers to
+the others better formatted), but no transferable knowledge.
 
-> 口径提醒：干扰率的分母必须是**裸基座**，不是"自己的准确率"——后者含该技能专属的词表映射，跨技能本来就不可能达到。这是我们在实验里踩过的坑。
+> Measurement note: the denominator for interference must be the **bare backbone**, not "the skill's
+> own accuracy" — the latter contains that skill's private vocabulary mapping and can never be reached
+> across skills. Using it makes a normal result look like interference. We stepped on this ourselves.
 
-沉积物体积比例尺（fp16，实测）：
+Deposit size scale (fp16, measured):
 
-| 基座 | r16 | r8 | r4 | r2（保真 1.008） |
+| Backbone | r16 | r8 | r4 | r2 (fidelity 1.008) |
 |---|---|---|---|---|
-| 自研 L0 0.83B | 24.2 MB | **12.1 MB** | 6.1 MB | **3.0 MB**（1 GB 装 339 个）|
+| self-built L0 0.83B | 24.2 MB | **12.1 MB** | 6.1 MB | **3.0 MB** (339 per GB) |
 | Qwen3-4B | 63.5 MB | — | — | — |
 
-秩截断几乎免费：0.83B 上从 r16 截到 r2，行为保真 **1.008**（A_tf 口径），体积降到 1/8。
+Rank truncation is nearly free: on the 0.83B backbone, truncating r16 down to r2 keeps behavioural
+fidelity at **1.008** (A_tf criterion) while shrinking the deposit to 1/8.
 
-### 2.3 部署与训练成本（单卡 RTX 2080 Ti 22GB 实测）
+### 2.3 Deployment and training cost (measured on a single RTX 2080 Ti 22GB)
 
-| 项 | 数值 |
+| Item | Value |
 |---|---|
-| 4B 技能插件部署（NF4 4bit） | 常驻 **2.50 GiB**，@ctx4096 KV 0.56 GiB，6GB 档仍余 2.6 GB 给技能区 |
-| 量化对技能的影响 | A_tf 0.9939 / A_gen 0.960，**与 fp16 逐位相同** |
-| 4B LoRA 训练（fp16） | 峰值 **16.8 GiB**，bs4×2048，565 tok/s |
-| 4B QLoRA 训练（NF4） | 峰值 **6.43 GiB**，质量一致 → **8 GB 显卡就能训 4B LoRA** |
-| 4B 全参微调 | ❌ 最小配置 22.5 GiB 起步（不含激活），单卡不可行 |
+| 4B skill plug-in deployment (NF4 4-bit) | **2.50 GiB** resident, 0.56 GiB KV at ctx 4096; a 6 GB budget still leaves 2.6 GB for the skill area |
+| Effect of quantization on the skill | A_tf 0.9939 / A_gen 0.960 — **bit-identical to fp16** |
+| 4B LoRA training (fp16) | peak **16.8 GiB**, bs4×2048, 565 tok/s |
+| 4B QLoRA training (NF4) | peak **6.43 GiB**, same quality → **an 8 GB GPU can train 4B LoRA** |
+| 4B full fine-tuning | ❌ 22.5 GiB minimum before activations; not feasible on one card |
 
 ---
 
-## 3. 本仓库最有价值的部分：**负结果**
+## 3. The most valuable part: **negative results**
 
-这些是我们花时间证伪的东西，写出来是为了让别人不用再走一遍。
+These are the things we spent time disproving. They are written down so nobody else has to repeat them.
 
-| # | 结论 | 证据 |
+| # | Finding | Evidence |
 |---|---|---|
-| N1 | **跨骨干知识包（MSP/ISA）不成立** | 两组骨干对、同族与跨族都试过：b/a 只有 **0.00–0.04**，与随机投影相同（机会 0.021）。机制：标定误差夹角 10–15° ≈ 类间夹角 13–16°，信噪比 ≈1 |
-| N2 | **技能挂载不提升智力，还会压低推理** | 同一 4B：3-shot 推理探针 0.533 → 挂技能后 **0.400**；chat 口径降到随机 0.250 |
-| N3 | **锚点「分布」比「数量」重要得多** | 同分布锚点标定余弦 0.977，200 条通用语料锚点只有 0.640 |
-| N4 | **单段落 ppl 会把「技能伤通用」低估 8 倍** | 单段测 1.043，98k token 验证集 1.338 → C 门必须用验证集口径 |
-| N5 | **梯度检查点在 PEFT 场景下省不下激活** | 实测激活 ≈1.0–1.3 GiB/1000 token，与理论差 5–6 倍，`use_reentrant` 两种实现无差别 |
-| N6 | **4bit 量化在 22 GB 卡上不是决定性因素** | QLoRA 只省 3.4 GiB 却慢 9%，且大 batch 仍 OOM；瓶颈是激活不是权重 |
+| N1 | **Cross-backbone knowledge packs (MSP/ISA) do not work** | Two backbone pairs, same-family and cross-family: b/a only **0.00–0.04**, identical to a random projection (chance 0.021). Mechanism: calibration error angle 10–15° ≈ inter-class angle 13–16°, so SNR ≈ 1 |
+| N2 | **Mounting skills does not raise intelligence; it lowers reasoning** | Same 4B: 3-shot reasoning probe 0.533 → **0.400** after mounting a skill; in chat mode it drops to chance (0.250) |
+| N3 | **Anchor *distribution* matters far more than anchor count** | In-distribution anchors give calibration cosine 0.977; 200 generic-corpus anchors give only 0.640 |
+| N4 | **Single-paragraph ppl underestimates "skill hurts general ability" by 8×** | Single paragraph says 1.043; the 98k-token validation set says 1.338 → the C-gate must use a validation-set protocol |
+| N5 | **Gradient checkpointing does not save activations in the PEFT setting** | Measured ≈1.0–1.3 GiB per 1000 tokens, 5–6× above theory; both `use_reentrant` implementations behave the same |
+| N6 | **4-bit quantization is not the deciding factor on a 22 GB card** | QLoRA saves only 3.4 GiB but is 9% slower, and large batches still OOM; the bottleneck is activations, not weights |
 
-同时也有几条**正面**的可复用经验：`A_gen ≈ A_tf^5.85`（答案 token 数决定指数）、replay 混采在补足样本量后不伤技能（是免费正则）、通用校准步能低成本救 C 门（有 U 形拐点，必须早停）。
+There are also reusable **positive** findings: `A_gen ≈ A_tf^5.85` (the exponent is the answer length in
+tokens), replay mixing does no harm to the skill once the skill sample count is restored (it is a free
+regularizer), and a general-domain calibration pass rescues the C-gate cheaply — with a U-shaped curve
+that requires early stopping.
 
 ---
 
-## 4. 它做不到什么（明确边界）
+## 4. What it cannot do (hard boundary)
 
-**它不提升智力。** 本地探针（程序生成、程序判分、随机基线 0.25）：
+**It does not raise intelligence.** Local probe (programmatically generated and graded, chance 0.25):
 
-| 被测 | 总体 |
+| Model | Overall |
 |---|---|
-| 自研 L0 0.83B | 0.283 |
+| self-built L0 0.83B | 0.283 |
 | Qwen3-4B base | 0.533 |
-| **Qwen3-4B + 技能挂载** | **0.400 ↓** |
+| **Qwen3-4B + mounted skill** | **0.400 ↓** |
 | Qwen3-4B-Instruct-2507 | 0.625 |
 
-公开基准对照（2026-10 口径）：
+Public benchmarks (Oct 2026 figures):
 
-| 模型 | GPQA Diamond | AIME25 |
+| Model | GPQA Diamond | AIME25 |
 |---|---|---|
 | Qwen3-4B-Thinking-2507 | 65.8 | 81.3 |
-| DeepSeek-V4.1-Flash（552B/8–16B 激活） | **90.9** | **99.9** |
-| Kimi K3（2.8T/104B 激活） | **93.5** | 89.0 |
+| DeepSeek-V4.1-Flash (552B total / 8–16B active) | **90.9** | **99.9** |
+| Kimi K3 (2.8T total / 104B active) | **93.5** | 89.0 |
 
-结论：**沉积是技能层，不是能力层。** 它适合"给一个已经够聪明的基座装手艺"，不适合"把小模型训成聪明模型"。若要在本机拿到生产级智力，只能调 API 或换更大基座，把本机制当作叠在上面的技能调度层——这本来也是原方案的设计意图（L0 负责调度，不负责智力）。
+Conclusion: **sediment is a skill layer, not a capability layer.** It is meant for "installing crafts
+on a base that is already smart enough", not for "training a small model into a smart one". If you need
+production-grade intelligence on this machine, use an API or a larger backbone and stack this mechanism
+on top as a skill scheduler — which was the original design intent anyway (L0 schedules; it does not
+reason).
 
-另一个值得记住的实测：**4B 的推理完全依赖显式思维链**。四步应用题给 400 token 写过程是 12/12，禁止写过程则 0/12（格式都吐不出）。所以"推理努力"这个旋钮，本质就是思维链长度。
+One more measured fact worth remembering: **4B reasoning depends entirely on explicit chain-of-thought.**
+A four-step word problem gets 12/12 when given 400 tokens to write out the work, and 0/12 when
+forbidden from writing any process at all (it cannot even emit the answer format). The "reasoning
+effort" knob on production models is, in essence, chain-of-thought length.
 
 ---
 
-## 5. 仓库结构
+## 5. Repository layout
 
 ```
-docs/      8 份中文报告（方案 → 技术解释 → 可行性评估 → 执行记录 → 4B 评估 → 智力对标）
-scripts/   全部实验脚本（训练 / 判分 / 探针 / 基准），共 40 个，可直接跑
-data/      三个自造语技能数据集（Sedu / Nuri / Tavi，含词典），格式统一、程序可判分
-results/   全部原始读数（JSON），报告里的每个数字都能在这里找到出处
-reports/   交接文档与验收报告（HANDOFF / ACCEPTANCE）
-toy/       早期玩具验证（Node 零依赖原型 + PyTorch d=96 骨架），机制原型在此
+docs/      8 reports (Chinese): design → technical explainer → feasibility → execution log → 4B evaluation → intelligence comparison
+scripts/   all experiment scripts (training / grading / probes / benchmarks), 40 in total, directly runnable
+data/      three constructed-language skill datasets (Sedu / Nuri / Tavi, with lexicons), uniform format, programmatically gradable
+results/   every raw reading (JSON); each number in the reports can be traced back here
+reports/   handoff document and acceptance reports (HANDOFF / ACCEPTANCE)
+toy/       early toy validation (dependency-free Node prototype + PyTorch d=96 skeleton); the mechanism prototype lives here
 ```
 
-主要脚本：
+Key scripts:
 
-| 脚本 | 作用 |
+| Script | Purpose |
 |---|---|
-| `accept_l0_d2.py` | D2 判分（A_tf / A_gen / C 门），**所有技能训练都用它判分** |
-| `accept_l0_d3.py` / `e3_msp_split.py` / `e4_msp_qwen.py` | MSP 锚点与 ISA 转译实验（N1 的证据） |
-| `e2_replay.py` | 混采 replay + 通用校准步（C 门从 1.338 压到 1.0223） |
-| `e1_l1_deposit.py` | 技能训练 → 秩截断 → 保真 / 通用回归 |
-| `e1_multi_skill.py` | 多技能干扰矩阵（§2.2） |
-| `bench_qwen_d2.py` / `bench_qwen_qlora.py` | 把同一套判分搬到 HF 模型；QLoRA 训练 |
-| `bench_4b_single_card.py` | 单卡 4B 训练可行性扫描（显存 / 吞吐） |
-| `bench_reasoning_probe.py` / `bench_reasoning_extra.py` | 智力探针（§4） |
+| `accept_l0_d2.py` | D2 grading (A_tf / A_gen / C-gate); **every skill training run is graded with it** |
+| `accept_l0_d3.py` / `e3_msp_split.py` / `e4_msp_qwen.py` | MSP anchor and ISA transplant experiments (the evidence for N1) |
+| `e2_replay.py` | Replay mixing + general calibration pass (C-gate 1.338 → 1.0223) |
+| `e1_l1_deposit.py` | Skill training → rank truncation → fidelity / general regression |
+| `e1_multi_skill.py` | Multi-skill interference matrix (§2.2) |
+| `bench_qwen_d2.py` / `bench_qwen_qlora.py` | Port the same grading to HF models; QLoRA training |
+| `bench_4b_single_card.py` | Single-card 4B training feasibility sweep (VRAM / throughput) |
+| `bench_reasoning_probe.py` / `bench_reasoning_extra.py` | The intelligence probe (§4) |
 
 ---
 
-## 6. 快速开始
+## 6. Quick start
 
-环境：Python 3.13 + `torch 2.11 (cu128)` + `transformers 5.8` + `peft 0.18` + `bitsandbytes 0.50`。
-单张 22 GB 显卡即可跑完全部实验（两张更快）。
+Environment: Python 3.13 + `torch 2.11 (cu128)` + `transformers 5.8` + `peft 0.18` + `bitsandbytes 0.50`.
+A single 22 GB GPU runs every experiment here (two are faster).
 
 ```bash
 pip install -r requirements.txt
 
-# 1) 造三个技能的数据（已包含在 data/，此步可跳过）
+# 1) Regenerate the three skill datasets (already included in data/, so this is optional)
 python scripts/gen_multi_skill.py
 
-# 2) 在 Qwen3-4B 上训一个技能（约 23 分钟，单卡峰值 16.8 GiB）
-python scripts/bench_qwen_d2.py --model <Qwen3-4B 路径> --tag demo \
+# 2) Train one skill on Qwen3-4B (~23 min, 16.8 GiB peak on one card)
+python scripts/bench_qwen_d2.py --model <path-to-Qwen3-4B> --tag demo \
     --steps 800 --bs 4 --n-eval 50 --replay 0.35 --save-adapter out/demo
 
-# 3) 多技能干扰矩阵（需要三个 adapter）
+# 3) Multi-skill interference matrix (needs three adapters)
 python scripts/e1_multi_skill.py --mode eval
 
-# 4) 单卡 4B 训练可行性（含全参 OOM 的边界）
+# 4) Single-card 4B feasibility, including the full fine-tuning OOM boundary
 python scripts/bench_4b_single_card.py --mode lora --bs 4 --seq 2048 --chunk-ce
 ```
 
-> 两个必踩的坑，提前说：
-> 1. **Qwen3 是思考型模型**，chat template 会自动插 ` thinking` 块。评测必须 `enable_thinking=False` 或剥掉思考块，否则 A_gen 会被判低 2.3 倍（0.960 → 0.320）。
-> 2. **判分必须显式给 `eos_token_id`**（Qwen 系为 `[151645, 151643]`），否则模型答对后继续生成下一轮，整句匹配必然失败。
+> Two pitfalls, up front:
+> 1. **Qwen3 is a thinking model** and its chat template inserts a ` thinking` block automatically.
+>    Evaluation must pass `enable_thinking=False` or strip the block, otherwise A_gen is under-counted
+>    by 2.3× (0.960 → 0.320).
+> 2. **Grading must pass `eos_token_id` explicitly** (`[151645, 151643]` for Qwen). Otherwise the model
+>    keeps generating the next turn after the correct answer and whole-string matching always fails.
 
 ---
 
-## 7. 未包含的内容（及如何获得）
+## 7. What is not included (and how to get it)
 
-| 内容 | 体积 | 说明 |
+| Item | Size | Note |
 |---|---|---|
-| 自研 L0 权重（0.828B） | 4 GB (fp32) / 1.54 GB (fp16) | 未上传，GitHub 不适合放权重。可用 `scripts/pretrain_l0.py` 重训（约 45 h），或到 Hugging Face 下载（待发布） |
-| 预训练语料 `tokens.bin` | 3.6 GB | 源自 `opencsg/chinese-fineweb-edu-v2`，用 `scripts/prepare_corpus.py` 可重建 |
-| 技能 adapter（每个 12–127 MB） | 合计 ~700 MB | 未上传（单个超 100 MB 触发 GitHub 限制）。训练脚本与配置都在仓库里，可原样复现 |
-| Qwen 基座 | — | 从 Hugging Face 取：`Qwen/Qwen3-4B`、`Qwen/Qwen3-4B-Instruct-2507` |
+| Self-built L0 weights (0.828B) | 4 GB (fp32) / 1.54 GB (fp16) | Not uploaded; GitHub is the wrong place for weights. Retrain with `scripts/pretrain_l0.py` (~45 h), or download from Hugging Face (pending) |
+| Pretraining corpus `tokens.bin` | 3.6 GB | Derived from `opencsg/chinese-fineweb-edu-v2`; rebuild with `scripts/prepare_corpus.py` |
+| Skill adapters (12–127 MB each) | ~700 MB total | Not uploaded (a single file over 100 MB hits GitHub's limit). Training scripts and configs are in the repo, so they reproduce exactly |
+| Qwen backbones | — | Fetch from Hugging Face: `Qwen/Qwen3-4B`, `Qwen/Qwen3-4B-Instruct-2507` |
 
 ---
 
-## 8. 引用与许可
+## 8. Citation and license
 
-- **代码**：Apache License 2.0（见 `LICENSE`）
-- **文档与数据**（`docs/`、`data/`、`results/`、`reports/`）：CC BY 4.0
-- **第三方**：实验基于 Qwen 系列基座（Apache-2.0）与 `opencsg/chinese-fineweb-edu-v2` 语料，详见 `NOTICE`
+- **Code**: Apache License 2.0 (see `LICENSE`)
+- **Docs and data** (`docs/`, `data/`, `results/`, `reports/`): CC BY 4.0
+- **Third parties**: experiments are built on Qwen backbones (Apache-2.0) and the
+  `opencsg/chinese-fineweb-edu-v2` corpus; see `NOTICE` for details
 
-如果这个仓库的负结果帮你省了时间，引用方式见 `CITATION.cff`。
+If the negative results here saved you some time, the citation format is in `CITATION.cff`.
 
 ---
 
-## 9. 诚实说明
+## 9. A note on honesty
 
-本仓库的实验都是一台双卡 2080 Ti（22 GB 改装版）上跑出来的，样本量不大（每个判分 30–60 条），
-单条数字有 ±0.03 的抖动。我们尽量做了三件事：**预注册判定线、打乱/随机对照、把失败也写出来**。
-凡是标注"实测"的数字都能在 `results/` 里找到对应文件；标注"公开"的数字来自厂商或第三方评测，未在本机复现。
+Every experiment in this repository ran on a single dual-2080-Ti machine (22 GB modded cards). Sample
+sizes are small (30–60 items per grading run) and a single number carries roughly ±0.03 of jitter.
+We tried to do three things consistently: **pre-register the decision thresholds, always include a
+shuffled/random control, and publish the failures too.** Numbers marked "measured" can be traced to a
+file under `results/`; numbers marked "public" come from vendor or third-party evaluations and were
+not reproduced on this machine.
