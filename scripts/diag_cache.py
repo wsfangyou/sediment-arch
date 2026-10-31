@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """KV cache 守卫：三件事必须同时成立。
 
-  1. 训练路径不变：同一 batch 的 loss 与打补丁前的模型（model_l0_bak_tmp.py）**逐位一致**
+  1. 训练路径不变：同一 batch 的 loss 与打补丁前的模型（model_l0_prekv.py）**逐位一致**
   2. 解码等价：带 cache 的 greedy 与不带 cache 的 greedy 产出**完全相同的 token 序列**
   3. 真的变快：32 token 的解码耗时对比
 """
@@ -17,7 +17,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DEV = "cuda:0"
 
 # ---- 载入打补丁前的模块做对照 ----
-spec = importlib.util.spec_from_file_location("model_l0_bak", os.path.join(HERE, "model_l0_bak_tmp.py"))
+spec = importlib.util.spec_from_file_location("model_l0_bak", os.path.join(HERE, "model_l0_prekv.py"))
 bak = importlib.util.module_from_spec(spec); spec.loader.exec_module(bak)
 
 from safetensors.torch import load_file
