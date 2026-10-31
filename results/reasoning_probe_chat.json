@@ -1,0 +1,189 @@
+{
+ "n_items": 24,
+ "protocol": {
+  "scoring": "生成式：每个模型用各自最佳提示（base 用 3-shot 续写，instruct 用 chat 模板），生成 ≤24 token，解析首个 A/B/C/D",
+  "chance": 0.25
+ },
+ "models": {
+  "L0_0.83B": {
+   "per_cat": {
+    "logic2": 0.0,
+    "arith2": 0.125,
+    "arith4": 0.375,
+    "unit": 0.25
+   },
+   "overall": 0.2083,
+   "no_format": 0.0,
+   "detail": [
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "B",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 2\nB"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "B",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 7\nB"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "B",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 1\nB"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "A",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 甲比乙"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "B",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 8\nB"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "A",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 甲比乙"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "A",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 甲比乙"
+    },
+    {
+     "cat": "arith2",
+     "expect": "D",
+     "pred": "B",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 6\nB"
+    }
+   ]
+  },
+  "Qwen3-4B_+Sedu": {
+   "per_cat": {
+    "logic2": 0.75,
+    "arith2": 0.125,
+    "arith4": 0.125,
+    "unit": 0.25
+   },
+   "overall": 0.25,
+   "no_format": 0.0,
+   "detail": [
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "A",
+     "out": "A"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "C"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "C",
+     "out": "C"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "D",
+     "out": "D"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "D",
+     "out": "D"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "D",
+     "out": "D"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "A",
+     "out": "A"
+    },
+    {
+     "cat": "arith2",
+     "expect": "D",
+     "pred": "A",
+     "out": "A"
+    }
+   ]
+  },
+  "Qwen3-4B-Instruct-2507": {
+   "per_cat": {
+    "logic2": 0.75,
+    "arith2": 1.0,
+    "arith4": 0.0,
+    "unit": 1.0
+   },
+   "overall": 0.625,
+   "no_format": 0.375,
+   "detail": [
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "8 + 4 = 12  \n12 - 7 = 5  \n\n答案是：C"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "3 + 3 = 6  \n6 - 2 = 4  \n\n答案是：C"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "B",
+     "out": "3 + 3 = 6  \n6 - 1 = 5  \n\n答案是：B"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "7 + 8 = 15  \n15 - 2 = 13  \n\n答案是：C"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "8 + 3 = 11  \n11 - 2 = 9  \n\n答案是：C"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "B",
+     "out": "12 + 9 = 21  \n21 - 6 = 15  \n\n答案是：B"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "11 + 9 = 20  \n20 - 6 = 14  \n\n答案是：C"
+    },
+    {
+     "cat": "arith2",
+     "expect": "D",
+     "pred": "D",
+     "out": "5 + 7 = 12  \n12 - 2 = 10  \n\n答案是：D"
+    }
+   ]
+  }
+ }
+}

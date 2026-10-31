@@ -1,0 +1,16 @@
+{
+  "name": "sediment-llm",
+  "version": "0.1.0",
+  "description": "沉积架构（Sediment-LLM）可运行原型：小显存双向流动推理——分频沉积带 / MSP 记忆状态包 / 生成式插件 / 统一驻留仲裁。纯 Node，零依赖。",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "exp:band": "node src/index.js band",
+    "exp:sediment": "node src/index.js sediment",
+    "exp:gene": "node src/index.js gene",
+    "exp:msp": "node src/index.js msp",
+    "exp:arbit": "node src/index.js arbit"
+  },
+  "engines": { "node": ">=18" }
+}

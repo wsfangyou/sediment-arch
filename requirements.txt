@@ -1,0 +1,11 @@
+# 实测环境（2026-10-31，Windows 11 + 2× RTX 2080 Ti 22GB）
+# CUDA 12.8 轮子；Turing sm_75 无 BF16 张量核，训练请用 fp16
+torch==2.11.0
+transformers==5.8.0
+peft==0.18.1
+accelerate==1.11.0
+bitsandbytes==0.50.2
+safetensors==0.8.0
+numpy>=1.26
+datasets>=3.0
+huggingface_hub>=0.34

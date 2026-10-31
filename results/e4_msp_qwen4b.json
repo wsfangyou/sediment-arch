@@ -1,0 +1,47 @@
+{
+ "pair": {
+  "reference": "D:/Doubao-works/训练前置/02_基座模型/Qwen2.5-3B-Instruct",
+  "target": "D:/Doubao-works/训练前置/02_基座模型/Qwen3-4B",
+  "layer": 18
+ },
+ "n_pairs": 47,
+ "n_classes": 47,
+ "splits": [
+  {
+   "n_cal": 12,
+   "n_eval": 35,
+   "a": 1.0,
+   "b": 0.0286,
+   "b_keys": 0.0286,
+   "b_hidden": 0.0286,
+   "b0": 0.0286,
+   "map_cos_on_eval": 0.9833,
+   "ratio": 0.0286,
+   "chance": 0.0213,
+   "map_err_deg": 10.5
+  },
+  {
+   "n_cal": 24,
+   "n_eval": 23,
+   "a": 1.0,
+   "b": 0.0435,
+   "b_keys": 0.0,
+   "b_hidden": 0.0435,
+   "b0": 0.0435,
+   "map_cos_on_eval": 0.9853,
+   "ratio": 0.0435,
+   "chance": 0.0213,
+   "map_err_deg": 9.8
+  }
+ ],
+ "mechanism": {
+  "inter_class_cos_ref": 0.9736,
+  "inter_class_cos_tgt": 0.9598,
+  "inter_class_angle_ref_deg": 13.2,
+  "inter_class_angle_tgt_deg": 16.3,
+  "map_error_angle_deg": 10.5,
+  "ratio_map_over_class": 0.8
+ },
+ "verdict": "不成立（b/a 0.03, 0.04，机会 0.021）",
+ "pass": false
+}

@@ -1,0 +1,2400 @@
+{"id": "tavi0", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的镜", "a": "jout dzo vei"}
+{"id": "tavi1", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔是红的", "a": "zei phy baek"}
+{"id": "tavi2", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀和盐", "a": "zat gwa jy"}
+{"id": "tavi3", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit phy vout", "a": "鞋是蓝的"}
+{"id": "tavi4", "task": "c2s", "q": "把这句中文翻译成Tavi语：米和鸟", "a": "bak gwa vyt"}
+{"id": "tavi5", "task": "gloss", "q": "Tavi语词“fat”用中文怎么说？", "a": "笔"}
+{"id": "tavi6", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟是旧的", "a": "vyt phy fy"}
+{"id": "tavi7", "task": "c2s", "q": "把这句中文翻译成Tavi语：花是臭的", "a": "by phy geit"}
+{"id": "tavi8", "task": "gloss", "q": "Tavi语词“jat”用中文怎么说？", "a": "新"}
+{"id": "tavi9", "task": "c2s", "q": "把这句中文翻译成Tavi语：树是干的", "a": "jaet phy hat"}
+{"id": "tavi10", "task": "gloss", "q": "Tavi语词“hat”用中文怎么说？", "a": "干"}
+{"id": "tavi11", "task": "gloss", "q": "Tavi语词“jyt”用中文怎么说？", "a": "香"}
+{"id": "tavi12", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟和瓶", "a": "vyt gwa fae"}
+{"id": "tavi13", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet gwa fa", "a": "树和针"}
+{"id": "tavi14", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik dzo zouk", "a": "井的水"}
+{"id": "tavi15", "task": "c2s", "q": "把这句中文翻译成Tavi语：车和帽", "a": "fou gwa zaet"}
+{"id": "tavi16", "task": "c2s", "q": "把这句中文翻译成Tavi语：树的云", "a": "jaet dzo deit"}
+{"id": "tavi17", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae gwa baet", "a": "布和石头"}
+{"id": "tavi18", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik gwa fei", "a": "井和鱼"}
+{"id": "tavi19", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮和鼓", "a": "vaet gwa dyk"}
+{"id": "tavi20", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik gwa baet", "a": "炉和石头"}
+{"id": "tavi21", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa za", "a": "云和书"}
+{"id": "tavi22", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat gwa feik", "a": "刀和墨"}
+{"id": "tavi23", "task": "c2s", "q": "把这句中文翻译成Tavi语：米的火", "a": "bak dzo ja"}
+{"id": "tavi24", "task": "c2s", "q": "把这句中文翻译成Tavi语：水的桥", "a": "zouk dzo vyk"}
+{"id": "tavi25", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet dzo jout", "a": "路的衣"}
+{"id": "tavi26", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛和衣", "a": "fouk gwa jout"}
+{"id": "tavi27", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和井", "a": "baet gwa beik"}
+{"id": "tavi28", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk gwa gei", "a": "水和砚"}
+{"id": "tavi29", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽是湿的", "a": "zaet phy zae"}
+{"id": "tavi30", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽的纸", "a": "zaet dzo jou"}
+{"id": "tavi31", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi32", "task": "gloss", "q": "Tavi语词“dyk”用中文怎么说？", "a": "鼓"}
+{"id": "tavi33", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet phy geit", "a": "帽是臭的"}
+{"id": "tavi34", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽是软的", "a": "zaet phy veik"}
+{"id": "tavi35", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk phy fy", "a": "雪是旧的"}
+{"id": "tavi36", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae phy zyt", "a": "布是方的"}
+{"id": "tavi37", "task": "gloss", "q": "Tavi语词“gouk”用中文怎么说？", "a": "叶子"}
+{"id": "tavi38", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的火", "a": "dyk dzo ja"}
+{"id": "tavi39", "task": "c2s", "q": "把这句中文翻译成Tavi语：船的墨", "a": "zou dzo feik"}
+{"id": "tavi40", "task": "c2s", "q": "把这句中文翻译成Tavi语：线的炉", "a": "gak dzo geik"}
+{"id": "tavi41", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪的鸟", "a": "byk dzo vyt"}
+{"id": "tavi42", "task": "gloss", "q": "Tavi语词“dou”用中文怎么说？", "a": "宽"}
+{"id": "tavi43", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak dzo hae", "a": "钟的窗"}
+{"id": "tavi44", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗是圆的", "a": "jeit phy beit"}
+{"id": "tavi45", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet gwa fa", "a": "树和针"}
+{"id": "tavi46", "task": "gloss", "q": "Tavi语词“jat”用中文怎么说？", "a": "新"}
+{"id": "tavi47", "task": "c2s", "q": "把这句中文翻译成Tavi语：网和砚", "a": "dei gwa gei"}
+{"id": "tavi48", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei phy feit", "a": "塔是甜的"}
+{"id": "tavi49", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei gwa vak", "a": "镜和钟"}
+{"id": "tavi50", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘和路", "a": "dak gwa haet"}
+{"id": "tavi51", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘是黑的", "a": "dak phy jak"}
+{"id": "tavi52", "task": "gloss", "q": "Tavi语词“za”用中文怎么说？", "a": "书"}
+{"id": "tavi53", "task": "gloss", "q": "Tavi语词“jyk”用中文怎么说？", "a": "门"}
+{"id": "tavi54", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼的船", "a": "fei dzo zou"}
+{"id": "tavi55", "task": "gloss", "q": "Tavi语词“gei”用中文怎么说？", "a": "砚"}
+{"id": "tavi56", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak phy geit", "a": "算盘是臭的"}
+{"id": "tavi57", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit phy ha", "a": "鞋是冷的"}
+{"id": "tavi58", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞的算盘", "a": "vaek dzo dak"}
+{"id": "tavi59", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet phy jyt", "a": "石头是香的"}
+{"id": "tavi60", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚和帽", "a": "gei gwa zaet"}
+{"id": "tavi61", "task": "c2s", "q": "把这句中文翻译成Tavi语：席的桥", "a": "faet dzo vyk"}
+{"id": "tavi62", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼和绳", "a": "fei gwa hyt"}
+{"id": "tavi63", "task": "gloss", "q": "Tavi语词“gei”用中文怎么说？", "a": "砚"}
+{"id": "tavi64", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯是香的", "a": "jei phy jyt"}
+{"id": "tavi65", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak gwa feik", "a": "线和墨"}
+{"id": "tavi66", "task": "gloss", "q": "Tavi语词“vaet”用中文怎么说？", "a": "月亮"}
+{"id": "tavi67", "task": "s2c", "q": "把这句Tavi语翻译成中文：by phy jak", "a": "花是黑的"}
+{"id": "tavi68", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei dzo geik", "a": "镜的炉"}
+{"id": "tavi69", "task": "gloss", "q": "Tavi语词“faet”用中文怎么说？", "a": "席"}
+{"id": "tavi70", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt phy bei", "a": "绳是小的"}
+{"id": "tavi71", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔的花", "a": "zei dzo by"}
+{"id": "tavi72", "task": "gloss", "q": "Tavi语词“zei”用中文怎么说？", "a": "塔"}
+{"id": "tavi73", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔和鸟", "a": "zei gwa vyt"}
+{"id": "tavi74", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪的笔", "a": "byk dzo fat"}
+{"id": "tavi75", "task": "c2s", "q": "把这句中文翻译成Tavi语：树和窗", "a": "jaet gwa hae"}
+{"id": "tavi76", "task": "gloss", "q": "Tavi语词“vei”用中文怎么说？", "a": "镜"}
+{"id": "tavi77", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja dzo byk", "a": "火的雪"}
+{"id": "tavi78", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet gwa faet", "a": "石头和席"}
+{"id": "tavi79", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚和叶子", "a": "gei gwa gouk"}
+{"id": "tavi80", "task": "gloss", "q": "Tavi语词“dak”用中文怎么说？", "a": "算盘"}
+{"id": "tavi81", "task": "gloss", "q": "Tavi语词“zyt”用中文怎么说？", "a": "方"}
+{"id": "tavi82", "task": "gloss", "q": "Tavi语词“bat”用中文怎么说？", "a": "白"}
+{"id": "tavi83", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳是宽的", "a": "hyt phy dou"}
+{"id": "tavi84", "task": "c2s", "q": "把这句中文翻译成Tavi语：门和笔", "a": "jyk gwa fat"}
+{"id": "tavi85", "task": "gloss", "q": "Tavi语词“fat”用中文怎么说？", "a": "笔"}
+{"id": "tavi86", "task": "gloss", "q": "Tavi语词“vyt”用中文怎么说？", "a": "鸟"}
+{"id": "tavi87", "task": "gloss", "q": "Tavi语词“deit”用中文怎么说？", "a": "云"}
+{"id": "tavi88", "task": "c2s", "q": "把这句中文翻译成Tavi语：火和纸", "a": "ja gwa jou"}
+{"id": "tavi89", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔是暗的", "a": "fat phy hyk"}
+{"id": "tavi90", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet phy zae", "a": "石头是湿的"}
+{"id": "tavi91", "task": "gloss", "q": "Tavi语词“gae”用中文怎么说？", "a": "布"}
+{"id": "tavi92", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi93", "task": "c2s", "q": "把这句中文翻译成Tavi语：马的笛", "a": "ga dzo fouk"}
+{"id": "tavi94", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek dzo vei", "a": "伞的镜"}
+{"id": "tavi95", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉的碗", "a": "geik dzo jeit"}
+{"id": "tavi96", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae phy zae", "a": "瓶是湿的"}
+{"id": "tavi97", "task": "c2s", "q": "把这句中文翻译成Tavi语：网和车", "a": "dei gwa fou"}
+{"id": "tavi98", "task": "gloss", "q": "Tavi语词“fouk”用中文怎么说？", "a": "笛"}
+{"id": "tavi99", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐是深的", "a": "jy phy fak"}
+{"id": "tavi100", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘是重的", "a": "dak phy hei"}
+{"id": "tavi101", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei gwa hae", "a": "塔和窗"}
+{"id": "tavi102", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流和月亮", "a": "deik gwa vaet"}
+{"id": "tavi103", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽的笛", "a": "zaet dzo fouk"}
+{"id": "tavi104", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk dzo vei", "a": "门的镜"}
+{"id": "tavi105", "task": "gloss", "q": "Tavi语词“hyk”用中文怎么说？", "a": "暗"}
+{"id": "tavi106", "task": "gloss", "q": "Tavi语词“vyk”用中文怎么说？", "a": "桥"}
+{"id": "tavi107", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet gwa ja", "a": "席和火"}
+{"id": "tavi108", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik phy hyk", "a": "河流是暗的"}
+{"id": "tavi109", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk dzo jeit", "a": "水的碗"}
+{"id": "tavi110", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和布", "a": "baet gwa gae"}
+{"id": "tavi111", "task": "c2s", "q": "把这句中文翻译成Tavi语：席和砚", "a": "faet gwa gei"}
+{"id": "tavi112", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak phy vae", "a": "算盘是窄的"}
+{"id": "tavi113", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet gwa gae", "a": "树和布"}
+{"id": "tavi114", "task": "gloss", "q": "Tavi语词“fat”用中文怎么说？", "a": "笔"}
+{"id": "tavi115", "task": "c2s", "q": "把这句中文翻译成Tavi语：车和算盘", "a": "fou gwa dak"}
+{"id": "tavi116", "task": "c2s", "q": "把这句中文翻译成Tavi语：云的井", "a": "deit dzo beik"}
+{"id": "tavi117", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和花", "a": "baet gwa by"}
+{"id": "tavi118", "task": "c2s", "q": "把这句中文翻译成Tavi语：门的笛", "a": "jyk dzo fouk"}
+{"id": "tavi119", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat dzo zat", "a": "山的刀"}
+{"id": "tavi120", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和鼓", "a": "vei gwa dyk"}
+{"id": "tavi121", "task": "s2c", "q": "把这句Tavi语翻译成中文：by dzo jyk", "a": "花的门"}
+{"id": "tavi122", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯是香的", "a": "jei phy jyt"}
+{"id": "tavi123", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk gwa zat", "a": "水和刀"}
+{"id": "tavi124", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei phy feit", "a": "塔是甜的"}
+{"id": "tavi125", "task": "gloss", "q": "Tavi语词“zat”用中文怎么说？", "a": "刀"}
+{"id": "tavi126", "task": "c2s", "q": "把这句中文翻译成Tavi语：针和米", "a": "fa gwa bak"}
+{"id": "tavi127", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk gwa zou", "a": "叶子和船"}
+{"id": "tavi128", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk dzo zeit", "a": "茶的鞋"}
+{"id": "tavi129", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa vaek", "a": "云和伞"}
+{"id": "tavi130", "task": "gloss", "q": "Tavi语词“zouk”用中文怎么说？", "a": "水"}
+{"id": "tavi131", "task": "c2s", "q": "把这句中文翻译成Tavi语：火的门", "a": "ja dzo jyk"}
+{"id": "tavi132", "task": "gloss", "q": "Tavi语词“byk”用中文怎么说？", "a": "雪"}
+{"id": "tavi133", "task": "gloss", "q": "Tavi语词“houk”用中文怎么说？", "a": "硬"}
+{"id": "tavi134", "task": "gloss", "q": "Tavi语词“zat”用中文怎么说？", "a": "刀"}
+{"id": "tavi135", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt phy heik", "a": "鸟是热的"}
+{"id": "tavi136", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk gwa hae", "a": "笛和窗"}
+{"id": "tavi137", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸和米", "a": "jou gwa bak"}
+{"id": "tavi138", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐和墨", "a": "jy gwa feik"}
+{"id": "tavi139", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk gwa vei", "a": "雪和镜"}
+{"id": "tavi140", "task": "c2s", "q": "把这句中文翻译成Tavi语：席的笛", "a": "faet dzo fouk"}
+{"id": "tavi141", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek gwa byk", "a": "伞和雪"}
+{"id": "tavi142", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥是旧的", "a": "vyk phy fy"}
+{"id": "tavi143", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉是慢的", "a": "geik phy dy"}
+{"id": "tavi144", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk gwa ga", "a": "桥和马"}
+{"id": "tavi145", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou phy geit", "a": "纸是臭的"}
+{"id": "tavi146", "task": "gloss", "q": "Tavi语词“byk”用中文怎么说？", "a": "雪"}
+{"id": "tavi147", "task": "gloss", "q": "Tavi语词“vae”用中文怎么说？", "a": "窄"}
+{"id": "tavi148", "task": "gloss", "q": "Tavi语词“bei”用中文怎么说？", "a": "小"}
+{"id": "tavi149", "task": "gloss", "q": "Tavi语词“dyt”用中文怎么说？", "a": "苦"}
+{"id": "tavi150", "task": "c2s", "q": "把这句中文翻译成Tavi语：米的线", "a": "bak dzo gak"}
+{"id": "tavi151", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou phy jyt", "a": "船是香的"}
+{"id": "tavi152", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou phy jyt", "a": "船是香的"}
+{"id": "tavi153", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat dzo jout", "a": "山的衣"}
+{"id": "tavi154", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet dzo jyk", "a": "路的门"}
+{"id": "tavi155", "task": "gloss", "q": "Tavi语词“bat”用中文怎么说？", "a": "白"}
+{"id": "tavi156", "task": "gloss", "q": "Tavi语词“feik”用中文怎么说？", "a": "墨"}
+{"id": "tavi157", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨的塔", "a": "feik dzo zei"}
+{"id": "tavi158", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨和炉", "a": "feik gwa geik"}
+{"id": "tavi159", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨和叶子", "a": "feik gwa gouk"}
+{"id": "tavi160", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa fouk", "a": "窗和笛"}
+{"id": "tavi161", "task": "gloss", "q": "Tavi语词“geit”用中文怎么说？", "a": "臭"}
+{"id": "tavi162", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt dzo dak", "a": "鸟的算盘"}
+{"id": "tavi163", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat dzo vyt", "a": "笔的鸟"}
+{"id": "tavi164", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei dzo zat", "a": "网的刀"}
+{"id": "tavi165", "task": "c2s", "q": "把这句中文翻译成Tavi语：线和刀", "a": "gak gwa zat"}
+{"id": "tavi166", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja gwa jyk", "a": "火和门"}
+{"id": "tavi167", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa gwa vaet", "a": "针和月亮"}
+{"id": "tavi168", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik gwa feik", "a": "炉和墨"}
+{"id": "tavi169", "task": "c2s", "q": "把这句中文翻译成Tavi语：针的墨", "a": "fa dzo feik"}
+{"id": "tavi170", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟是窄的", "a": "vyt phy vae"}
+{"id": "tavi171", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和船", "a": "vei gwa zou"}
+{"id": "tavi172", "task": "gloss", "q": "Tavi语词“vae”用中文怎么说？", "a": "窄"}
+{"id": "tavi173", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei dzo jyk", "a": "鱼的门"}
+{"id": "tavi174", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜的马", "a": "vei dzo ga"}
+{"id": "tavi175", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo jei", "a": "马的灯"}
+{"id": "tavi176", "task": "c2s", "q": "把这句中文翻译成Tavi语：门是小的", "a": "jyk phy bei"}
+{"id": "tavi177", "task": "gloss", "q": "Tavi语词“hae”用中文怎么说？", "a": "窗"}
+{"id": "tavi178", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei phy vouk", "a": "灯是浅的"}
+{"id": "tavi179", "task": "c2s", "q": "把这句中文翻译成Tavi语：线是大的", "a": "gak phy fyt"}
+{"id": "tavi180", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak dzo gyk", "a": "钟的茶"}
+{"id": "tavi181", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮的布", "a": "vaet dzo gae"}
+{"id": "tavi182", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout gwa deik", "a": "衣和河流"}
+{"id": "tavi183", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa fae", "a": "路和瓶"}
+{"id": "tavi184", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat gwa jyk", "a": "山和门"}
+{"id": "tavi185", "task": "gloss", "q": "Tavi语词“jaet”用中文怎么说？", "a": "树"}
+{"id": "tavi186", "task": "s2c", "q": "把这句Tavi语翻译成中文：za dzo dei", "a": "书的网"}
+{"id": "tavi187", "task": "c2s", "q": "把这句中文翻译成Tavi语：水和马", "a": "zouk gwa ga"}
+{"id": "tavi188", "task": "c2s", "q": "把这句中文翻译成Tavi语：网的帽", "a": "dei dzo zaet"}
+{"id": "tavi189", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek dzo fa", "a": "伞的针"}
+{"id": "tavi190", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet dzo fa", "a": "石头的针"}
+{"id": "tavi191", "task": "gloss", "q": "Tavi语词“fak”用中文怎么说？", "a": "深"}
+{"id": "tavi192", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy baek", "a": "月亮是红的"}
+{"id": "tavi193", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟是慢的", "a": "vak phy dy"}
+{"id": "tavi194", "task": "gloss", "q": "Tavi语词“deit”用中文怎么说？", "a": "云"}
+{"id": "tavi195", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy dzo byk", "a": "盐的雪"}
+{"id": "tavi196", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat phy beit", "a": "山是圆的"}
+{"id": "tavi197", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga gwa gouk", "a": "马和叶子"}
+{"id": "tavi198", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei gwa hyt", "a": "网和绳"}
+{"id": "tavi199", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak gwa zat", "a": "算盘和刀"}
+{"id": "tavi200", "task": "gloss", "q": "Tavi语词“geit”用中文怎么说？", "a": "臭"}
+{"id": "tavi201", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae phy bat", "a": "布是白的"}
+{"id": "tavi202", "task": "gloss", "q": "Tavi语词“fei”用中文怎么说？", "a": "鱼"}
+{"id": "tavi203", "task": "c2s", "q": "把这句中文翻译成Tavi语：针和线", "a": "fa gwa gak"}
+{"id": "tavi204", "task": "c2s", "q": "把这句中文翻译成Tavi语：线和席", "a": "gak gwa faet"}
+{"id": "tavi205", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔的纸", "a": "fat dzo jou"}
+{"id": "tavi206", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik gwa jyk", "a": "河流和门"}
+{"id": "tavi207", "task": "c2s", "q": "把这句中文翻译成Tavi语：井和山", "a": "beik gwa dat"}
+{"id": "tavi208", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae dzo hae", "a": "布的窗"}
+{"id": "tavi209", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的灯", "a": "jy dzo jei"}
+{"id": "tavi210", "task": "gloss", "q": "Tavi语词“fat”用中文怎么说？", "a": "笔"}
+{"id": "tavi211", "task": "c2s", "q": "把这句中文翻译成Tavi语：船是方的", "a": "zou phy zyt"}
+{"id": "tavi212", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼和炉", "a": "fei gwa geik"}
+{"id": "tavi213", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet gwa fei", "a": "月亮和鱼"}
+{"id": "tavi214", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae dzo vak", "a": "窗的钟"}
+{"id": "tavi215", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout dzo zeit", "a": "衣的鞋"}
+{"id": "tavi216", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的碗", "a": "jy dzo jeit"}
+{"id": "tavi217", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk gwa gouk", "a": "茶和叶子"}
+{"id": "tavi218", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa jyk", "a": "瓶和门"}
+{"id": "tavi219", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet gwa fae", "a": "石头和瓶"}
+{"id": "tavi220", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt dzo dat", "a": "鸟的山"}
+{"id": "tavi221", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子和花", "a": "gouk gwa by"}
+{"id": "tavi222", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔是湿的", "a": "zei phy zae"}
+{"id": "tavi223", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet phy jat", "a": "帽是新的"}
+{"id": "tavi224", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik phy gout", "a": "炉是快的"}
+{"id": "tavi225", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak dzo zou", "a": "米的船"}
+{"id": "tavi226", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik gwa za", "a": "河流和书"}
+{"id": "tavi227", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔的车", "a": "fat dzo fou"}
+{"id": "tavi228", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚和盐", "a": "gei gwa jy"}
+{"id": "tavi229", "task": "gloss", "q": "Tavi语词“fy”用中文怎么说？", "a": "旧"}
+{"id": "tavi230", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞的砚", "a": "vaek dzo gei"}
+{"id": "tavi231", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit dzo bak", "a": "碗的米"}
+{"id": "tavi232", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy beit", "a": "云是圆的"}
+{"id": "tavi233", "task": "gloss", "q": "Tavi语词“fyt”用中文怎么说？", "a": "大"}
+{"id": "tavi234", "task": "gloss", "q": "Tavi语词“fouk”用中文怎么说？", "a": "笛"}
+{"id": "tavi235", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa jy", "a": "云和盐"}
+{"id": "tavi236", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek dzo fae", "a": "伞的瓶"}
+{"id": "tavi237", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak phy gout", "a": "钟是快的"}
+{"id": "tavi238", "task": "c2s", "q": "把这句中文翻译成Tavi语：席和船", "a": "faet gwa zou"}
+{"id": "tavi239", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶是小的", "a": "fae phy bei"}
+{"id": "tavi240", "task": "gloss", "q": "Tavi语词“by”用中文怎么说？", "a": "花"}
+{"id": "tavi241", "task": "gloss", "q": "Tavi语词“heik”用中文怎么说？", "a": "热"}
+{"id": "tavi242", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯和刀", "a": "jei gwa zat"}
+{"id": "tavi243", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk phy fak", "a": "桥是深的"}
+{"id": "tavi244", "task": "gloss", "q": "Tavi语词“fy”用中文怎么说？", "a": "旧"}
+{"id": "tavi245", "task": "gloss", "q": "Tavi语词“hyt”用中文怎么说？", "a": "绳"}
+{"id": "tavi246", "task": "c2s", "q": "把这句中文翻译成Tavi语：水的刀", "a": "zouk dzo zat"}
+{"id": "tavi247", "task": "gloss", "q": "Tavi语词“gouk”用中文怎么说？", "a": "叶子"}
+{"id": "tavi248", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat phy fy", "a": "山是旧的"}
+{"id": "tavi249", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛的笔", "a": "fouk dzo fat"}
+{"id": "tavi250", "task": "gloss", "q": "Tavi语词“fouk”用中文怎么说？", "a": "笛"}
+{"id": "tavi251", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa phy bat", "a": "针是白的"}
+{"id": "tavi252", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮是湿的", "a": "vaet phy zae"}
+{"id": "tavi253", "task": "gloss", "q": "Tavi语词“dyk”用中文怎么说？", "a": "鼓"}
+{"id": "tavi254", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy veik", "a": "云是软的"}
+{"id": "tavi255", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei dzo fa", "a": "镜的针"}
+{"id": "tavi256", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo deit", "a": "马的云"}
+{"id": "tavi257", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼是轻的", "a": "fei phy gy"}
+{"id": "tavi258", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳和窗", "a": "hyt gwa hae"}
+{"id": "tavi259", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi260", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳的算盘", "a": "hyt dzo dak"}
+{"id": "tavi261", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的车", "a": "jout dzo fou"}
+{"id": "tavi262", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的布", "a": "jy dzo gae"}
+{"id": "tavi263", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk phy fyt", "a": "门是大的"}
+{"id": "tavi264", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik phy ha", "a": "井是冷的"}
+{"id": "tavi265", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk dzo jaet", "a": "叶子的树"}
+{"id": "tavi266", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei gwa zeit", "a": "灯和鞋"}
+{"id": "tavi267", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet gwa jout", "a": "席和衣"}
+{"id": "tavi268", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet dzo vyt", "a": "月亮的鸟"}
+{"id": "tavi269", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是甜的", "a": "dat phy feit"}
+{"id": "tavi270", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja phy beit", "a": "火是圆的"}
+{"id": "tavi271", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa fou", "a": "路和车"}
+{"id": "tavi272", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga phy hat", "a": "马是干的"}
+{"id": "tavi273", "task": "c2s", "q": "把这句中文翻译成Tavi语：路是红的", "a": "haet phy baek"}
+{"id": "tavi274", "task": "c2s", "q": "把这句中文翻译成Tavi语：线和雪", "a": "gak gwa byk"}
+{"id": "tavi275", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit phy bei", "a": "鞋是小的"}
+{"id": "tavi276", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik dzo deik", "a": "炉的河流"}
+{"id": "tavi277", "task": "gloss", "q": "Tavi语词“bei”用中文怎么说？", "a": "小"}
+{"id": "tavi278", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei dzo vak", "a": "砚的钟"}
+{"id": "tavi279", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou dzo bak", "a": "船的米"}
+{"id": "tavi280", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy hat", "a": "墨是干的"}
+{"id": "tavi281", "task": "gloss", "q": "Tavi语词“ga”用中文怎么说？", "a": "马"}
+{"id": "tavi282", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和伞", "a": "vei gwa vaek"}
+{"id": "tavi283", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶是旧的", "a": "fae phy fy"}
+{"id": "tavi284", "task": "s2c", "q": "把这句Tavi语翻译成中文：za dzo gae", "a": "书的布"}
+{"id": "tavi285", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗的石头", "a": "hae dzo baet"}
+{"id": "tavi286", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei phy veik", "a": "砚是软的"}
+{"id": "tavi287", "task": "gloss", "q": "Tavi语词“houk”用中文怎么说？", "a": "硬"}
+{"id": "tavi288", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和茶", "a": "vei gwa gyk"}
+{"id": "tavi289", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀是旧的", "a": "zat phy fy"}
+{"id": "tavi290", "task": "c2s", "q": "把这句中文翻译成Tavi语：山和衣", "a": "dat gwa jout"}
+{"id": "tavi291", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟和刀", "a": "vyt gwa zat"}
+{"id": "tavi292", "task": "c2s", "q": "把这句中文翻译成Tavi语：马和石头", "a": "ga gwa baet"}
+{"id": "tavi293", "task": "gloss", "q": "Tavi语词“zyt”用中文怎么说？", "a": "方"}
+{"id": "tavi294", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei gwa gouk", "a": "鱼和叶子"}
+{"id": "tavi295", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik gwa haet", "a": "墨和路"}
+{"id": "tavi296", "task": "c2s", "q": "把这句中文翻译成Tavi语：井和笛", "a": "beik gwa fouk"}
+{"id": "tavi297", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚是臭的", "a": "gei phy geit"}
+{"id": "tavi298", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的树", "a": "za dzo jaet"}
+{"id": "tavi299", "task": "gloss", "q": "Tavi语词“gae”用中文怎么说？", "a": "布"}
+{"id": "tavi300", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗的笔", "a": "jeit dzo fat"}
+{"id": "tavi301", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak dzo gouk", "a": "钟的叶子"}
+{"id": "tavi302", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk gwa vei", "a": "笛和镜"}
+{"id": "tavi303", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶的席", "a": "fae dzo faet"}
+{"id": "tavi304", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat dzo hyt", "a": "山的绳"}
+{"id": "tavi305", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣是甜的", "a": "jout phy feit"}
+{"id": "tavi306", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae dzo vei", "a": "瓶的镜"}
+{"id": "tavi307", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik gwa dak", "a": "墨和算盘"}
+{"id": "tavi308", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik dzo vyk", "a": "炉的桥"}
+{"id": "tavi309", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae dzo za", "a": "窗的书"}
+{"id": "tavi310", "task": "gloss", "q": "Tavi语词“ga”用中文怎么说？", "a": "马"}
+{"id": "tavi311", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流和纸", "a": "deik gwa jou"}
+{"id": "tavi312", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞和算盘", "a": "vaek gwa dak"}
+{"id": "tavi313", "task": "gloss", "q": "Tavi语词“jyt”用中文怎么说？", "a": "香"}
+{"id": "tavi314", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀和船", "a": "zat gwa zou"}
+{"id": "tavi315", "task": "s2c", "q": "把这句Tavi语翻译成中文：za phy hyk", "a": "书是暗的"}
+{"id": "tavi316", "task": "gloss", "q": "Tavi语词“veik”用中文怎么说？", "a": "软"}
+{"id": "tavi317", "task": "s2c", "q": "把这句Tavi语翻译成中文：by phy bat", "a": "花是白的"}
+{"id": "tavi318", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa vaet", "a": "窗和月亮"}
+{"id": "tavi319", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶是亮的", "a": "gyk phy bouk"}
+{"id": "tavi320", "task": "gloss", "q": "Tavi语词“jyt”用中文怎么说？", "a": "香"}
+{"id": "tavi321", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik dzo jeit", "a": "河流的碗"}
+{"id": "tavi322", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk dzo za", "a": "笛的书"}
+{"id": "tavi323", "task": "gloss", "q": "Tavi语词“veik”用中文怎么说？", "a": "软"}
+{"id": "tavi324", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi325", "task": "gloss", "q": "Tavi语词“geit”用中文怎么说？", "a": "臭"}
+{"id": "tavi326", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk gwa vaek", "a": "桥和伞"}
+{"id": "tavi327", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt dzo fouk", "a": "绳的笛"}
+{"id": "tavi328", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟是暗的", "a": "vak phy hyk"}
+{"id": "tavi329", "task": "c2s", "q": "把这句中文翻译成Tavi语：水的笔", "a": "zouk dzo fat"}
+{"id": "tavi330", "task": "gloss", "q": "Tavi语词“jyt”用中文怎么说？", "a": "香"}
+{"id": "tavi331", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik dzo fae", "a": "井的瓶"}
+{"id": "tavi332", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪和鱼", "a": "byk gwa fei"}
+{"id": "tavi333", "task": "c2s", "q": "把这句中文翻译成Tavi语：树和针", "a": "jaet gwa fa"}
+{"id": "tavi334", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi335", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou dzo bak", "a": "纸的米"}
+{"id": "tavi336", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak phy vouk", "a": "钟是浅的"}
+{"id": "tavi337", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik dzo faet", "a": "墨的席"}
+{"id": "tavi338", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou gwa gyk", "a": "船和茶"}
+{"id": "tavi339", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae phy fyt", "a": "窗是大的"}
+{"id": "tavi340", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk dzo zaet", "a": "叶子的帽"}
+{"id": "tavi341", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae dzo zei", "a": "布的塔"}
+{"id": "tavi342", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶的瓶", "a": "fae dzo fae"}
+{"id": "tavi343", "task": "c2s", "q": "把这句中文翻译成Tavi语：网是方的", "a": "dei phy zyt"}
+{"id": "tavi344", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet phy dy", "a": "路是慢的"}
+{"id": "tavi345", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy dy", "a": "墨是慢的"}
+{"id": "tavi346", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek dzo dei", "a": "伞的网"}
+{"id": "tavi347", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet dzo zat", "a": "路的刀"}
+{"id": "tavi348", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt gwa vaet", "a": "绳和月亮"}
+{"id": "tavi349", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja phy fyt", "a": "火是大的"}
+{"id": "tavi350", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk gwa vaet", "a": "桥和月亮"}
+{"id": "tavi351", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的伞", "a": "jout dzo vaek"}
+{"id": "tavi352", "task": "c2s", "q": "把这句中文翻译成Tavi语：火和镜", "a": "ja gwa vei"}
+{"id": "tavi353", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi354", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei phy fyt", "a": "鱼是大的"}
+{"id": "tavi355", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei dzo vei", "a": "网的镜"}
+{"id": "tavi356", "task": "gloss", "q": "Tavi语词“byk”用中文怎么说？", "a": "雪"}
+{"id": "tavi357", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga gwa gouk", "a": "马和叶子"}
+{"id": "tavi358", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet dzo jou", "a": "席的纸"}
+{"id": "tavi359", "task": "c2s", "q": "把这句中文翻译成Tavi语：火的钟", "a": "ja dzo vak"}
+{"id": "tavi360", "task": "s2c", "q": "把这句Tavi语翻译成中文：by phy ha", "a": "花是冷的"}
+{"id": "tavi361", "task": "gloss", "q": "Tavi语词“beik”用中文怎么说？", "a": "井"}
+{"id": "tavi362", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat gwa fouk", "a": "山和笛"}
+{"id": "tavi363", "task": "gloss", "q": "Tavi语词“vyt”用中文怎么说？", "a": "鸟"}
+{"id": "tavi364", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae gwa byk", "a": "布和雪"}
+{"id": "tavi365", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik dzo gei", "a": "炉的砚"}
+{"id": "tavi366", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟和船", "a": "vak gwa zou"}
+{"id": "tavi367", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak phy hei", "a": "算盘是重的"}
+{"id": "tavi368", "task": "c2s", "q": "把这句中文翻译成Tavi语：井和纸", "a": "beik gwa jou"}
+{"id": "tavi369", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo hae", "a": "塔的窗"}
+{"id": "tavi370", "task": "gloss", "q": "Tavi语词“jout”用中文怎么说？", "a": "衣"}
+{"id": "tavi371", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流的炉", "a": "deik dzo geik"}
+{"id": "tavi372", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei dzo vaek", "a": "网的伞"}
+{"id": "tavi373", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo ga", "a": "马的马"}
+{"id": "tavi374", "task": "c2s", "q": "把这句中文翻译成Tavi语：线是小的", "a": "gak phy bei"}
+{"id": "tavi375", "task": "c2s", "q": "把这句中文翻译成Tavi语：火的鼓", "a": "ja dzo dyk"}
+{"id": "tavi376", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi377", "task": "c2s", "q": "把这句中文翻译成Tavi语：米的伞", "a": "bak dzo vaek"}
+{"id": "tavi378", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头是方的", "a": "baet phy zyt"}
+{"id": "tavi379", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛和米", "a": "fouk gwa bak"}
+{"id": "tavi380", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo feik", "a": "马的墨"}
+{"id": "tavi381", "task": "gloss", "q": "Tavi语词“fou”用中文怎么说？", "a": "车"}
+{"id": "tavi382", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat dzo vyk", "a": "笔的桥"}
+{"id": "tavi383", "task": "c2s", "q": "把这句中文翻译成Tavi语：路的瓶", "a": "haet dzo fae"}
+{"id": "tavi384", "task": "c2s", "q": "把这句中文翻译成Tavi语：山的线", "a": "dat dzo gak"}
+{"id": "tavi385", "task": "c2s", "q": "把这句中文翻译成Tavi语：车和船", "a": "fou gwa zou"}
+{"id": "tavi386", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk dzo deit", "a": "门的云"}
+{"id": "tavi387", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa gae", "a": "瓶和布"}
+{"id": "tavi388", "task": "gloss", "q": "Tavi语词“ha”用中文怎么说？", "a": "冷"}
+{"id": "tavi389", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy vae", "a": "茶是窄的"}
+{"id": "tavi390", "task": "gloss", "q": "Tavi语词“deik”用中文怎么说？", "a": "河流"}
+{"id": "tavi391", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae phy dou", "a": "瓶是宽的"}
+{"id": "tavi392", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak dzo vyt", "a": "算盘的鸟"}
+{"id": "tavi393", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪和炉", "a": "byk gwa geik"}
+{"id": "tavi394", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou phy fyt", "a": "车是大的"}
+{"id": "tavi395", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨是暗的", "a": "feik phy hyk"}
+{"id": "tavi396", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik gwa za", "a": "河流和书"}
+{"id": "tavi397", "task": "gloss", "q": "Tavi语词“by”用中文怎么说？", "a": "花"}
+{"id": "tavi398", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit gwa by", "a": "鞋和花"}
+{"id": "tavi399", "task": "gloss", "q": "Tavi语词“jak”用中文怎么说？", "a": "黑"}
+{"id": "tavi400", "task": "gloss", "q": "Tavi语词“jak”用中文怎么说？", "a": "黑"}
+{"id": "tavi401", "task": "c2s", "q": "把这句中文翻译成Tavi语：网和船", "a": "dei gwa zou"}
+{"id": "tavi402", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗是软的", "a": "hae phy veik"}
+{"id": "tavi403", "task": "c2s", "q": "把这句中文翻译成Tavi语：水是亮的", "a": "zouk phy bouk"}
+{"id": "tavi404", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet phy ha", "a": "石头是冷的"}
+{"id": "tavi405", "task": "gloss", "q": "Tavi语词“bei”用中文怎么说？", "a": "小"}
+{"id": "tavi406", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae phy fy", "a": "布是旧的"}
+{"id": "tavi407", "task": "gloss", "q": "Tavi语词“vae”用中文怎么说？", "a": "窄"}
+{"id": "tavi408", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk gwa gyk", "a": "桥和茶"}
+{"id": "tavi409", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae dzo haet", "a": "瓶的路"}
+{"id": "tavi410", "task": "c2s", "q": "把这句中文翻译成Tavi语：布是新的", "a": "gae phy jat"}
+{"id": "tavi411", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶的炉", "a": "fae dzo geik"}
+{"id": "tavi412", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou dzo zat", "a": "纸的刀"}
+{"id": "tavi413", "task": "c2s", "q": "把这句中文翻译成Tavi语：书是窄的", "a": "za phy vae"}
+{"id": "tavi414", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja dzo gyk", "a": "火的茶"}
+{"id": "tavi415", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚是臭的", "a": "gei phy geit"}
+{"id": "tavi416", "task": "gloss", "q": "Tavi语词“veik”用中文怎么说？", "a": "软"}
+{"id": "tavi417", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou phy geit", "a": "车是臭的"}
+{"id": "tavi418", "task": "gloss", "q": "Tavi语词“zae”用中文怎么说？", "a": "湿"}
+{"id": "tavi419", "task": "c2s", "q": "把这句中文翻译成Tavi语：针是快的", "a": "fa phy gout"}
+{"id": "tavi420", "task": "gloss", "q": "Tavi语词“veik”用中文怎么说？", "a": "软"}
+{"id": "tavi421", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet gwa gei", "a": "帽和砚"}
+{"id": "tavi422", "task": "gloss", "q": "Tavi语词“houk”用中文怎么说？", "a": "硬"}
+{"id": "tavi423", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa fa", "a": "云和针"}
+{"id": "tavi424", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔和镜", "a": "fat gwa vei"}
+{"id": "tavi425", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae dzo jeit", "a": "布的碗"}
+{"id": "tavi426", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮和雪", "a": "vaet gwa byk"}
+{"id": "tavi427", "task": "c2s", "q": "把这句中文翻译成Tavi语：车的月亮", "a": "fou dzo vaet"}
+{"id": "tavi428", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa dzo vaek", "a": "针的伞"}
+{"id": "tavi429", "task": "gloss", "q": "Tavi语词“hat”用中文怎么说？", "a": "干"}
+{"id": "tavi430", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk gwa by", "a": "雪和花"}
+{"id": "tavi431", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi432", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei phy dyt", "a": "镜是苦的"}
+{"id": "tavi433", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟的伞", "a": "vyt dzo vaek"}
+{"id": "tavi434", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei phy bouk", "a": "鱼是亮的"}
+{"id": "tavi435", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek gwa dat", "a": "伞和山"}
+{"id": "tavi436", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi437", "task": "gloss", "q": "Tavi语词“ga”用中文怎么说？", "a": "马"}
+{"id": "tavi438", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak dzo zei", "a": "米的塔"}
+{"id": "tavi439", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou dzo gouk", "a": "船的叶子"}
+{"id": "tavi440", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat dzo bak", "a": "山的米"}
+{"id": "tavi441", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat dzo vak", "a": "笔的钟"}
+{"id": "tavi442", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼是硬的", "a": "fei phy houk"}
+{"id": "tavi443", "task": "s2c", "q": "把这句Tavi语翻译成中文：za gwa jei", "a": "书和灯"}
+{"id": "tavi444", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet phy baek", "a": "帽是红的"}
+{"id": "tavi445", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼的钟", "a": "fei dzo vak"}
+{"id": "tavi446", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet phy bei", "a": "路是小的"}
+{"id": "tavi447", "task": "c2s", "q": "把这句中文翻译成Tavi语：马和席", "a": "ga gwa faet"}
+{"id": "tavi448", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的衣", "a": "za dzo jout"}
+{"id": "tavi449", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout gwa zei", "a": "衣和塔"}
+{"id": "tavi450", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit dzo fou", "a": "鞋的车"}
+{"id": "tavi451", "task": "gloss", "q": "Tavi语词“fyt”用中文怎么说？", "a": "大"}
+{"id": "tavi452", "task": "gloss", "q": "Tavi语词“gae”用中文怎么说？", "a": "布"}
+{"id": "tavi453", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和灯", "a": "deit gwa jei"}
+{"id": "tavi454", "task": "gloss", "q": "Tavi语词“dyk”用中文怎么说？", "a": "鼓"}
+{"id": "tavi455", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei phy hat", "a": "塔是干的"}
+{"id": "tavi456", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek gwa zouk", "a": "伞和水"}
+{"id": "tavi457", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei phy dy", "a": "鱼是慢的"}
+{"id": "tavi458", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat phy bei", "a": "山是小的"}
+{"id": "tavi459", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa vaek", "a": "路和伞"}
+{"id": "tavi460", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟和绳", "a": "vak gwa hyt"}
+{"id": "tavi461", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽和车", "a": "zaet gwa fou"}
+{"id": "tavi462", "task": "gloss", "q": "Tavi语词“zei”用中文怎么说？", "a": "塔"}
+{"id": "tavi463", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨是深的", "a": "feik phy fak"}
+{"id": "tavi464", "task": "gloss", "q": "Tavi语词“deit”用中文怎么说？", "a": "云"}
+{"id": "tavi465", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik dzo vaet", "a": "河流的月亮"}
+{"id": "tavi466", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet phy vouk", "a": "席是浅的"}
+{"id": "tavi467", "task": "gloss", "q": "Tavi语词“heik”用中文怎么说？", "a": "热"}
+{"id": "tavi468", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae dzo bak", "a": "窗的米"}
+{"id": "tavi469", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶和钟", "a": "gyk gwa vak"}
+{"id": "tavi470", "task": "c2s", "q": "把这句中文翻译成Tavi语：水的网", "a": "zouk dzo dei"}
+{"id": "tavi471", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋的砚", "a": "zeit dzo gei"}
+{"id": "tavi472", "task": "gloss", "q": "Tavi语词“dyt”用中文怎么说？", "a": "苦"}
+{"id": "tavi473", "task": "gloss", "q": "Tavi语词“hat”用中文怎么说？", "a": "干"}
+{"id": "tavi474", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk dzo gak", "a": "叶子的线"}
+{"id": "tavi475", "task": "gloss", "q": "Tavi语词“ga”用中文怎么说？", "a": "马"}
+{"id": "tavi476", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo jei", "a": "塔的灯"}
+{"id": "tavi477", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik gwa jei", "a": "炉和灯"}
+{"id": "tavi478", "task": "gloss", "q": "Tavi语词“jeit”用中文怎么说？", "a": "碗"}
+{"id": "tavi479", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy phy hyk", "a": "盐是暗的"}
+{"id": "tavi480", "task": "gloss", "q": "Tavi语词“dat”用中文怎么说？", "a": "山"}
+{"id": "tavi481", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet dzo zat", "a": "树的刀"}
+{"id": "tavi482", "task": "gloss", "q": "Tavi语词“dei”用中文怎么说？", "a": "网"}
+{"id": "tavi483", "task": "c2s", "q": "把这句中文翻译成Tavi语：火是宽的", "a": "ja phy dou"}
+{"id": "tavi484", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou dzo beik", "a": "纸的井"}
+{"id": "tavi485", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou gwa vei", "a": "船和镜"}
+{"id": "tavi486", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout phy hat", "a": "衣是干的"}
+{"id": "tavi487", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout gwa jout", "a": "衣和衣"}
+{"id": "tavi488", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat gwa gae", "a": "刀和布"}
+{"id": "tavi489", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa gwa gei", "a": "针和砚"}
+{"id": "tavi490", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳和帽", "a": "hyt gwa zaet"}
+{"id": "tavi491", "task": "gloss", "q": "Tavi语词“faet”用中文怎么说？", "a": "席"}
+{"id": "tavi492", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk phy zae", "a": "雪是湿的"}
+{"id": "tavi493", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋和钟", "a": "zeit gwa vak"}
+{"id": "tavi494", "task": "gloss", "q": "Tavi语词“zyt”用中文怎么说？", "a": "方"}
+{"id": "tavi495", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou phy jyt", "a": "纸是香的"}
+{"id": "tavi496", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和钟", "a": "baet gwa vak"}
+{"id": "tavi497", "task": "gloss", "q": "Tavi语词“dyk”用中文怎么说？", "a": "鼓"}
+{"id": "tavi498", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy feit", "a": "月亮是甜的"}
+{"id": "tavi499", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi500", "task": "gloss", "q": "Tavi语词“beik”用中文怎么说？", "a": "井"}
+{"id": "tavi501", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟的灯", "a": "vyt dzo jei"}
+{"id": "tavi502", "task": "gloss", "q": "Tavi语词“beit”用中文怎么说？", "a": "圆"}
+{"id": "tavi503", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk dzo fat", "a": "笛的笔"}
+{"id": "tavi504", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy dzo jy", "a": "盐的盐"}
+{"id": "tavi505", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak gwa fae", "a": "钟和瓶"}
+{"id": "tavi506", "task": "gloss", "q": "Tavi语词“gak”用中文怎么说？", "a": "线"}
+{"id": "tavi507", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat phy vae", "a": "山是窄的"}
+{"id": "tavi508", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa dzo byk", "a": "针的雪"}
+{"id": "tavi509", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit dzo vak", "a": "碗的钟"}
+{"id": "tavi510", "task": "c2s", "q": "把这句中文翻译成Tavi语：车是新的", "a": "fou phy jat"}
+{"id": "tavi511", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜的车", "a": "vei dzo fou"}
+{"id": "tavi512", "task": "gloss", "q": "Tavi语词“zou”用中文怎么说？", "a": "船"}
+{"id": "tavi513", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk gwa gei", "a": "鼓和砚"}
+{"id": "tavi514", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的车", "a": "za dzo fou"}
+{"id": "tavi515", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik dzo za", "a": "炉的书"}
+{"id": "tavi516", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei phy bouk", "a": "灯是亮的"}
+{"id": "tavi517", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨和线", "a": "feik gwa gak"}
+{"id": "tavi518", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟和塔", "a": "vyt gwa zei"}
+{"id": "tavi519", "task": "gloss", "q": "Tavi语词“baet”用中文怎么说？", "a": "石头"}
+{"id": "tavi520", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk phy hat", "a": "笛是干的"}
+{"id": "tavi521", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi522", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼是热的", "a": "fei phy heik"}
+{"id": "tavi523", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的船", "a": "dyk dzo zou"}
+{"id": "tavi524", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy phy fak", "a": "盐是深的"}
+{"id": "tavi525", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐是甜的", "a": "jy phy feit"}
+{"id": "tavi526", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的路", "a": "dyk dzo haet"}
+{"id": "tavi527", "task": "gloss", "q": "Tavi语词“feik”用中文怎么说？", "a": "墨"}
+{"id": "tavi528", "task": "gloss", "q": "Tavi语词“gak”用中文怎么说？", "a": "线"}
+{"id": "tavi529", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋的云", "a": "zeit dzo deit"}
+{"id": "tavi530", "task": "gloss", "q": "Tavi语词“dat”用中文怎么说？", "a": "山"}
+{"id": "tavi531", "task": "gloss", "q": "Tavi语词“veik”用中文怎么说？", "a": "软"}
+{"id": "tavi532", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸是方的", "a": "jou phy zyt"}
+{"id": "tavi533", "task": "c2s", "q": "把这句中文翻译成Tavi语：布的碗", "a": "gae dzo jeit"}
+{"id": "tavi534", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子是热的", "a": "gouk phy heik"}
+{"id": "tavi535", "task": "gloss", "q": "Tavi语词“feik”用中文怎么说？", "a": "墨"}
+{"id": "tavi536", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo ga", "a": "塔的马"}
+{"id": "tavi537", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯是甜的", "a": "jei phy feit"}
+{"id": "tavi538", "task": "gloss", "q": "Tavi语词“feit”用中文怎么说？", "a": "甜"}
+{"id": "tavi539", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子是苦的", "a": "gouk phy dyt"}
+{"id": "tavi540", "task": "gloss", "q": "Tavi语词“jeit”用中文怎么说？", "a": "碗"}
+{"id": "tavi541", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi542", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy dyt", "a": "茶是苦的"}
+{"id": "tavi543", "task": "gloss", "q": "Tavi语词“vei”用中文怎么说？", "a": "镜"}
+{"id": "tavi544", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou phy hei", "a": "纸是重的"}
+{"id": "tavi545", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat gwa deit", "a": "山和云"}
+{"id": "tavi546", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk gwa gae", "a": "茶和布"}
+{"id": "tavi547", "task": "gloss", "q": "Tavi语词“jaet”用中文怎么说？", "a": "树"}
+{"id": "tavi548", "task": "c2s", "q": "把这句中文翻译成Tavi语：书和瓶", "a": "za gwa fae"}
+{"id": "tavi549", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout gwa fouk", "a": "衣和笛"}
+{"id": "tavi550", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou phy hyk", "a": "车是暗的"}
+{"id": "tavi551", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik dzo jy", "a": "炉的盐"}
+{"id": "tavi552", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟的树", "a": "vyt dzo jaet"}
+{"id": "tavi553", "task": "c2s", "q": "把这句中文翻译成Tavi语：火是浅的", "a": "ja phy vouk"}
+{"id": "tavi554", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯是窄的", "a": "jei phy vae"}
+{"id": "tavi555", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik gwa vyt", "a": "井和鸟"}
+{"id": "tavi556", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨是深的", "a": "feik phy fak"}
+{"id": "tavi557", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟和桥", "a": "vak gwa vyk"}
+{"id": "tavi558", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa jou", "a": "路和纸"}
+{"id": "tavi559", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy gwa jeit", "a": "盐和碗"}
+{"id": "tavi560", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa fae", "a": "窗和瓶"}
+{"id": "tavi561", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae dzo ga", "a": "布的马"}
+{"id": "tavi562", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak phy vouk", "a": "线是浅的"}
+{"id": "tavi563", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei dzo deit", "a": "砚的云"}
+{"id": "tavi564", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi565", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa vei", "a": "云和镜"}
+{"id": "tavi566", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei dzo dak", "a": "砚的算盘"}
+{"id": "tavi567", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的墨", "a": "jout dzo feik"}
+{"id": "tavi568", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是慢的", "a": "dat phy dy"}
+{"id": "tavi569", "task": "c2s", "q": "把这句中文翻译成Tavi语：网和叶子", "a": "dei gwa gouk"}
+{"id": "tavi570", "task": "gloss", "q": "Tavi语词“fyt”用中文怎么说？", "a": "大"}
+{"id": "tavi571", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽和帽", "a": "zaet gwa zaet"}
+{"id": "tavi572", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik phy bouk", "a": "井是亮的"}
+{"id": "tavi573", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和帽", "a": "deit gwa zaet"}
+{"id": "tavi574", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou dzo zei", "a": "纸的塔"}
+{"id": "tavi575", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜是亮的", "a": "vei phy bouk"}
+{"id": "tavi576", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei gwa beik", "a": "塔和井"}
+{"id": "tavi577", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy baek", "a": "月亮是红的"}
+{"id": "tavi578", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi579", "task": "gloss", "q": "Tavi语词“fak”用中文怎么说？", "a": "深"}
+{"id": "tavi580", "task": "gloss", "q": "Tavi语词“fy”用中文怎么说？", "a": "旧"}
+{"id": "tavi581", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt phy zae", "a": "鸟是湿的"}
+{"id": "tavi582", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟的米", "a": "vyt dzo bak"}
+{"id": "tavi583", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit phy feit", "a": "碗是甜的"}
+{"id": "tavi584", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet phy hyk", "a": "帽是暗的"}
+{"id": "tavi585", "task": "c2s", "q": "把这句中文翻译成Tavi语：火的灯", "a": "ja dzo jei"}
+{"id": "tavi586", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae phy bat", "a": "布是白的"}
+{"id": "tavi587", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat phy dy", "a": "刀是慢的"}
+{"id": "tavi588", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi589", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk dzo vyk", "a": "鼓的桥"}
+{"id": "tavi590", "task": "gloss", "q": "Tavi语词“beik”用中文怎么说？", "a": "井"}
+{"id": "tavi591", "task": "c2s", "q": "把这句中文翻译成Tavi语：线的茶", "a": "gak dzo gyk"}
+{"id": "tavi592", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk dzo jaet", "a": "雪的树"}
+{"id": "tavi593", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei dzo ga", "a": "砚的马"}
+{"id": "tavi594", "task": "c2s", "q": "把这句中文翻译成Tavi语：船和马", "a": "zou gwa ga"}
+{"id": "tavi595", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet phy fyt", "a": "路是大的"}
+{"id": "tavi596", "task": "gloss", "q": "Tavi语词“gae”用中文怎么说？", "a": "布"}
+{"id": "tavi597", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛和树", "a": "fouk gwa jaet"}
+{"id": "tavi598", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei gwa bak", "a": "镜和米"}
+{"id": "tavi599", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉和刀", "a": "geik gwa zat"}
+{"id": "tavi600", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗的云", "a": "hae dzo deit"}
+{"id": "tavi601", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi602", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk gwa gyk", "a": "桥和茶"}
+{"id": "tavi603", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy phy houk", "a": "盐是硬的"}
+{"id": "tavi604", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi605", "task": "gloss", "q": "Tavi语词“beik”用中文怎么说？", "a": "井"}
+{"id": "tavi606", "task": "gloss", "q": "Tavi语词“dat”用中文怎么说？", "a": "山"}
+{"id": "tavi607", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei gwa gak", "a": "鱼和线"}
+{"id": "tavi608", "task": "c2s", "q": "把这句中文翻译成Tavi语：线和盐", "a": "gak gwa jy"}
+{"id": "tavi609", "task": "c2s", "q": "把这句中文翻译成Tavi语：水和石头", "a": "zouk gwa baet"}
+{"id": "tavi610", "task": "c2s", "q": "把这句中文翻译成Tavi语：水的衣", "a": "zouk dzo jout"}
+{"id": "tavi611", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit phy heik", "a": "碗是热的"}
+{"id": "tavi612", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt dzo fa", "a": "鸟的针"}
+{"id": "tavi613", "task": "gloss", "q": "Tavi语词“deik”用中文怎么说？", "a": "河流"}
+{"id": "tavi614", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣是白的", "a": "jout phy bat"}
+{"id": "tavi615", "task": "gloss", "q": "Tavi语词“dou”用中文怎么说？", "a": "宽"}
+{"id": "tavi616", "task": "gloss", "q": "Tavi语词“geit”用中文怎么说？", "a": "臭"}
+{"id": "tavi617", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit phy baek", "a": "碗是红的"}
+{"id": "tavi618", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk phy gout", "a": "笛是快的"}
+{"id": "tavi619", "task": "c2s", "q": "把这句中文翻译成Tavi语：网和钟", "a": "dei gwa vak"}
+{"id": "tavi620", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi621", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat phy hat", "a": "山是干的"}
+{"id": "tavi622", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik gwa ga", "a": "河流和马"}
+{"id": "tavi623", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓是小的", "a": "dyk phy bei"}
+{"id": "tavi624", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit gwa zei", "a": "鞋和塔"}
+{"id": "tavi625", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk dzo by", "a": "水的花"}
+{"id": "tavi626", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔是轻的", "a": "zei phy gy"}
+{"id": "tavi627", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的算盘", "a": "za dzo dak"}
+{"id": "tavi628", "task": "gloss", "q": "Tavi语词“bak”用中文怎么说？", "a": "米"}
+{"id": "tavi629", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟的火", "a": "vyt dzo ja"}
+{"id": "tavi630", "task": "gloss", "q": "Tavi语词“fou”用中文怎么说？", "a": "车"}
+{"id": "tavi631", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk gwa fa", "a": "叶子和针"}
+{"id": "tavi632", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei gwa faet", "a": "网和席"}
+{"id": "tavi633", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛是慢的", "a": "fouk phy dy"}
+{"id": "tavi634", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流是香的", "a": "deik phy jyt"}
+{"id": "tavi635", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak gwa gae", "a": "米和布"}
+{"id": "tavi636", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae phy veik", "a": "窗是软的"}
+{"id": "tavi637", "task": "gloss", "q": "Tavi语词“gouk”用中文怎么说？", "a": "叶子"}
+{"id": "tavi638", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat gwa fouk", "a": "山和笛"}
+{"id": "tavi639", "task": "c2s", "q": "把这句中文翻译成Tavi语：书和针", "a": "za gwa fa"}
+{"id": "tavi640", "task": "c2s", "q": "把这句中文翻译成Tavi语：花是臭的", "a": "by phy geit"}
+{"id": "tavi641", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk gwa jeit", "a": "雪和碗"}
+{"id": "tavi642", "task": "c2s", "q": "把这句中文翻译成Tavi语：船是蓝的", "a": "zou phy vout"}
+{"id": "tavi643", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶的鞋", "a": "gyk dzo zeit"}
+{"id": "tavi644", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt phy dy", "a": "鸟是慢的"}
+{"id": "tavi645", "task": "gloss", "q": "Tavi语词“vyt”用中文怎么说？", "a": "鸟"}
+{"id": "tavi646", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉是轻的", "a": "geik phy gy"}
+{"id": "tavi647", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥的网", "a": "vyk dzo dei"}
+{"id": "tavi648", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga gwa ja", "a": "马和火"}
+{"id": "tavi649", "task": "gloss", "q": "Tavi语词“bei”用中文怎么说？", "a": "小"}
+{"id": "tavi650", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽和树", "a": "zaet gwa jaet"}
+{"id": "tavi651", "task": "c2s", "q": "把这句中文翻译成Tavi语：布的花", "a": "gae dzo by"}
+{"id": "tavi652", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit dzo gyk", "a": "云的茶"}
+{"id": "tavi653", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子是冷的", "a": "gouk phy ha"}
+{"id": "tavi654", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪是白的", "a": "byk phy bat"}
+{"id": "tavi655", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔的窗", "a": "zei dzo hae"}
+{"id": "tavi656", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣和炉", "a": "jout gwa geik"}
+{"id": "tavi657", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet gwa vei", "a": "月亮和镜"}
+{"id": "tavi658", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶的火", "a": "fae dzo ja"}
+{"id": "tavi659", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa vaek", "a": "云和伞"}
+{"id": "tavi660", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi661", "task": "gloss", "q": "Tavi语词“gout”用中文怎么说？", "a": "快"}
+{"id": "tavi662", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪是硬的", "a": "byk phy houk"}
+{"id": "tavi663", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶和河流", "a": "gyk gwa deik"}
+{"id": "tavi664", "task": "gloss", "q": "Tavi语词“geit”用中文怎么说？", "a": "臭"}
+{"id": "tavi665", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪是新的", "a": "byk phy jat"}
+{"id": "tavi666", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat gwa zat", "a": "笔和刀"}
+{"id": "tavi667", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik dzo dei", "a": "河流的网"}
+{"id": "tavi668", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak dzo vyk", "a": "线的桥"}
+{"id": "tavi669", "task": "gloss", "q": "Tavi语词“bak”用中文怎么说？", "a": "米"}
+{"id": "tavi670", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik phy jak", "a": "河流是黑的"}
+{"id": "tavi671", "task": "gloss", "q": "Tavi语词“by”用中文怎么说？", "a": "花"}
+{"id": "tavi672", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk phy gy", "a": "门是轻的"}
+{"id": "tavi673", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei gwa ja", "a": "鱼和火"}
+{"id": "tavi674", "task": "gloss", "q": "Tavi语词“zat”用中文怎么说？", "a": "刀"}
+{"id": "tavi675", "task": "gloss", "q": "Tavi语词“dyt”用中文怎么说？", "a": "苦"}
+{"id": "tavi676", "task": "gloss", "q": "Tavi语词“vouk”用中文怎么说？", "a": "浅"}
+{"id": "tavi677", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik phy fyt", "a": "炉是大的"}
+{"id": "tavi678", "task": "c2s", "q": "把这句中文翻译成Tavi语：树是圆的", "a": "jaet phy beit"}
+{"id": "tavi679", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei gwa jyk", "a": "网和门"}
+{"id": "tavi680", "task": "gloss", "q": "Tavi语词“dak”用中文怎么说？", "a": "算盘"}
+{"id": "tavi681", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet phy dyt", "a": "树是苦的"}
+{"id": "tavi682", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶和绳", "a": "fae gwa hyt"}
+{"id": "tavi683", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout dzo vak", "a": "衣的钟"}
+{"id": "tavi684", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak phy ha", "a": "线是冷的"}
+{"id": "tavi685", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳的路", "a": "hyt dzo haet"}
+{"id": "tavi686", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik phy gout", "a": "井是快的"}
+{"id": "tavi687", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt gwa hyt", "a": "鸟和绳"}
+{"id": "tavi688", "task": "c2s", "q": "把这句中文翻译成Tavi语：火是重的", "a": "ja phy hei"}
+{"id": "tavi689", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk phy zae", "a": "雪是湿的"}
+{"id": "tavi690", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子和砚", "a": "gouk gwa gei"}
+{"id": "tavi691", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk phy ha", "a": "鼓是冷的"}
+{"id": "tavi692", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔的盐", "a": "fat dzo jy"}
+{"id": "tavi693", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa jei", "a": "窗和灯"}
+{"id": "tavi694", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy veik", "a": "月亮是软的"}
+{"id": "tavi695", "task": "gloss", "q": "Tavi语词“feik”用中文怎么说？", "a": "墨"}
+{"id": "tavi696", "task": "gloss", "q": "Tavi语词“vak”用中文怎么说？", "a": "钟"}
+{"id": "tavi697", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚是暗的", "a": "gei phy hyk"}
+{"id": "tavi698", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit dzo beik", "a": "云的井"}
+{"id": "tavi699", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik gwa hae", "a": "河流和窗"}
+{"id": "tavi700", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟的笛", "a": "vak dzo fouk"}
+{"id": "tavi701", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽和炉", "a": "zaet gwa geik"}
+{"id": "tavi702", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet gwa bak", "a": "席和米"}
+{"id": "tavi703", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou dzo faet", "a": "船的席"}
+{"id": "tavi704", "task": "gloss", "q": "Tavi语词“vak”用中文怎么说？", "a": "钟"}
+{"id": "tavi705", "task": "c2s", "q": "把这句中文翻译成Tavi语：网的碗", "a": "dei dzo jeit"}
+{"id": "tavi706", "task": "c2s", "q": "把这句中文翻译成Tavi语：路的盐", "a": "haet dzo jy"}
+{"id": "tavi707", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔是苦的", "a": "fat phy dyt"}
+{"id": "tavi708", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi709", "task": "gloss", "q": "Tavi语词“deik”用中文怎么说？", "a": "河流"}
+{"id": "tavi710", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit dzo fouk", "a": "碗的笛"}
+{"id": "tavi711", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗的门", "a": "hae dzo jyk"}
+{"id": "tavi712", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek phy hat", "a": "伞是干的"}
+{"id": "tavi713", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的米", "a": "za dzo bak"}
+{"id": "tavi714", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘的船", "a": "dak dzo zou"}
+{"id": "tavi715", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子和树", "a": "gouk gwa jaet"}
+{"id": "tavi716", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳的门", "a": "hyt dzo jyk"}
+{"id": "tavi717", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀的刀", "a": "zat dzo zat"}
+{"id": "tavi718", "task": "gloss", "q": "Tavi语词“zae”用中文怎么说？", "a": "湿"}
+{"id": "tavi719", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜的算盘", "a": "vei dzo dak"}
+{"id": "tavi720", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚的笛", "a": "gei dzo fouk"}
+{"id": "tavi721", "task": "gloss", "q": "Tavi语词“fou”用中文怎么说？", "a": "车"}
+{"id": "tavi722", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi723", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet phy ha", "a": "石头是冷的"}
+{"id": "tavi724", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou dzo vak", "a": "车的钟"}
+{"id": "tavi725", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk dzo jaet", "a": "茶的树"}
+{"id": "tavi726", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟是宽的", "a": "vak phy dou"}
+{"id": "tavi727", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk gwa beik", "a": "叶子和井"}
+{"id": "tavi728", "task": "gloss", "q": "Tavi语词“deit”用中文怎么说？", "a": "云"}
+{"id": "tavi729", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa fae", "a": "窗和瓶"}
+{"id": "tavi730", "task": "s2c", "q": "把这句Tavi语翻译成中文：by phy hyk", "a": "花是暗的"}
+{"id": "tavi731", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt phy jak", "a": "绳是黑的"}
+{"id": "tavi732", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗和马", "a": "jeit gwa ga"}
+{"id": "tavi733", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk phy fy", "a": "笛是旧的"}
+{"id": "tavi734", "task": "c2s", "q": "把这句中文翻译成Tavi语：山的衣", "a": "dat dzo jout"}
+{"id": "tavi735", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit dzo vyk", "a": "碗的桥"}
+{"id": "tavi736", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪的车", "a": "byk dzo fou"}
+{"id": "tavi737", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt phy ha", "a": "鸟是冷的"}
+{"id": "tavi738", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy hei", "a": "茶是重的"}
+{"id": "tavi739", "task": "gloss", "q": "Tavi语词“deik”用中文怎么说？", "a": "河流"}
+{"id": "tavi740", "task": "c2s", "q": "把这句中文翻译成Tavi语：网是宽的", "a": "dei phy dou"}
+{"id": "tavi741", "task": "c2s", "q": "把这句中文翻译成Tavi语：线是热的", "a": "gak phy heik"}
+{"id": "tavi742", "task": "gloss", "q": "Tavi语词“vouk”用中文怎么说？", "a": "浅"}
+{"id": "tavi743", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo zei", "a": "马的塔"}
+{"id": "tavi744", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶的鼓", "a": "gyk dzo dyk"}
+{"id": "tavi745", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨是红的", "a": "feik phy baek"}
+{"id": "tavi746", "task": "gloss", "q": "Tavi语词“bat”用中文怎么说？", "a": "白"}
+{"id": "tavi747", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak dzo vei", "a": "线的镜"}
+{"id": "tavi748", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗的镜", "a": "jeit dzo vei"}
+{"id": "tavi749", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流的鞋", "a": "deik dzo zeit"}
+{"id": "tavi750", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat gwa vei", "a": "山和镜"}
+{"id": "tavi751", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei phy hei", "a": "网是重的"}
+{"id": "tavi752", "task": "gloss", "q": "Tavi语词“fei”用中文怎么说？", "a": "鱼"}
+{"id": "tavi753", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou dzo za", "a": "纸的书"}
+{"id": "tavi754", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥的刀", "a": "vyk dzo zat"}
+{"id": "tavi755", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa zat", "a": "瓶和刀"}
+{"id": "tavi756", "task": "gloss", "q": "Tavi语词“jaet”用中文怎么说？", "a": "树"}
+{"id": "tavi757", "task": "gloss", "q": "Tavi语词“zeit”用中文怎么说？", "a": "鞋"}
+{"id": "tavi758", "task": "gloss", "q": "Tavi语词“jaet”用中文怎么说？", "a": "树"}
+{"id": "tavi759", "task": "s2c", "q": "把这句Tavi语翻译成中文：by gwa gei", "a": "花和砚"}
+{"id": "tavi760", "task": "gloss", "q": "Tavi语词“gouk”用中文怎么说？", "a": "叶子"}
+{"id": "tavi761", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet dzo fouk", "a": "树的笛"}
+{"id": "tavi762", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit dzo zaet", "a": "云的帽"}
+{"id": "tavi763", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk gwa fei", "a": "鼓和鱼"}
+{"id": "tavi764", "task": "c2s", "q": "把这句中文翻译成Tavi语：路的云", "a": "haet dzo deit"}
+{"id": "tavi765", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀和绳", "a": "zat gwa hyt"}
+{"id": "tavi766", "task": "gloss", "q": "Tavi语词“jat”用中文怎么说？", "a": "新"}
+{"id": "tavi767", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮的墨", "a": "vaet dzo feik"}
+{"id": "tavi768", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei gwa baet", "a": "塔和石头"}
+{"id": "tavi769", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk phy jak", "a": "叶子是黑的"}
+{"id": "tavi770", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet gwa zouk", "a": "树和水"}
+{"id": "tavi771", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉的鞋", "a": "geik dzo zeit"}
+{"id": "tavi772", "task": "c2s", "q": "把这句中文翻译成Tavi语：花是冷的", "a": "by phy ha"}
+{"id": "tavi773", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi774", "task": "c2s", "q": "把这句中文翻译成Tavi语：云是湿的", "a": "deit phy zae"}
+{"id": "tavi775", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉的镜", "a": "geik dzo vei"}
+{"id": "tavi776", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜的井", "a": "vei dzo beik"}
+{"id": "tavi777", "task": "c2s", "q": "把这句中文翻译成Tavi语：火和网", "a": "ja gwa dei"}
+{"id": "tavi778", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk dzo zei", "a": "叶子的塔"}
+{"id": "tavi779", "task": "c2s", "q": "把这句中文翻译成Tavi语：马的桥", "a": "ga dzo vyk"}
+{"id": "tavi780", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk gwa ja", "a": "水和火"}
+{"id": "tavi781", "task": "c2s", "q": "把这句中文翻译成Tavi语：线和布", "a": "gak gwa gae"}
+{"id": "tavi782", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头是苦的", "a": "baet phy dyt"}
+{"id": "tavi783", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽的月亮", "a": "zaet dzo vaet"}
+{"id": "tavi784", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的门", "a": "jy dzo jyk"}
+{"id": "tavi785", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉是重的", "a": "geik phy hei"}
+{"id": "tavi786", "task": "c2s", "q": "把这句中文翻译成Tavi语：船是热的", "a": "zou phy heik"}
+{"id": "tavi787", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei dzo fouk", "a": "鱼的笛"}
+{"id": "tavi788", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk phy dou", "a": "门是宽的"}
+{"id": "tavi789", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽和船", "a": "zaet gwa zou"}
+{"id": "tavi790", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔和树", "a": "zei gwa jaet"}
+{"id": "tavi791", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt phy veik", "a": "绳是软的"}
+{"id": "tavi792", "task": "c2s", "q": "把这句中文翻译成Tavi语：门和瓶", "a": "jyk gwa fae"}
+{"id": "tavi793", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae phy veik", "a": "布是软的"}
+{"id": "tavi794", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽是慢的", "a": "zaet phy dy"}
+{"id": "tavi795", "task": "gloss", "q": "Tavi语词“fei”用中文怎么说？", "a": "鱼"}
+{"id": "tavi796", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak gwa zei", "a": "钟和塔"}
+{"id": "tavi797", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga phy zyt", "a": "马是方的"}
+{"id": "tavi798", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy dzo fou", "a": "盐的车"}
+{"id": "tavi799", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头的花", "a": "baet dzo by"}
+{"id": "tavi800", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi801", "task": "gloss", "q": "Tavi语词“dei”用中文怎么说？", "a": "网"}
+{"id": "tavi802", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是湿的", "a": "dat phy zae"}
+{"id": "tavi803", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼是蓝的", "a": "fei phy vout"}
+{"id": "tavi804", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae dzo ja", "a": "瓶的火"}
+{"id": "tavi805", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯是浅的", "a": "jei phy vouk"}
+{"id": "tavi806", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo gae", "a": "马的布"}
+{"id": "tavi807", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘是深的", "a": "dak phy fak"}
+{"id": "tavi808", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪的茶", "a": "byk dzo gyk"}
+{"id": "tavi809", "task": "gloss", "q": "Tavi语词“deit”用中文怎么说？", "a": "云"}
+{"id": "tavi810", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk phy bat", "a": "桥是白的"}
+{"id": "tavi811", "task": "c2s", "q": "把这句中文翻译成Tavi语：席是热的", "a": "faet phy heik"}
+{"id": "tavi812", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk gwa deit", "a": "门和云"}
+{"id": "tavi813", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat dzo zou", "a": "刀的船"}
+{"id": "tavi814", "task": "c2s", "q": "把这句中文翻译成Tavi语：树是小的", "a": "jaet phy bei"}
+{"id": "tavi815", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼是宽的", "a": "fei phy dou"}
+{"id": "tavi816", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk gwa dei", "a": "门和网"}
+{"id": "tavi817", "task": "c2s", "q": "把这句中文翻译成Tavi语：树是蓝的", "a": "jaet phy vout"}
+{"id": "tavi818", "task": "c2s", "q": "把这句中文翻译成Tavi语：车是快的", "a": "fou phy gout"}
+{"id": "tavi819", "task": "c2s", "q": "把这句中文翻译成Tavi语：火是窄的", "a": "ja phy vae"}
+{"id": "tavi820", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei phy hei", "a": "网是重的"}
+{"id": "tavi821", "task": "gloss", "q": "Tavi语词“bak”用中文怎么说？", "a": "米"}
+{"id": "tavi822", "task": "c2s", "q": "把这句中文翻译成Tavi语：马是宽的", "a": "ga phy dou"}
+{"id": "tavi823", "task": "c2s", "q": "把这句中文翻译成Tavi语：车的碗", "a": "fou dzo jeit"}
+{"id": "tavi824", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛和火", "a": "fouk gwa ja"}
+{"id": "tavi825", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔和船", "a": "fat gwa zou"}
+{"id": "tavi826", "task": "gloss", "q": "Tavi语词“dak”用中文怎么说？", "a": "算盘"}
+{"id": "tavi827", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗和云", "a": "hae gwa deit"}
+{"id": "tavi828", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik phy feit", "a": "河流是甜的"}
+{"id": "tavi829", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae dzo ja", "a": "布的火"}
+{"id": "tavi830", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei dzo by", "a": "砚的花"}
+{"id": "tavi831", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei phy bat", "a": "塔是白的"}
+{"id": "tavi832", "task": "gloss", "q": "Tavi语词“jat”用中文怎么说？", "a": "新"}
+{"id": "tavi833", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽和布", "a": "zaet gwa gae"}
+{"id": "tavi834", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的茶", "a": "za dzo gyk"}
+{"id": "tavi835", "task": "gloss", "q": "Tavi语词“byk”用中文怎么说？", "a": "雪"}
+{"id": "tavi836", "task": "c2s", "q": "把这句中文翻译成Tavi语：火和笔", "a": "ja gwa fat"}
+{"id": "tavi837", "task": "gloss", "q": "Tavi语词“heik”用中文怎么说？", "a": "热"}
+{"id": "tavi838", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak phy bei", "a": "钟是小的"}
+{"id": "tavi839", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit gwa faet", "a": "碗和席"}
+{"id": "tavi840", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak phy hat", "a": "钟是干的"}
+{"id": "tavi841", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae dzo zei", "a": "布的塔"}
+{"id": "tavi842", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou phy vout", "a": "纸是蓝的"}
+{"id": "tavi843", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei phy bat", "a": "塔是白的"}
+{"id": "tavi844", "task": "gloss", "q": "Tavi语词“veik”用中文怎么说？", "a": "软"}
+{"id": "tavi845", "task": "gloss", "q": "Tavi语词“gouk”用中文怎么说？", "a": "叶子"}
+{"id": "tavi846", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi847", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的井", "a": "jout dzo beik"}
+{"id": "tavi848", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣和茶", "a": "jout gwa gyk"}
+{"id": "tavi849", "task": "gloss", "q": "Tavi语词“fy”用中文怎么说？", "a": "旧"}
+{"id": "tavi850", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗是白的", "a": "jeit phy bat"}
+{"id": "tavi851", "task": "c2s", "q": "把这句中文翻译成Tavi语：门是蓝的", "a": "jyk phy vout"}
+{"id": "tavi852", "task": "gloss", "q": "Tavi语词“zei”用中文怎么说？", "a": "塔"}
+{"id": "tavi853", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa feik", "a": "瓶和墨"}
+{"id": "tavi854", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk gwa gei", "a": "门和砚"}
+{"id": "tavi855", "task": "c2s", "q": "把这句中文翻译成Tavi语：网是轻的", "a": "dei phy gy"}
+{"id": "tavi856", "task": "c2s", "q": "把这句中文翻译成Tavi语：路的绳", "a": "haet dzo hyt"}
+{"id": "tavi857", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek dzo faet", "a": "伞的席"}
+{"id": "tavi858", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流的山", "a": "deik dzo dat"}
+{"id": "tavi859", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat phy dyt", "a": "刀是苦的"}
+{"id": "tavi860", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei phy jak", "a": "网是黑的"}
+{"id": "tavi861", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit gwa jout", "a": "鞋和衣"}
+{"id": "tavi862", "task": "gloss", "q": "Tavi语词“dyt”用中文怎么说？", "a": "苦"}
+{"id": "tavi863", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋的布", "a": "zeit dzo gae"}
+{"id": "tavi864", "task": "c2s", "q": "把这句中文翻译成Tavi语：马和水", "a": "ga gwa zouk"}
+{"id": "tavi865", "task": "c2s", "q": "把这句中文翻译成Tavi语：书是湿的", "a": "za phy zae"}
+{"id": "tavi866", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt gwa gak", "a": "绳和线"}
+{"id": "tavi867", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik gwa faet", "a": "炉和席"}
+{"id": "tavi868", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet gwa fa", "a": "月亮和针"}
+{"id": "tavi869", "task": "c2s", "q": "把这句中文翻译成Tavi语：针和碗", "a": "fa gwa jeit"}
+{"id": "tavi870", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik gwa zat", "a": "墨和刀"}
+{"id": "tavi871", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak phy baek", "a": "线是红的"}
+{"id": "tavi872", "task": "gloss", "q": "Tavi语词“zou”用中文怎么说？", "a": "船"}
+{"id": "tavi873", "task": "gloss", "q": "Tavi语词“fat”用中文怎么说？", "a": "笔"}
+{"id": "tavi874", "task": "c2s", "q": "把这句中文翻译成Tavi语：路和伞", "a": "haet gwa vaek"}
+{"id": "tavi875", "task": "gloss", "q": "Tavi语词“zeit”用中文怎么说？", "a": "鞋"}
+{"id": "tavi876", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸和算盘", "a": "jou gwa dak"}
+{"id": "tavi877", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei dzo zaet", "a": "网的帽"}
+{"id": "tavi878", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和瓶", "a": "deit gwa fae"}
+{"id": "tavi879", "task": "gloss", "q": "Tavi语词“vae”用中文怎么说？", "a": "窄"}
+{"id": "tavi880", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat gwa zei", "a": "山和塔"}
+{"id": "tavi881", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak gwa jou", "a": "算盘和纸"}
+{"id": "tavi882", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat phy bat", "a": "刀是白的"}
+{"id": "tavi883", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk dzo jei", "a": "鼓的灯"}
+{"id": "tavi884", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi885", "task": "gloss", "q": "Tavi语词“vouk”用中文怎么说？", "a": "浅"}
+{"id": "tavi886", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头是干的", "a": "baet phy hat"}
+{"id": "tavi887", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋的路", "a": "zeit dzo haet"}
+{"id": "tavi888", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi889", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo vyt", "a": "塔的鸟"}
+{"id": "tavi890", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa bak", "a": "窗和米"}
+{"id": "tavi891", "task": "c2s", "q": "把这句中文翻译成Tavi语：布和塔", "a": "gae gwa zei"}
+{"id": "tavi892", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy zae", "a": "茶是湿的"}
+{"id": "tavi893", "task": "c2s", "q": "把这句中文翻译成Tavi语：布是苦的", "a": "gae phy dyt"}
+{"id": "tavi894", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou gwa deit", "a": "车和云"}
+{"id": "tavi895", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥的马", "a": "vyk dzo ga"}
+{"id": "tavi896", "task": "s2c", "q": "把这句Tavi语翻译成中文：za gwa gak", "a": "书和线"}
+{"id": "tavi897", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei phy hei", "a": "灯是重的"}
+{"id": "tavi898", "task": "c2s", "q": "把这句中文翻译成Tavi语：车是亮的", "a": "fou phy bouk"}
+{"id": "tavi899", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy beit", "a": "茶是圆的"}
+{"id": "tavi900", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa vak", "a": "瓶和钟"}
+{"id": "tavi901", "task": "gloss", "q": "Tavi语词“fy”用中文怎么说？", "a": "旧"}
+{"id": "tavi902", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei dzo hae", "a": "鱼的窗"}
+{"id": "tavi903", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔是冷的", "a": "fat phy ha"}
+{"id": "tavi904", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪是大的", "a": "byk phy fyt"}
+{"id": "tavi905", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik phy ha", "a": "炉是冷的"}
+{"id": "tavi906", "task": "c2s", "q": "把这句中文翻译成Tavi语：井的书", "a": "beik dzo za"}
+{"id": "tavi907", "task": "gloss", "q": "Tavi语词“jy”用中文怎么说？", "a": "盐"}
+{"id": "tavi908", "task": "c2s", "q": "把这句中文翻译成Tavi语：云是轻的", "a": "deit phy gy"}
+{"id": "tavi909", "task": "gloss", "q": "Tavi语词“jout”用中文怎么说？", "a": "衣"}
+{"id": "tavi910", "task": "c2s", "q": "把这句中文翻译成Tavi语：针是苦的", "a": "fa phy dyt"}
+{"id": "tavi911", "task": "c2s", "q": "把这句中文翻译成Tavi语：火的衣", "a": "ja dzo jout"}
+{"id": "tavi912", "task": "gloss", "q": "Tavi语词“vei”用中文怎么说？", "a": "镜"}
+{"id": "tavi913", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk gwa zaet", "a": "茶和帽"}
+{"id": "tavi914", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi915", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和桥", "a": "deit gwa vyk"}
+{"id": "tavi916", "task": "c2s", "q": "把这句中文翻译成Tavi语：线和布", "a": "gak gwa gae"}
+{"id": "tavi917", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流和车", "a": "deik gwa fou"}
+{"id": "tavi918", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽是小的", "a": "zaet phy bei"}
+{"id": "tavi919", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk dzo dei", "a": "鼓的网"}
+{"id": "tavi920", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet dzo dyk", "a": "石头的鼓"}
+{"id": "tavi921", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉的墨", "a": "geik dzo feik"}
+{"id": "tavi922", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉的网", "a": "geik dzo dei"}
+{"id": "tavi923", "task": "gloss", "q": "Tavi语词“geit”用中文怎么说？", "a": "臭"}
+{"id": "tavi924", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗和门", "a": "hae gwa jyk"}
+{"id": "tavi925", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉的船", "a": "geik dzo zou"}
+{"id": "tavi926", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak phy dou", "a": "算盘是宽的"}
+{"id": "tavi927", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei dzo fat", "a": "灯的笔"}
+{"id": "tavi928", "task": "gloss", "q": "Tavi语词“feik”用中文怎么说？", "a": "墨"}
+{"id": "tavi929", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet phy ha", "a": "路是冷的"}
+{"id": "tavi930", "task": "c2s", "q": "把这句中文翻译成Tavi语：布的石头", "a": "gae dzo baet"}
+{"id": "tavi931", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶的塔", "a": "fae dzo zei"}
+{"id": "tavi932", "task": "c2s", "q": "把这句中文翻译成Tavi语：路是旧的", "a": "haet phy fy"}
+{"id": "tavi933", "task": "gloss", "q": "Tavi语词“feik”用中文怎么说？", "a": "墨"}
+{"id": "tavi934", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet phy vout", "a": "席是蓝的"}
+{"id": "tavi935", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet dzo vak", "a": "席的钟"}
+{"id": "tavi936", "task": "gloss", "q": "Tavi语词“fat”用中文怎么说？", "a": "笔"}
+{"id": "tavi937", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流是重的", "a": "deik phy hei"}
+{"id": "tavi938", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮的炉", "a": "vaet dzo geik"}
+{"id": "tavi939", "task": "gloss", "q": "Tavi语词“gouk”用中文怎么说？", "a": "叶子"}
+{"id": "tavi940", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和布", "a": "vei gwa gae"}
+{"id": "tavi941", "task": "gloss", "q": "Tavi语词“fy”用中文怎么说？", "a": "旧"}
+{"id": "tavi942", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa dak", "a": "窗和算盘"}
+{"id": "tavi943", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy gout", "a": "墨是快的"}
+{"id": "tavi944", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮的纸", "a": "vaet dzo jou"}
+{"id": "tavi945", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy hat", "a": "月亮是干的"}
+{"id": "tavi946", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat phy bouk", "a": "山是亮的"}
+{"id": "tavi947", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei phy jyt", "a": "网是香的"}
+{"id": "tavi948", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat phy vouk", "a": "笔是浅的"}
+{"id": "tavi949", "task": "s2c", "q": "把这句Tavi语翻译成中文：by dzo gak", "a": "花的线"}
+{"id": "tavi950", "task": "gloss", "q": "Tavi语词“dei”用中文怎么说？", "a": "网"}
+{"id": "tavi951", "task": "gloss", "q": "Tavi语词“bat”用中文怎么说？", "a": "白"}
+{"id": "tavi952", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit dzo jaet", "a": "碗的树"}
+{"id": "tavi953", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa gei", "a": "云和砚"}
+{"id": "tavi954", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy dou", "a": "茶是宽的"}
+{"id": "tavi955", "task": "c2s", "q": "把这句中文翻译成Tavi语：席的花", "a": "faet dzo by"}
+{"id": "tavi956", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa fei", "a": "云和鱼"}
+{"id": "tavi957", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛和花", "a": "fouk gwa by"}
+{"id": "tavi958", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的墨", "a": "za dzo feik"}
+{"id": "tavi959", "task": "gloss", "q": "Tavi语词“jy”用中文怎么说？", "a": "盐"}
+{"id": "tavi960", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei phy veik", "a": "塔是软的"}
+{"id": "tavi961", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa gwa haet", "a": "针和路"}
+{"id": "tavi962", "task": "gloss", "q": "Tavi语词“hyt”用中文怎么说？", "a": "绳"}
+{"id": "tavi963", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸的帽", "a": "jou dzo zaet"}
+{"id": "tavi964", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨和炉", "a": "feik gwa geik"}
+{"id": "tavi965", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet dzo fou", "a": "石头的车"}
+{"id": "tavi966", "task": "gloss", "q": "Tavi语词“dak”用中文怎么说？", "a": "算盘"}
+{"id": "tavi967", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头是深的", "a": "baet phy fak"}
+{"id": "tavi968", "task": "gloss", "q": "Tavi语词“geik”用中文怎么说？", "a": "炉"}
+{"id": "tavi969", "task": "c2s", "q": "把这句中文翻译成Tavi语：水和门", "a": "zouk gwa jyk"}
+{"id": "tavi970", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和石头", "a": "baet gwa baet"}
+{"id": "tavi971", "task": "gloss", "q": "Tavi语词“by”用中文怎么说？", "a": "花"}
+{"id": "tavi972", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik dzo gei", "a": "河流的砚"}
+{"id": "tavi973", "task": "s2c", "q": "把这句Tavi语翻译成中文：by gwa fa", "a": "花和针"}
+{"id": "tavi974", "task": "gloss", "q": "Tavi语词“by”用中文怎么说？", "a": "花"}
+{"id": "tavi975", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi976", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是窄的", "a": "dat phy vae"}
+{"id": "tavi977", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet dzo zeit", "a": "树的鞋"}
+{"id": "tavi978", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk phy baek", "a": "水是红的"}
+{"id": "tavi979", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei gwa gyk", "a": "塔和茶"}
+{"id": "tavi980", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi981", "task": "c2s", "q": "把这句中文翻译成Tavi语：针和砚", "a": "fa gwa gei"}
+{"id": "tavi982", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik dzo byk", "a": "墨的雪"}
+{"id": "tavi983", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨的山", "a": "feik dzo dat"}
+{"id": "tavi984", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout gwa jei", "a": "衣和灯"}
+{"id": "tavi985", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流和布", "a": "deik gwa gae"}
+{"id": "tavi986", "task": "gloss", "q": "Tavi语词“veik”用中文怎么说？", "a": "软"}
+{"id": "tavi987", "task": "gloss", "q": "Tavi语词“deik”用中文怎么说？", "a": "河流"}
+{"id": "tavi988", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的炉", "a": "za dzo geik"}
+{"id": "tavi989", "task": "c2s", "q": "把这句中文翻译成Tavi语：席和鸟", "a": "faet gwa vyt"}
+{"id": "tavi990", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae dzo dei", "a": "窗的网"}
+{"id": "tavi991", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘的炉", "a": "dak dzo geik"}
+{"id": "tavi992", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik dzo feik", "a": "河流的墨"}
+{"id": "tavi993", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀是轻的", "a": "zat phy gy"}
+{"id": "tavi994", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk dzo beik", "a": "雪的井"}
+{"id": "tavi995", "task": "gloss", "q": "Tavi语词“fou”用中文怎么说？", "a": "车"}
+{"id": "tavi996", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的云", "a": "jout dzo deit"}
+{"id": "tavi997", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮是深的", "a": "vaet phy fak"}
+{"id": "tavi998", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa dzo ja", "a": "针的火"}
+{"id": "tavi999", "task": "gloss", "q": "Tavi语词“vyk”用中文怎么说？", "a": "桥"}
+{"id": "tavi1000", "task": "gloss", "q": "Tavi语词“dat”用中文怎么说？", "a": "山"}
+{"id": "tavi1001", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk dzo jeit", "a": "雪的碗"}
+{"id": "tavi1002", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk gwa ga", "a": "鼓和马"}
+{"id": "tavi1003", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet phy veik", "a": "石头是软的"}
+{"id": "tavi1004", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy zae", "a": "月亮是湿的"}
+{"id": "tavi1005", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy fy", "a": "墨是旧的"}
+{"id": "tavi1006", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik phy jak", "a": "河流是黑的"}
+{"id": "tavi1007", "task": "gloss", "q": "Tavi语词“haet”用中文怎么说？", "a": "路"}
+{"id": "tavi1008", "task": "gloss", "q": "Tavi语词“zat”用中文怎么说？", "a": "刀"}
+{"id": "tavi1009", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek phy baek", "a": "伞是红的"}
+{"id": "tavi1010", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk dzo vak", "a": "门的钟"}
+{"id": "tavi1011", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik gwa haet", "a": "井和路"}
+{"id": "tavi1012", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和云", "a": "vei gwa deit"}
+{"id": "tavi1013", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗是慢的", "a": "jeit phy dy"}
+{"id": "tavi1014", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei phy heik", "a": "塔是热的"}
+{"id": "tavi1015", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei phy fy", "a": "鱼是旧的"}
+{"id": "tavi1016", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit gwa vei", "a": "鞋和镜"}
+{"id": "tavi1017", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟和钟", "a": "vak gwa vak"}
+{"id": "tavi1018", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet gwa gouk", "a": "帽和叶子"}
+{"id": "tavi1019", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔是快的", "a": "zei phy gout"}
+{"id": "tavi1020", "task": "gloss", "q": "Tavi语词“heik”用中文怎么说？", "a": "热"}
+{"id": "tavi1021", "task": "c2s", "q": "把这句中文翻译成Tavi语：线和火", "a": "gak gwa ja"}
+{"id": "tavi1022", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk dzo jout", "a": "茶的衣"}
+{"id": "tavi1023", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei phy jak", "a": "塔是黑的"}
+{"id": "tavi1024", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei dzo vak", "a": "鱼的钟"}
+{"id": "tavi1025", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei gwa beik", "a": "砚和井"}
+{"id": "tavi1026", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy zae", "a": "墨是湿的"}
+{"id": "tavi1027", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik phy dou", "a": "井是宽的"}
+{"id": "tavi1028", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子的网", "a": "gouk dzo dei"}
+{"id": "tavi1029", "task": "gloss", "q": "Tavi语词“hae”用中文怎么说？", "a": "窗"}
+{"id": "tavi1030", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet dzo bak", "a": "路的米"}
+{"id": "tavi1031", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak dzo zouk", "a": "钟的水"}
+{"id": "tavi1032", "task": "c2s", "q": "把这句中文翻译成Tavi语：书是慢的", "a": "za phy dy"}
+{"id": "tavi1033", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet dzo za", "a": "石头的书"}
+{"id": "tavi1034", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet phy dyt", "a": "树是苦的"}
+{"id": "tavi1035", "task": "c2s", "q": "把这句中文翻译成Tavi语：米和墨", "a": "bak gwa feik"}
+{"id": "tavi1036", "task": "c2s", "q": "把这句中文翻译成Tavi语：布是白的", "a": "gae phy bat"}
+{"id": "tavi1037", "task": "gloss", "q": "Tavi语词“geit”用中文怎么说？", "a": "臭"}
+{"id": "tavi1038", "task": "c2s", "q": "把这句中文翻译成Tavi语：水和帽", "a": "zouk gwa zaet"}
+{"id": "tavi1039", "task": "gloss", "q": "Tavi语词“jyt”用中文怎么说？", "a": "香"}
+{"id": "tavi1040", "task": "gloss", "q": "Tavi语词“zei”用中文怎么说？", "a": "塔"}
+{"id": "tavi1041", "task": "c2s", "q": "把这句中文翻译成Tavi语：路是甜的", "a": "haet phy feit"}
+{"id": "tavi1042", "task": "c2s", "q": "把这句中文翻译成Tavi语：线的月亮", "a": "gak dzo vaet"}
+{"id": "tavi1043", "task": "c2s", "q": "把这句中文翻译成Tavi语：船是甜的", "a": "zou phy feit"}
+{"id": "tavi1044", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯和马", "a": "jei gwa ga"}
+{"id": "tavi1045", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak phy bei", "a": "算盘是小的"}
+{"id": "tavi1046", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou gwa fae", "a": "纸和瓶"}
+{"id": "tavi1047", "task": "c2s", "q": "把这句中文翻译成Tavi语：马是暗的", "a": "ga phy hyk"}
+{"id": "tavi1048", "task": "gloss", "q": "Tavi语词“jout”用中文怎么说？", "a": "衣"}
+{"id": "tavi1049", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛是蓝的", "a": "fouk phy vout"}
+{"id": "tavi1050", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik phy bouk", "a": "炉是亮的"}
+{"id": "tavi1051", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk dzo zou", "a": "叶子的船"}
+{"id": "tavi1052", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的门", "a": "jy dzo jyk"}
+{"id": "tavi1053", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣是圆的", "a": "jout phy beit"}
+{"id": "tavi1054", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯和雪", "a": "jei gwa byk"}
+{"id": "tavi1055", "task": "gloss", "q": "Tavi语词“vae”用中文怎么说？", "a": "窄"}
+{"id": "tavi1056", "task": "gloss", "q": "Tavi语词“bei”用中文怎么说？", "a": "小"}
+{"id": "tavi1057", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy zyt", "a": "墨是方的"}
+{"id": "tavi1058", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和路", "a": "vei gwa haet"}
+{"id": "tavi1059", "task": "c2s", "q": "把这句中文翻译成Tavi语：路是暗的", "a": "haet phy hyk"}
+{"id": "tavi1060", "task": "c2s", "q": "把这句中文翻译成Tavi语：线和席", "a": "gak gwa faet"}
+{"id": "tavi1061", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk dzo gae", "a": "桥的布"}
+{"id": "tavi1062", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa vyk", "a": "云和桥"}
+{"id": "tavi1063", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi1064", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣和线", "a": "jout gwa gak"}
+{"id": "tavi1065", "task": "gloss", "q": "Tavi语词“gouk”用中文怎么说？", "a": "叶子"}
+{"id": "tavi1066", "task": "c2s", "q": "把这句中文翻译成Tavi语：线是苦的", "a": "gak phy dyt"}
+{"id": "tavi1067", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk dzo deit", "a": "水的云"}
+{"id": "tavi1068", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的鞋", "a": "dyk dzo zeit"}
+{"id": "tavi1069", "task": "c2s", "q": "把这句中文翻译成Tavi语：车的绳", "a": "fou dzo hyt"}
+{"id": "tavi1070", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei gwa zeit", "a": "灯和鞋"}
+{"id": "tavi1071", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout dzo zaet", "a": "衣的帽"}
+{"id": "tavi1072", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat dzo fouk", "a": "山的笛"}
+{"id": "tavi1073", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei gwa ga", "a": "塔和马"}
+{"id": "tavi1074", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子和鱼", "a": "gouk gwa fei"}
+{"id": "tavi1075", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟是冷的", "a": "vyt phy ha"}
+{"id": "tavi1076", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei gwa ja", "a": "网和火"}
+{"id": "tavi1077", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit dzo fa", "a": "鞋的针"}
+{"id": "tavi1078", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei gwa vaet", "a": "鱼和月亮"}
+{"id": "tavi1079", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak dzo geik", "a": "线的炉"}
+{"id": "tavi1080", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk phy fyt", "a": "雪是大的"}
+{"id": "tavi1081", "task": "gloss", "q": "Tavi语词“zyt”用中文怎么说？", "a": "方"}
+{"id": "tavi1082", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜是黑的", "a": "vei phy jak"}
+{"id": "tavi1083", "task": "c2s", "q": "把这句中文翻译成Tavi语：书和路", "a": "za gwa haet"}
+{"id": "tavi1084", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘和盐", "a": "dak gwa jy"}
+{"id": "tavi1085", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit dzo zeit", "a": "鞋的鞋"}
+{"id": "tavi1086", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟和路", "a": "vyt gwa haet"}
+{"id": "tavi1087", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗是红的", "a": "hae phy baek"}
+{"id": "tavi1088", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗和山", "a": "jeit gwa dat"}
+{"id": "tavi1089", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨是快的", "a": "feik phy gout"}
+{"id": "tavi1090", "task": "c2s", "q": "把这句中文翻译成Tavi语：花和车", "a": "by gwa fou"}
+{"id": "tavi1091", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk phy gy", "a": "鼓是轻的"}
+{"id": "tavi1092", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔是干的", "a": "zei phy hat"}
+{"id": "tavi1093", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳是湿的", "a": "hyt phy zae"}
+{"id": "tavi1094", "task": "gloss", "q": "Tavi语词“jou”用中文怎么说？", "a": "纸"}
+{"id": "tavi1095", "task": "c2s", "q": "把这句中文翻译成Tavi语：车和盐", "a": "fou gwa jy"}
+{"id": "tavi1096", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae gwa jyk", "a": "布和门"}
+{"id": "tavi1097", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet dzo jout", "a": "路的衣"}
+{"id": "tavi1098", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和水", "a": "vei gwa zouk"}
+{"id": "tavi1099", "task": "c2s", "q": "把这句中文翻译成Tavi语：火和鼓", "a": "ja gwa dyk"}
+{"id": "tavi1100", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit dzo by", "a": "碗的花"}
+{"id": "tavi1101", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk phy bei", "a": "门是小的"}
+{"id": "tavi1102", "task": "c2s", "q": "把这句中文翻译成Tavi语：米和镜", "a": "bak gwa vei"}
+{"id": "tavi1103", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi1104", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt phy veik", "a": "绳是软的"}
+{"id": "tavi1105", "task": "gloss", "q": "Tavi语词“vak”用中文怎么说？", "a": "钟"}
+{"id": "tavi1106", "task": "gloss", "q": "Tavi语词“fat”用中文怎么说？", "a": "笔"}
+{"id": "tavi1107", "task": "gloss", "q": "Tavi语词“jout”用中文怎么说？", "a": "衣"}
+{"id": "tavi1108", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei dzo dyk", "a": "镜的鼓"}
+{"id": "tavi1109", "task": "c2s", "q": "把这句中文翻译成Tavi语：席和鱼", "a": "faet gwa fei"}
+{"id": "tavi1110", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit dzo geik", "a": "碗的炉"}
+{"id": "tavi1111", "task": "gloss", "q": "Tavi语词“jou”用中文怎么说？", "a": "纸"}
+{"id": "tavi1112", "task": "c2s", "q": "把这句中文翻译成Tavi语：车的井", "a": "fou dzo beik"}
+{"id": "tavi1113", "task": "gloss", "q": "Tavi语词“dei”用中文怎么说？", "a": "网"}
+{"id": "tavi1114", "task": "c2s", "q": "把这句中文翻译成Tavi语：船的纸", "a": "zou dzo jou"}
+{"id": "tavi1115", "task": "gloss", "q": "Tavi语词“jy”用中文怎么说？", "a": "盐"}
+{"id": "tavi1116", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯的刀", "a": "jei dzo zat"}
+{"id": "tavi1117", "task": "c2s", "q": "把这句中文翻译成Tavi语：火的伞", "a": "ja dzo vaek"}
+{"id": "tavi1118", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei phy bei", "a": "灯是小的"}
+{"id": "tavi1119", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔和钟", "a": "fat gwa vak"}
+{"id": "tavi1120", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei phy hat", "a": "灯是干的"}
+{"id": "tavi1121", "task": "gloss", "q": "Tavi语词“vout”用中文怎么说？", "a": "蓝"}
+{"id": "tavi1122", "task": "c2s", "q": "把这句中文翻译成Tavi语：山和桥", "a": "dat gwa vyk"}
+{"id": "tavi1123", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik phy fy", "a": "井是旧的"}
+{"id": "tavi1124", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat phy feit", "a": "山是甜的"}
+{"id": "tavi1125", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei gwa deik", "a": "塔和河流"}
+{"id": "tavi1126", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮是臭的", "a": "vaet phy geit"}
+{"id": "tavi1127", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子和叶子", "a": "gouk gwa gouk"}
+{"id": "tavi1128", "task": "gloss", "q": "Tavi语词“feit”用中文怎么说？", "a": "甜"}
+{"id": "tavi1129", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋是浅的", "a": "zeit phy vouk"}
+{"id": "tavi1130", "task": "gloss", "q": "Tavi语词“vak”用中文怎么说？", "a": "钟"}
+{"id": "tavi1131", "task": "c2s", "q": "把这句中文翻译成Tavi语：门是香的", "a": "jyk phy jyt"}
+{"id": "tavi1132", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi1133", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk gwa za", "a": "茶和书"}
+{"id": "tavi1134", "task": "c2s", "q": "把这句中文翻译成Tavi语：船的水", "a": "zou dzo zouk"}
+{"id": "tavi1135", "task": "gloss", "q": "Tavi语词“baek”用中文怎么说？", "a": "红"}
+{"id": "tavi1136", "task": "gloss", "q": "Tavi语词“houk”用中文怎么说？", "a": "硬"}
+{"id": "tavi1137", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet dzo deik", "a": "路的河流"}
+{"id": "tavi1138", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk dzo geik", "a": "笛的炉"}
+{"id": "tavi1139", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy vout", "a": "月亮是蓝的"}
+{"id": "tavi1140", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子是白的", "a": "gouk phy bat"}
+{"id": "tavi1141", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮的盐", "a": "vaet dzo jy"}
+{"id": "tavi1142", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa gwa faet", "a": "针和席"}
+{"id": "tavi1143", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi1144", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae phy zyt", "a": "瓶是方的"}
+{"id": "tavi1145", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋是硬的", "a": "zeit phy houk"}
+{"id": "tavi1146", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚的刀", "a": "gei dzo zat"}
+{"id": "tavi1147", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣和刀", "a": "jout gwa zat"}
+{"id": "tavi1148", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa fae", "a": "窗和瓶"}
+{"id": "tavi1149", "task": "c2s", "q": "把这句中文翻译成Tavi语：线的鱼", "a": "gak dzo fei"}
+{"id": "tavi1150", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi1151", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk gwa zei", "a": "门和塔"}
+{"id": "tavi1152", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk dzo jou", "a": "叶子的纸"}
+{"id": "tavi1153", "task": "c2s", "q": "把这句中文翻译成Tavi语：席的钟", "a": "faet dzo vak"}
+{"id": "tavi1154", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat phy fy", "a": "山是旧的"}
+{"id": "tavi1155", "task": "s2c", "q": "把这句Tavi语翻译成中文：za gwa za", "a": "书和书"}
+{"id": "tavi1156", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat dzo dei", "a": "笔的网"}
+{"id": "tavi1157", "task": "c2s", "q": "把这句中文翻译成Tavi语：线是硬的", "a": "gak phy houk"}
+{"id": "tavi1158", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei gwa fa", "a": "鱼和针"}
+{"id": "tavi1159", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei gwa ga", "a": "镜和马"}
+{"id": "tavi1160", "task": "gloss", "q": "Tavi语词“hyk”用中文怎么说？", "a": "暗"}
+{"id": "tavi1161", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐是湿的", "a": "jy phy zae"}
+{"id": "tavi1162", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou gwa jei", "a": "纸和灯"}
+{"id": "tavi1163", "task": "gloss", "q": "Tavi语词“hae”用中文怎么说？", "a": "窗"}
+{"id": "tavi1164", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou phy jak", "a": "船是黑的"}
+{"id": "tavi1165", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat dzo jei", "a": "山的灯"}
+{"id": "tavi1166", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa zeit", "a": "瓶和鞋"}
+{"id": "tavi1167", "task": "gloss", "q": "Tavi语词“jei”用中文怎么说？", "a": "灯"}
+{"id": "tavi1168", "task": "gloss", "q": "Tavi语词“vout”用中文怎么说？", "a": "蓝"}
+{"id": "tavi1169", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik dzo deit", "a": "井的云"}
+{"id": "tavi1170", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟和伞", "a": "vak gwa vaek"}
+{"id": "tavi1171", "task": "c2s", "q": "把这句中文翻译成Tavi语：路和盐", "a": "haet gwa jy"}
+{"id": "tavi1172", "task": "gloss", "q": "Tavi语词“fat”用中文怎么说？", "a": "笔"}
+{"id": "tavi1173", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是香的", "a": "dat phy jyt"}
+{"id": "tavi1174", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗和火", "a": "hae gwa ja"}
+{"id": "tavi1175", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt dzo gae", "a": "绳的布"}
+{"id": "tavi1176", "task": "c2s", "q": "把这句中文翻译成Tavi语：车是甜的", "a": "fou phy feit"}
+{"id": "tavi1177", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout dzo fou", "a": "衣的车"}
+{"id": "tavi1178", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮的席", "a": "vaet dzo faet"}
+{"id": "tavi1179", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei gwa jout", "a": "鱼和衣"}
+{"id": "tavi1180", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛和茶", "a": "fouk gwa gyk"}
+{"id": "tavi1181", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa dzo by", "a": "针的花"}
+{"id": "tavi1182", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶是圆的", "a": "fae phy beit"}
+{"id": "tavi1183", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞是冷的", "a": "vaek phy ha"}
+{"id": "tavi1184", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛和刀", "a": "fouk gwa zat"}
+{"id": "tavi1185", "task": "gloss", "q": "Tavi语词“vout”用中文怎么说？", "a": "蓝"}
+{"id": "tavi1186", "task": "gloss", "q": "Tavi语词“dyt”用中文怎么说？", "a": "苦"}
+{"id": "tavi1187", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞和塔", "a": "vaek gwa zei"}
+{"id": "tavi1188", "task": "c2s", "q": "把这句中文翻译成Tavi语：井是大的", "a": "beik phy fyt"}
+{"id": "tavi1189", "task": "gloss", "q": "Tavi语词“deit”用中文怎么说？", "a": "云"}
+{"id": "tavi1190", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy jak", "a": "云是黑的"}
+{"id": "tavi1191", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk phy gout", "a": "桥是快的"}
+{"id": "tavi1192", "task": "c2s", "q": "把这句中文翻译成Tavi语：水和钟", "a": "zouk gwa vak"}
+{"id": "tavi1193", "task": "gloss", "q": "Tavi语词“vyt”用中文怎么说？", "a": "鸟"}
+{"id": "tavi1194", "task": "c2s", "q": "把这句中文翻译成Tavi语：路和鱼", "a": "haet gwa fei"}
+{"id": "tavi1195", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy gwa zei", "a": "盐和塔"}
+{"id": "tavi1196", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉和针", "a": "geik gwa fa"}
+{"id": "tavi1197", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥的树", "a": "vyk dzo jaet"}
+{"id": "tavi1198", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣和花", "a": "jout gwa by"}
+{"id": "tavi1199", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa dzo fei", "a": "针的鱼"}
+{"id": "tavi1200", "task": "gloss", "q": "Tavi语词“by”用中文怎么说？", "a": "花"}
+{"id": "tavi1201", "task": "s2c", "q": "把这句Tavi语翻译成中文：za dzo fou", "a": "书的车"}
+{"id": "tavi1202", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik gwa vyt", "a": "炉和鸟"}
+{"id": "tavi1203", "task": "c2s", "q": "把这句中文翻译成Tavi语：树和刀", "a": "jaet gwa zat"}
+{"id": "tavi1204", "task": "s2c", "q": "把这句Tavi语翻译成中文：by dzo za", "a": "花的书"}
+{"id": "tavi1205", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi1206", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和镜", "a": "baet gwa vei"}
+{"id": "tavi1207", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik dzo fou", "a": "炉的车"}
+{"id": "tavi1208", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy veik", "a": "墨是软的"}
+{"id": "tavi1209", "task": "gloss", "q": "Tavi语词“feik”用中文怎么说？", "a": "墨"}
+{"id": "tavi1210", "task": "c2s", "q": "把这句中文翻译成Tavi语：云是香的", "a": "deit phy jyt"}
+{"id": "tavi1211", "task": "c2s", "q": "把这句中文翻译成Tavi语：针是大的", "a": "fa phy fyt"}
+{"id": "tavi1212", "task": "c2s", "q": "把这句中文翻译成Tavi语：树和笔", "a": "jaet gwa fat"}
+{"id": "tavi1213", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽的炉", "a": "zaet dzo geik"}
+{"id": "tavi1214", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗和叶子", "a": "hae gwa gouk"}
+{"id": "tavi1215", "task": "gloss", "q": "Tavi语词“baet”用中文怎么说？", "a": "石头"}
+{"id": "tavi1216", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼和线", "a": "fei gwa gak"}
+{"id": "tavi1217", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa dei", "a": "云和网"}
+{"id": "tavi1218", "task": "c2s", "q": "把这句中文翻译成Tavi语：云是热的", "a": "deit phy heik"}
+{"id": "tavi1219", "task": "gloss", "q": "Tavi语词“geit”用中文怎么说？", "a": "臭"}
+{"id": "tavi1220", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的布", "a": "dyk dzo gae"}
+{"id": "tavi1221", "task": "c2s", "q": "把这句中文翻译成Tavi语：门和窗", "a": "jyk gwa hae"}
+{"id": "tavi1222", "task": "gloss", "q": "Tavi语词“deit”用中文怎么说？", "a": "云"}
+{"id": "tavi1223", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的伞", "a": "jout dzo vaek"}
+{"id": "tavi1224", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik dzo deik", "a": "墨的河流"}
+{"id": "tavi1225", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk gwa jyk", "a": "门和门"}
+{"id": "tavi1226", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk dzo jout", "a": "门的衣"}
+{"id": "tavi1227", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat gwa fa", "a": "笔和针"}
+{"id": "tavi1228", "task": "gloss", "q": "Tavi语词“vyk”用中文怎么说？", "a": "桥"}
+{"id": "tavi1229", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk gwa dyk", "a": "叶子和鼓"}
+{"id": "tavi1230", "task": "gloss", "q": "Tavi语词“jy”用中文怎么说？", "a": "盐"}
+{"id": "tavi1231", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯和茶", "a": "jei gwa gyk"}
+{"id": "tavi1232", "task": "gloss", "q": "Tavi语词“vae”用中文怎么说？", "a": "窄"}
+{"id": "tavi1233", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit phy bouk", "a": "鞋是亮的"}
+{"id": "tavi1234", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸是圆的", "a": "jou phy beit"}
+{"id": "tavi1235", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔和书", "a": "zei gwa za"}
+{"id": "tavi1236", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔和鼓", "a": "fat gwa dyk"}
+{"id": "tavi1237", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是湿的", "a": "dat phy zae"}
+{"id": "tavi1238", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak phy vae", "a": "米是窄的"}
+{"id": "tavi1239", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和云", "a": "vei gwa deit"}
+{"id": "tavi1240", "task": "gloss", "q": "Tavi语词“jou”用中文怎么说？", "a": "纸"}
+{"id": "tavi1241", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸和云", "a": "jou gwa deit"}
+{"id": "tavi1242", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟的火", "a": "vak dzo ja"}
+{"id": "tavi1243", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo jeit", "a": "塔的碗"}
+{"id": "tavi1244", "task": "c2s", "q": "把这句中文翻译成Tavi语：山的布", "a": "dat dzo gae"}
+{"id": "tavi1245", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet gwa vaet", "a": "月亮和月亮"}
+{"id": "tavi1246", "task": "c2s", "q": "把这句中文翻译成Tavi语：花的路", "a": "by dzo haet"}
+{"id": "tavi1247", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy veik", "a": "茶是软的"}
+{"id": "tavi1248", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak gwa fat", "a": "算盘和笔"}
+{"id": "tavi1249", "task": "gloss", "q": "Tavi语词“vei”用中文怎么说？", "a": "镜"}
+{"id": "tavi1250", "task": "c2s", "q": "把这句中文翻译成Tavi语：网和算盘", "a": "dei gwa dak"}
+{"id": "tavi1251", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei gwa gyk", "a": "鱼和茶"}
+{"id": "tavi1252", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek dzo zat", "a": "伞的刀"}
+{"id": "tavi1253", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓和云", "a": "dyk gwa deit"}
+{"id": "tavi1254", "task": "gloss", "q": "Tavi语词“geik”用中文怎么说？", "a": "炉"}
+{"id": "tavi1255", "task": "c2s", "q": "把这句中文翻译成Tavi语：马的席", "a": "ga dzo faet"}
+{"id": "tavi1256", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat gwa byk", "a": "山和雪"}
+{"id": "tavi1257", "task": "gloss", "q": "Tavi语词“dak”用中文怎么说？", "a": "算盘"}
+{"id": "tavi1258", "task": "gloss", "q": "Tavi语词“jou”用中文怎么说？", "a": "纸"}
+{"id": "tavi1259", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头的瓶", "a": "baet dzo fae"}
+{"id": "tavi1260", "task": "c2s", "q": "把这句中文翻译成Tavi语：车是亮的", "a": "fou phy bouk"}
+{"id": "tavi1261", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的布", "a": "jy dzo gae"}
+{"id": "tavi1262", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶和墨", "a": "fae gwa feik"}
+{"id": "tavi1263", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶的鞋", "a": "fae dzo zeit"}
+{"id": "tavi1264", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou gwa gyk", "a": "车和茶"}
+{"id": "tavi1265", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo hae", "a": "塔的窗"}
+{"id": "tavi1266", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头的石头", "a": "baet dzo baet"}
+{"id": "tavi1267", "task": "gloss", "q": "Tavi语词“gout”用中文怎么说？", "a": "快"}
+{"id": "tavi1268", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi1269", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae phy dy", "a": "窗是慢的"}
+{"id": "tavi1270", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪是深的", "a": "byk phy fak"}
+{"id": "tavi1271", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae dzo jyk", "a": "窗的门"}
+{"id": "tavi1272", "task": "gloss", "q": "Tavi语词“geik”用中文怎么说？", "a": "炉"}
+{"id": "tavi1273", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja gwa jyk", "a": "火和门"}
+{"id": "tavi1274", "task": "gloss", "q": "Tavi语词“byk”用中文怎么说？", "a": "雪"}
+{"id": "tavi1275", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei phy jak", "a": "镜是黑的"}
+{"id": "tavi1276", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa za", "a": "瓶和书"}
+{"id": "tavi1277", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak gwa za", "a": "算盘和书"}
+{"id": "tavi1278", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek phy heik", "a": "伞是热的"}
+{"id": "tavi1279", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi1280", "task": "gloss", "q": "Tavi语词“jyt”用中文怎么说？", "a": "香"}
+{"id": "tavi1281", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗和桥", "a": "jeit gwa vyk"}
+{"id": "tavi1282", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet dzo vak", "a": "路的钟"}
+{"id": "tavi1283", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的船", "a": "jout dzo zou"}
+{"id": "tavi1284", "task": "c2s", "q": "把这句中文翻译成Tavi语：席和灯", "a": "faet gwa jei"}
+{"id": "tavi1285", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit dzo gouk", "a": "鞋的叶子"}
+{"id": "tavi1286", "task": "c2s", "q": "把这句中文翻译成Tavi语：车的火", "a": "fou dzo ja"}
+{"id": "tavi1287", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei phy bouk", "a": "镜是亮的"}
+{"id": "tavi1288", "task": "gloss", "q": "Tavi语词“vyk”用中文怎么说？", "a": "桥"}
+{"id": "tavi1289", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk gwa vei", "a": "茶和镜"}
+{"id": "tavi1290", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet dzo gae", "a": "石头的布"}
+{"id": "tavi1291", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛和路", "a": "fouk gwa haet"}
+{"id": "tavi1292", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou phy vouk", "a": "纸是浅的"}
+{"id": "tavi1293", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk phy fak", "a": "笛是深的"}
+{"id": "tavi1294", "task": "gloss", "q": "Tavi语词“vei”用中文怎么说？", "a": "镜"}
+{"id": "tavi1295", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi1296", "task": "gloss", "q": "Tavi语词“hyt”用中文怎么说？", "a": "绳"}
+{"id": "tavi1297", "task": "c2s", "q": "把这句中文翻译成Tavi语：针的叶子", "a": "fa dzo gouk"}
+{"id": "tavi1298", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak phy hyk", "a": "钟是暗的"}
+{"id": "tavi1299", "task": "gloss", "q": "Tavi语词“dou”用中文怎么说？", "a": "宽"}
+{"id": "tavi1300", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei phy dy", "a": "塔是慢的"}
+{"id": "tavi1301", "task": "gloss", "q": "Tavi语词“deit”用中文怎么说？", "a": "云"}
+{"id": "tavi1302", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的线", "a": "jy dzo gak"}
+{"id": "tavi1303", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk phy veik", "a": "桥是软的"}
+{"id": "tavi1304", "task": "c2s", "q": "把这句中文翻译成Tavi语：路的山", "a": "haet dzo dat"}
+{"id": "tavi1305", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的马", "a": "jout dzo ga"}
+{"id": "tavi1306", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟的纸", "a": "vyt dzo jou"}
+{"id": "tavi1307", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat dzo fae", "a": "笔的瓶"}
+{"id": "tavi1308", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk dzo dak", "a": "桥的算盘"}
+{"id": "tavi1309", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的船", "a": "jout dzo zou"}
+{"id": "tavi1310", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak dzo deit", "a": "线的云"}
+{"id": "tavi1311", "task": "c2s", "q": "把这句中文翻译成Tavi语：船的云", "a": "zou dzo deit"}
+{"id": "tavi1312", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是浅的", "a": "dat phy vouk"}
+{"id": "tavi1313", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk phy feit", "a": "门是甜的"}
+{"id": "tavi1314", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥是小的", "a": "vyk phy bei"}
+{"id": "tavi1315", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk dzo zouk", "a": "鼓的水"}
+{"id": "tavi1316", "task": "gloss", "q": "Tavi语词“jout”用中文怎么说？", "a": "衣"}
+{"id": "tavi1317", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋是香的", "a": "zeit phy jyt"}
+{"id": "tavi1318", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗是苦的", "a": "hae phy dyt"}
+{"id": "tavi1319", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet phy feit", "a": "席是甜的"}
+{"id": "tavi1320", "task": "gloss", "q": "Tavi语词“jeit”用中文怎么说？", "a": "碗"}
+{"id": "tavi1321", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga phy veik", "a": "马是软的"}
+{"id": "tavi1322", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei dzo jy", "a": "鱼的盐"}
+{"id": "tavi1323", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet gwa fei", "a": "月亮和鱼"}
+{"id": "tavi1324", "task": "c2s", "q": "把这句中文翻译成Tavi语：水的笛", "a": "zouk dzo fouk"}
+{"id": "tavi1325", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓和瓶", "a": "dyk gwa fae"}
+{"id": "tavi1326", "task": "gloss", "q": "Tavi语词“vouk”用中文怎么说？", "a": "浅"}
+{"id": "tavi1327", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔和砚", "a": "fat gwa gei"}
+{"id": "tavi1328", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶是冷的", "a": "fae phy ha"}
+{"id": "tavi1329", "task": "c2s", "q": "把这句中文翻译成Tavi语：树是轻的", "a": "jaet phy gy"}
+{"id": "tavi1330", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣和米", "a": "jout gwa bak"}
+{"id": "tavi1331", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和车", "a": "vei gwa fou"}
+{"id": "tavi1332", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa gwa feik", "a": "针和墨"}
+{"id": "tavi1333", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou dzo hyt", "a": "纸的绳"}
+{"id": "tavi1334", "task": "gloss", "q": "Tavi语词“bat”用中文怎么说？", "a": "白"}
+{"id": "tavi1335", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk dzo fou", "a": "茶的车"}
+{"id": "tavi1336", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak gwa baet", "a": "线和石头"}
+{"id": "tavi1337", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei phy dyt", "a": "砚是苦的"}
+{"id": "tavi1338", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀是干的", "a": "zat phy hat"}
+{"id": "tavi1339", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和雪", "a": "deit gwa byk"}
+{"id": "tavi1340", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak gwa bak", "a": "线和米"}
+{"id": "tavi1341", "task": "s2c", "q": "把这句Tavi语翻译成中文：za gwa dak", "a": "书和算盘"}
+{"id": "tavi1342", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou gwa jyk", "a": "纸和门"}
+{"id": "tavi1343", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout gwa gyk", "a": "衣和茶"}
+{"id": "tavi1344", "task": "c2s", "q": "把这句中文翻译成Tavi语：云是苦的", "a": "deit phy dyt"}
+{"id": "tavi1345", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat dzo vaet", "a": "刀的月亮"}
+{"id": "tavi1346", "task": "gloss", "q": "Tavi语词“jy”用中文怎么说？", "a": "盐"}
+{"id": "tavi1347", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei gwa jy", "a": "网和盐"}
+{"id": "tavi1348", "task": "c2s", "q": "把这句中文翻译成Tavi语：火是软的", "a": "ja phy veik"}
+{"id": "tavi1349", "task": "gloss", "q": "Tavi语词“beit”用中文怎么说？", "a": "圆"}
+{"id": "tavi1350", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei dzo geik", "a": "砚的炉"}
+{"id": "tavi1351", "task": "c2s", "q": "把这句中文翻译成Tavi语：马和船", "a": "ga gwa zou"}
+{"id": "tavi1352", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗是新的", "a": "jeit phy jat"}
+{"id": "tavi1353", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet dzo bak", "a": "路的米"}
+{"id": "tavi1354", "task": "c2s", "q": "把这句中文翻译成Tavi语：井的书", "a": "beik dzo za"}
+{"id": "tavi1355", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet phy vouk", "a": "帽是浅的"}
+{"id": "tavi1356", "task": "c2s", "q": "把这句中文翻译成Tavi语：水的镜", "a": "zouk dzo vei"}
+{"id": "tavi1357", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik gwa baet", "a": "河流和石头"}
+{"id": "tavi1358", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak dzo zat", "a": "钟的刀"}
+{"id": "tavi1359", "task": "c2s", "q": "把这句中文翻译成Tavi语：路和车", "a": "haet gwa fou"}
+{"id": "tavi1360", "task": "c2s", "q": "把这句中文翻译成Tavi语：树是深的", "a": "jaet phy fak"}
+{"id": "tavi1361", "task": "c2s", "q": "把这句中文翻译成Tavi语：车的布", "a": "fou dzo gae"}
+{"id": "tavi1362", "task": "gloss", "q": "Tavi语词“vae”用中文怎么说？", "a": "窄"}
+{"id": "tavi1363", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣是白的", "a": "jout phy bat"}
+{"id": "tavi1364", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk gwa zouk", "a": "叶子和水"}
+{"id": "tavi1365", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou phy bei", "a": "船是小的"}
+{"id": "tavi1366", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流是圆的", "a": "deik phy beit"}
+{"id": "tavi1367", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和门", "a": "deit gwa jyk"}
+{"id": "tavi1368", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja dzo zat", "a": "火的刀"}
+{"id": "tavi1369", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和火", "a": "baet gwa ja"}
+{"id": "tavi1370", "task": "gloss", "q": "Tavi语词“vout”用中文怎么说？", "a": "蓝"}
+{"id": "tavi1371", "task": "c2s", "q": "把这句中文翻译成Tavi语：山和云", "a": "dat gwa deit"}
+{"id": "tavi1372", "task": "s2c", "q": "把这句Tavi语翻译成中文：by phy gy", "a": "花是轻的"}
+{"id": "tavi1373", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥的衣", "a": "vyk dzo jout"}
+{"id": "tavi1374", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit dzo fou", "a": "碗的车"}
+{"id": "tavi1375", "task": "gloss", "q": "Tavi语词“haet”用中文怎么说？", "a": "路"}
+{"id": "tavi1376", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘的井", "a": "dak dzo beik"}
+{"id": "tavi1377", "task": "c2s", "q": "把这句中文翻译成Tavi语：网是浅的", "a": "dei phy vouk"}
+{"id": "tavi1378", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy hat", "a": "云是干的"}
+{"id": "tavi1379", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk dzo gyk", "a": "茶的茶"}
+{"id": "tavi1380", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae dzo fou", "a": "窗的车"}
+{"id": "tavi1381", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼和碗", "a": "fei gwa jeit"}
+{"id": "tavi1382", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak dzo fei", "a": "米的鱼"}
+{"id": "tavi1383", "task": "c2s", "q": "把这句中文翻译成Tavi语：针是暗的", "a": "fa phy hyk"}
+{"id": "tavi1384", "task": "gloss", "q": "Tavi语词“jyk”用中文怎么说？", "a": "门"}
+{"id": "tavi1385", "task": "gloss", "q": "Tavi语词“beik”用中文怎么说？", "a": "井"}
+{"id": "tavi1386", "task": "c2s", "q": "把这句中文翻译成Tavi语：马的窗", "a": "ga dzo hae"}
+{"id": "tavi1387", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮的炉", "a": "vaet dzo geik"}
+{"id": "tavi1388", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk phy bei", "a": "雪是小的"}
+{"id": "tavi1389", "task": "c2s", "q": "把这句中文翻译成Tavi语：树是热的", "a": "jaet phy heik"}
+{"id": "tavi1390", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat phy jyt", "a": "笔是香的"}
+{"id": "tavi1391", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou phy bouk", "a": "船是亮的"}
+{"id": "tavi1392", "task": "gloss", "q": "Tavi语词“fei”用中文怎么说？", "a": "鱼"}
+{"id": "tavi1393", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚是窄的", "a": "gei phy vae"}
+{"id": "tavi1394", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei dzo deik", "a": "鱼的河流"}
+{"id": "tavi1395", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸和砚", "a": "jou gwa gei"}
+{"id": "tavi1396", "task": "c2s", "q": "把这句中文翻译成Tavi语：布的钟", "a": "gae dzo vak"}
+{"id": "tavi1397", "task": "gloss", "q": "Tavi语词“deit”用中文怎么说？", "a": "云"}
+{"id": "tavi1398", "task": "gloss", "q": "Tavi语词“dat”用中文怎么说？", "a": "山"}
+{"id": "tavi1399", "task": "c2s", "q": "把这句中文翻译成Tavi语：车和钟", "a": "fou gwa vak"}
+{"id": "tavi1400", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga gwa gae", "a": "马和布"}
+{"id": "tavi1401", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔和路", "a": "fat gwa haet"}
+{"id": "tavi1402", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout phy veik", "a": "衣是软的"}
+{"id": "tavi1403", "task": "s2c", "q": "把这句Tavi语翻译成中文：by phy zyt", "a": "花是方的"}
+{"id": "tavi1404", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik dzo gak", "a": "墨的线"}
+{"id": "tavi1405", "task": "c2s", "q": "把这句中文翻译成Tavi语：米是窄的", "a": "bak phy vae"}
+{"id": "tavi1406", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗和桥", "a": "jeit gwa vyk"}
+{"id": "tavi1407", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt dzo fei", "a": "鸟的鱼"}
+{"id": "tavi1408", "task": "s2c", "q": "把这句Tavi语翻译成中文：by dzo zat", "a": "花的刀"}
+{"id": "tavi1409", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa fouk", "a": "路和笛"}
+{"id": "tavi1410", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk gwa vyk", "a": "鼓和桥"}
+{"id": "tavi1411", "task": "gloss", "q": "Tavi语词“zeit”用中文怎么说？", "a": "鞋"}
+{"id": "tavi1412", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk gwa fa", "a": "桥和针"}
+{"id": "tavi1413", "task": "gloss", "q": "Tavi语词“fou”用中文怎么说？", "a": "车"}
+{"id": "tavi1414", "task": "gloss", "q": "Tavi语词“ga”用中文怎么说？", "a": "马"}
+{"id": "tavi1415", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流的纸", "a": "deik dzo jou"}
+{"id": "tavi1416", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae dzo fei", "a": "瓶的鱼"}
+{"id": "tavi1417", "task": "s2c", "q": "把这句Tavi语翻译成中文：by gwa gak", "a": "花和线"}
+{"id": "tavi1418", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和花", "a": "baet gwa by"}
+{"id": "tavi1419", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和钟", "a": "deit gwa vak"}
+{"id": "tavi1420", "task": "c2s", "q": "把这句中文翻译成Tavi语：席的船", "a": "faet dzo zou"}
+{"id": "tavi1421", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei phy dyt", "a": "砚是苦的"}
+{"id": "tavi1422", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀是蓝的", "a": "zat phy vout"}
+{"id": "tavi1423", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat dzo fouk", "a": "山的笛"}
+{"id": "tavi1424", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨是亮的", "a": "feik phy bouk"}
+{"id": "tavi1425", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy vout", "a": "茶是蓝的"}
+{"id": "tavi1426", "task": "gloss", "q": "Tavi语词“fou”用中文怎么说？", "a": "车"}
+{"id": "tavi1427", "task": "s2c", "q": "把这句Tavi语翻译成中文：za dzo gei", "a": "书的砚"}
+{"id": "tavi1428", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk gwa jy", "a": "水和盐"}
+{"id": "tavi1429", "task": "gloss", "q": "Tavi语词“houk”用中文怎么说？", "a": "硬"}
+{"id": "tavi1430", "task": "gloss", "q": "Tavi语词“gouk”用中文怎么说？", "a": "叶子"}
+{"id": "tavi1431", "task": "gloss", "q": "Tavi语词“veik”用中文怎么说？", "a": "软"}
+{"id": "tavi1432", "task": "gloss", "q": "Tavi语词“dei”用中文怎么说？", "a": "网"}
+{"id": "tavi1433", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是小的", "a": "dat phy bei"}
+{"id": "tavi1434", "task": "c2s", "q": "把这句中文翻译成Tavi语：米是窄的", "a": "bak phy vae"}
+{"id": "tavi1435", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的镜", "a": "za dzo vei"}
+{"id": "tavi1436", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜的车", "a": "vei dzo fou"}
+{"id": "tavi1437", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo zat", "a": "马的刀"}
+{"id": "tavi1438", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei gwa gouk", "a": "灯和叶子"}
+{"id": "tavi1439", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou gwa fouk", "a": "车和笛"}
+{"id": "tavi1440", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳的船", "a": "hyt dzo zou"}
+{"id": "tavi1441", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit dzo jeit", "a": "鞋的碗"}
+{"id": "tavi1442", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit gwa by", "a": "碗和花"}
+{"id": "tavi1443", "task": "gloss", "q": "Tavi语词“zouk”用中文怎么说？", "a": "水"}
+{"id": "tavi1444", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak phy houk", "a": "米是硬的"}
+{"id": "tavi1445", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou dzo fou", "a": "车的车"}
+{"id": "tavi1446", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa faet", "a": "窗和席"}
+{"id": "tavi1447", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae phy geit", "a": "布是臭的"}
+{"id": "tavi1448", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk dzo jou", "a": "水的纸"}
+{"id": "tavi1449", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk dzo bak", "a": "茶的米"}
+{"id": "tavi1450", "task": "c2s", "q": "把这句中文翻译成Tavi语：山和伞", "a": "dat gwa vaek"}
+{"id": "tavi1451", "task": "gloss", "q": "Tavi语词“jak”用中文怎么说？", "a": "黑"}
+{"id": "tavi1452", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak phy bei", "a": "算盘是小的"}
+{"id": "tavi1453", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit gwa deit", "a": "鞋和云"}
+{"id": "tavi1454", "task": "c2s", "q": "把这句中文翻译成Tavi语：网是宽的", "a": "dei phy dou"}
+{"id": "tavi1455", "task": "s2c", "q": "把这句Tavi语翻译成中文：by phy gout", "a": "花是快的"}
+{"id": "tavi1456", "task": "gloss", "q": "Tavi语词“dei”用中文怎么说？", "a": "网"}
+{"id": "tavi1457", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak dzo gae", "a": "算盘的布"}
+{"id": "tavi1458", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和布", "a": "baet gwa gae"}
+{"id": "tavi1459", "task": "gloss", "q": "Tavi语词“dy”用中文怎么说？", "a": "慢"}
+{"id": "tavi1460", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei dzo zouk", "a": "网的水"}
+{"id": "tavi1461", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga gwa fou", "a": "马和车"}
+{"id": "tavi1462", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa zei", "a": "瓶和塔"}
+{"id": "tavi1463", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓是湿的", "a": "dyk phy zae"}
+{"id": "tavi1464", "task": "gloss", "q": "Tavi语词“beik”用中文怎么说？", "a": "井"}
+{"id": "tavi1465", "task": "gloss", "q": "Tavi语词“baet”用中文怎么说？", "a": "石头"}
+{"id": "tavi1466", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛和碗", "a": "fouk gwa jeit"}
+{"id": "tavi1467", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk gwa beik", "a": "雪和井"}
+{"id": "tavi1468", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨的钟", "a": "feik dzo vak"}
+{"id": "tavi1469", "task": "gloss", "q": "Tavi语词“zaet”用中文怎么说？", "a": "帽"}
+{"id": "tavi1470", "task": "gloss", "q": "Tavi语词“zeit”用中文怎么说？", "a": "鞋"}
+{"id": "tavi1471", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚是新的", "a": "gei phy jat"}
+{"id": "tavi1472", "task": "c2s", "q": "把这句中文翻译成Tavi语：船和叶子", "a": "zou gwa gouk"}
+{"id": "tavi1473", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉和笔", "a": "geik gwa fat"}
+{"id": "tavi1474", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛是重的", "a": "fouk phy hei"}
+{"id": "tavi1475", "task": "c2s", "q": "把这句中文翻译成Tavi语：船是浅的", "a": "zou phy vouk"}
+{"id": "tavi1476", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa zeit", "a": "瓶和鞋"}
+{"id": "tavi1477", "task": "gloss", "q": "Tavi语词“fei”用中文怎么说？", "a": "鱼"}
+{"id": "tavi1478", "task": "gloss", "q": "Tavi语词“veik”用中文怎么说？", "a": "软"}
+{"id": "tavi1479", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou dzo zouk", "a": "车的水"}
+{"id": "tavi1480", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀和针", "a": "zat gwa fa"}
+{"id": "tavi1481", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt phy dyt", "a": "绳是苦的"}
+{"id": "tavi1482", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk gwa fei", "a": "雪和鱼"}
+{"id": "tavi1483", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak gwa jout", "a": "钟和衣"}
+{"id": "tavi1484", "task": "c2s", "q": "把这句中文翻译成Tavi语：花的马", "a": "by dzo ga"}
+{"id": "tavi1485", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae gwa zat", "a": "布和刀"}
+{"id": "tavi1486", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi1487", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛的马", "a": "fouk dzo ga"}
+{"id": "tavi1488", "task": "c2s", "q": "把这句中文翻译成Tavi语：云是苦的", "a": "deit phy dyt"}
+{"id": "tavi1489", "task": "gloss", "q": "Tavi语词“zeit”用中文怎么说？", "a": "鞋"}
+{"id": "tavi1490", "task": "s2c", "q": "把这句Tavi语翻译成中文：za phy dou", "a": "书是宽的"}
+{"id": "tavi1491", "task": "c2s", "q": "把这句中文翻译成Tavi语：网和刀", "a": "dei gwa zat"}
+{"id": "tavi1492", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉的绳", "a": "geik dzo hyt"}
+{"id": "tavi1493", "task": "c2s", "q": "把这句中文翻译成Tavi语：米的桥", "a": "bak dzo vyk"}
+{"id": "tavi1494", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak phy baek", "a": "线是红的"}
+{"id": "tavi1495", "task": "c2s", "q": "把这句中文翻译成Tavi语：水的鱼", "a": "zouk dzo fei"}
+{"id": "tavi1496", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟是红的", "a": "vak phy baek"}
+{"id": "tavi1497", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout phy fak", "a": "衣是深的"}
+{"id": "tavi1498", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮的针", "a": "vaet dzo fa"}
+{"id": "tavi1499", "task": "gloss", "q": "Tavi语词“gout”用中文怎么说？", "a": "快"}
+{"id": "tavi1500", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat phy zyt", "a": "笔是方的"}
+{"id": "tavi1501", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是白的", "a": "dat phy bat"}
+{"id": "tavi1502", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗和砚", "a": "jeit gwa gei"}
+{"id": "tavi1503", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet gwa jeit", "a": "石头和碗"}
+{"id": "tavi1504", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk dzo fou", "a": "茶的车"}
+{"id": "tavi1505", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy geit", "a": "月亮是臭的"}
+{"id": "tavi1506", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek gwa hyt", "a": "伞和绳"}
+{"id": "tavi1507", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik phy fyt", "a": "井是大的"}
+{"id": "tavi1508", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa vak", "a": "路和钟"}
+{"id": "tavi1509", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和树", "a": "baet gwa jaet"}
+{"id": "tavi1510", "task": "gloss", "q": "Tavi语词“jat”用中文怎么说？", "a": "新"}
+{"id": "tavi1511", "task": "gloss", "q": "Tavi语词“hyt”用中文怎么说？", "a": "绳"}
+{"id": "tavi1512", "task": "gloss", "q": "Tavi语词“fei”用中文怎么说？", "a": "鱼"}
+{"id": "tavi1513", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚是旧的", "a": "gei phy fy"}
+{"id": "tavi1514", "task": "gloss", "q": "Tavi语词“hyk”用中文怎么说？", "a": "暗"}
+{"id": "tavi1515", "task": "c2s", "q": "把这句中文翻译成Tavi语：布和窗", "a": "gae gwa hae"}
+{"id": "tavi1516", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet dzo jou", "a": "席的纸"}
+{"id": "tavi1517", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy hei", "a": "墨是重的"}
+{"id": "tavi1518", "task": "gloss", "q": "Tavi语词“jaet”用中文怎么说？", "a": "树"}
+{"id": "tavi1519", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei dzo deik", "a": "镜的河流"}
+{"id": "tavi1520", "task": "gloss", "q": "Tavi语词“ha”用中文怎么说？", "a": "冷"}
+{"id": "tavi1521", "task": "gloss", "q": "Tavi语词“jou”用中文怎么说？", "a": "纸"}
+{"id": "tavi1522", "task": "gloss", "q": "Tavi语词“by”用中文怎么说？", "a": "花"}
+{"id": "tavi1523", "task": "c2s", "q": "把这句中文翻译成Tavi语：线是重的", "a": "gak phy hei"}
+{"id": "tavi1524", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa by", "a": "云和花"}
+{"id": "tavi1525", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳是深的", "a": "hyt phy fak"}
+{"id": "tavi1526", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet phy vouk", "a": "帽是浅的"}
+{"id": "tavi1527", "task": "c2s", "q": "把这句中文翻译成Tavi语：船是新的", "a": "zou phy jat"}
+{"id": "tavi1528", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳是暗的", "a": "hyt phy hyk"}
+{"id": "tavi1529", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪的桥", "a": "byk dzo vyk"}
+{"id": "tavi1530", "task": "gloss", "q": "Tavi语词“hei”用中文怎么说？", "a": "重"}
+{"id": "tavi1531", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥是苦的", "a": "vyk phy dyt"}
+{"id": "tavi1532", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔的河流", "a": "zei dzo deik"}
+{"id": "tavi1533", "task": "c2s", "q": "把这句中文翻译成Tavi语：马和茶", "a": "ga gwa gyk"}
+{"id": "tavi1534", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和笔", "a": "baet gwa fat"}
+{"id": "tavi1535", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐和云", "a": "jy gwa deit"}
+{"id": "tavi1536", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk dzo zeit", "a": "鼓的鞋"}
+{"id": "tavi1537", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo vyt", "a": "塔的鸟"}
+{"id": "tavi1538", "task": "c2s", "q": "把这句中文翻译成Tavi语：车是方的", "a": "fou phy zyt"}
+{"id": "tavi1539", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨和碗", "a": "feik gwa jeit"}
+{"id": "tavi1540", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak phy vae", "a": "钟是窄的"}
+{"id": "tavi1541", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk gwa vaet", "a": "笛和月亮"}
+{"id": "tavi1542", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt gwa zou", "a": "鸟和船"}
+{"id": "tavi1543", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀是硬的", "a": "zat phy houk"}
+{"id": "tavi1544", "task": "c2s", "q": "把这句中文翻译成Tavi语：车是新的", "a": "fou phy jat"}
+{"id": "tavi1545", "task": "c2s", "q": "把这句中文翻译成Tavi语：云的米", "a": "deit dzo bak"}
+{"id": "tavi1546", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶是干的", "a": "fae phy hat"}
+{"id": "tavi1547", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak dzo byk", "a": "算盘的雪"}
+{"id": "tavi1548", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗的衣", "a": "jeit dzo jout"}
+{"id": "tavi1549", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗的瓶", "a": "hae dzo fae"}
+{"id": "tavi1550", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯是快的", "a": "jei phy gout"}
+{"id": "tavi1551", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉的墨", "a": "geik dzo feik"}
+{"id": "tavi1552", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐和船", "a": "jy gwa zou"}
+{"id": "tavi1553", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk gwa fei", "a": "桥和鱼"}
+{"id": "tavi1554", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk phy fy", "a": "鼓是旧的"}
+{"id": "tavi1555", "task": "c2s", "q": "把这句中文翻译成Tavi语：路是冷的", "a": "haet phy ha"}
+{"id": "tavi1556", "task": "gloss", "q": "Tavi语词“geik”用中文怎么说？", "a": "炉"}
+{"id": "tavi1557", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja phy bouk", "a": "火是亮的"}
+{"id": "tavi1558", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk phy jyt", "a": "雪是香的"}
+{"id": "tavi1559", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋的车", "a": "zeit dzo fou"}
+{"id": "tavi1560", "task": "c2s", "q": "把这句中文翻译成Tavi语：线和线", "a": "gak gwa gak"}
+{"id": "tavi1561", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜的纸", "a": "vei dzo jou"}
+{"id": "tavi1562", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak dzo fat", "a": "钟的笔"}
+{"id": "tavi1563", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流的云", "a": "deik dzo deit"}
+{"id": "tavi1564", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik dzo haet", "a": "炉的路"}
+{"id": "tavi1565", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy dzo beik", "a": "盐的井"}
+{"id": "tavi1566", "task": "gloss", "q": "Tavi语词“hyk”用中文怎么说？", "a": "暗"}
+{"id": "tavi1567", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸和鱼", "a": "jou gwa fei"}
+{"id": "tavi1568", "task": "s2c", "q": "把这句Tavi语翻译成中文：by gwa fat", "a": "花和笔"}
+{"id": "tavi1569", "task": "c2s", "q": "把这句中文翻译成Tavi语：船是软的", "a": "zou phy veik"}
+{"id": "tavi1570", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk phy ha", "a": "门是冷的"}
+{"id": "tavi1571", "task": "s2c", "q": "把这句Tavi语翻译成中文：by gwa hyt", "a": "花和绳"}
+{"id": "tavi1572", "task": "gloss", "q": "Tavi语词“ga”用中文怎么说？", "a": "马"}
+{"id": "tavi1573", "task": "c2s", "q": "把这句中文翻译成Tavi语：针和门", "a": "fa gwa jyk"}
+{"id": "tavi1574", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的镜", "a": "za dzo vei"}
+{"id": "tavi1575", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚的树", "a": "gei dzo jaet"}
+{"id": "tavi1576", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜是冷的", "a": "vei phy ha"}
+{"id": "tavi1577", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的花", "a": "jout dzo by"}
+{"id": "tavi1578", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛是慢的", "a": "fouk phy dy"}
+{"id": "tavi1579", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛的山", "a": "fouk dzo dat"}
+{"id": "tavi1580", "task": "c2s", "q": "把这句中文翻译成Tavi语：路是香的", "a": "haet phy jyt"}
+{"id": "tavi1581", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜的鱼", "a": "vei dzo fei"}
+{"id": "tavi1582", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik phy gout", "a": "炉是快的"}
+{"id": "tavi1583", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋是旧的", "a": "zeit phy fy"}
+{"id": "tavi1584", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣和算盘", "a": "jout gwa dak"}
+{"id": "tavi1585", "task": "gloss", "q": "Tavi语词“zeit”用中文怎么说？", "a": "鞋"}
+{"id": "tavi1586", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout phy vout", "a": "衣是蓝的"}
+{"id": "tavi1587", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt phy bouk", "a": "鸟是亮的"}
+{"id": "tavi1588", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt phy jyt", "a": "鸟是香的"}
+{"id": "tavi1589", "task": "gloss", "q": "Tavi语词“dak”用中文怎么说？", "a": "算盘"}
+{"id": "tavi1590", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥的塔", "a": "vyk dzo zei"}
+{"id": "tavi1591", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou phy heik", "a": "车是热的"}
+{"id": "tavi1592", "task": "gloss", "q": "Tavi语词“ha”用中文怎么说？", "a": "冷"}
+{"id": "tavi1593", "task": "gloss", "q": "Tavi语词“feit”用中文怎么说？", "a": "甜"}
+{"id": "tavi1594", "task": "gloss", "q": "Tavi语词“vak”用中文怎么说？", "a": "钟"}
+{"id": "tavi1595", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi1596", "task": "gloss", "q": "Tavi语词“vei”用中文怎么说？", "a": "镜"}
+{"id": "tavi1597", "task": "gloss", "q": "Tavi语词“heik”用中文怎么说？", "a": "热"}
+{"id": "tavi1598", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的镜", "a": "jy dzo vei"}
+{"id": "tavi1599", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei dzo fae", "a": "镜的瓶"}
+{"id": "tavi1600", "task": "gloss", "q": "Tavi语词“fouk”用中文怎么说？", "a": "笛"}
+{"id": "tavi1601", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat gwa fae", "a": "刀和瓶"}
+{"id": "tavi1602", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout gwa byk", "a": "衣和雪"}
+{"id": "tavi1603", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit gwa bak", "a": "碗和米"}
+{"id": "tavi1604", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳的盐", "a": "hyt dzo jy"}
+{"id": "tavi1605", "task": "gloss", "q": "Tavi语词“vouk”用中文怎么说？", "a": "浅"}
+{"id": "tavi1606", "task": "c2s", "q": "把这句中文翻译成Tavi语：花和路", "a": "by gwa haet"}
+{"id": "tavi1607", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶和米", "a": "fae gwa bak"}
+{"id": "tavi1608", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy geit", "a": "云是臭的"}
+{"id": "tavi1609", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk gwa za", "a": "桥和书"}
+{"id": "tavi1610", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo geik", "a": "塔的炉"}
+{"id": "tavi1611", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk dzo bak", "a": "茶的米"}
+{"id": "tavi1612", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi1613", "task": "s2c", "q": "把这句Tavi语翻译成中文：fou phy fak", "a": "车是深的"}
+{"id": "tavi1614", "task": "gloss", "q": "Tavi语词“gak”用中文怎么说？", "a": "线"}
+{"id": "tavi1615", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk gwa zat", "a": "门和刀"}
+{"id": "tavi1616", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik dzo hae", "a": "井的窗"}
+{"id": "tavi1617", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat dzo zat", "a": "笔的刀"}
+{"id": "tavi1618", "task": "c2s", "q": "把这句中文翻译成Tavi语：树和灯", "a": "jaet gwa jei"}
+{"id": "tavi1619", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik gwa zat", "a": "河流和刀"}
+{"id": "tavi1620", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳的马", "a": "hyt dzo ga"}
+{"id": "tavi1621", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk dzo vaet", "a": "笛的月亮"}
+{"id": "tavi1622", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞是圆的", "a": "vaek phy beit"}
+{"id": "tavi1623", "task": "gloss", "q": "Tavi语词“zeit”用中文怎么说？", "a": "鞋"}
+{"id": "tavi1624", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶的瓶", "a": "fae dzo fae"}
+{"id": "tavi1625", "task": "c2s", "q": "把这句中文翻译成Tavi语：树是快的", "a": "jaet phy gout"}
+{"id": "tavi1626", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的盐", "a": "dyk dzo jy"}
+{"id": "tavi1627", "task": "gloss", "q": "Tavi语词“deit”用中文怎么说？", "a": "云"}
+{"id": "tavi1628", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和河流", "a": "vei gwa deik"}
+{"id": "tavi1629", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy phy dou", "a": "盐是宽的"}
+{"id": "tavi1630", "task": "gloss", "q": "Tavi语词“zyt”用中文怎么说？", "a": "方"}
+{"id": "tavi1631", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋和线", "a": "zeit gwa gak"}
+{"id": "tavi1632", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞的笔", "a": "vaek dzo fat"}
+{"id": "tavi1633", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit gwa dak", "a": "鞋和算盘"}
+{"id": "tavi1634", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk gwa jyk", "a": "茶和门"}
+{"id": "tavi1635", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet phy beit", "a": "帽是圆的"}
+{"id": "tavi1636", "task": "gloss", "q": "Tavi语词“jyk”用中文怎么说？", "a": "门"}
+{"id": "tavi1637", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯的门", "a": "jei dzo jyk"}
+{"id": "tavi1638", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀的笛", "a": "zat dzo fouk"}
+{"id": "tavi1639", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk dzo byk", "a": "雪的雪"}
+{"id": "tavi1640", "task": "gloss", "q": "Tavi语词“byk”用中文怎么说？", "a": "雪"}
+{"id": "tavi1641", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat gwa gouk", "a": "山和叶子"}
+{"id": "tavi1642", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit phy hyk", "a": "鞋是暗的"}
+{"id": "tavi1643", "task": "c2s", "q": "把这句中文翻译成Tavi语：布是干的", "a": "gae phy hat"}
+{"id": "tavi1644", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是宽的", "a": "dat phy dou"}
+{"id": "tavi1645", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa ja", "a": "路和火"}
+{"id": "tavi1646", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk dzo jout", "a": "雪的衣"}
+{"id": "tavi1647", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei gwa hae", "a": "鱼和窗"}
+{"id": "tavi1648", "task": "gloss", "q": "Tavi语词“jeit”用中文怎么说？", "a": "碗"}
+{"id": "tavi1649", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi1650", "task": "c2s", "q": "把这句中文翻译成Tavi语：树的河流", "a": "jaet dzo deik"}
+{"id": "tavi1651", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo vyt", "a": "马的鸟"}
+{"id": "tavi1652", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗的火", "a": "jeit dzo ja"}
+{"id": "tavi1653", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak phy jat", "a": "钟是新的"}
+{"id": "tavi1654", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi1655", "task": "gloss", "q": "Tavi语词“vouk”用中文怎么说？", "a": "浅"}
+{"id": "tavi1656", "task": "c2s", "q": "把这句中文翻译成Tavi语：米是苦的", "a": "bak phy dyt"}
+{"id": "tavi1657", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja dzo jei", "a": "火的灯"}
+{"id": "tavi1658", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet gwa hyt", "a": "石头和绳"}
+{"id": "tavi1659", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet dzo dak", "a": "石头的算盘"}
+{"id": "tavi1660", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit phy jyt", "a": "鞋是香的"}
+{"id": "tavi1661", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo vak", "a": "马的钟"}
+{"id": "tavi1662", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei gwa jaet", "a": "灯和树"}
+{"id": "tavi1663", "task": "gloss", "q": "Tavi语词“hyk”用中文怎么说？", "a": "暗"}
+{"id": "tavi1664", "task": "gloss", "q": "Tavi语词“houk”用中文怎么说？", "a": "硬"}
+{"id": "tavi1665", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流和米", "a": "deik gwa bak"}
+{"id": "tavi1666", "task": "gloss", "q": "Tavi语词“zaet”用中文怎么说？", "a": "帽"}
+{"id": "tavi1667", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk phy hat", "a": "桥是干的"}
+{"id": "tavi1668", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet dzo vyk", "a": "帽的桥"}
+{"id": "tavi1669", "task": "c2s", "q": "把这句中文翻译成Tavi语：门是硬的", "a": "jyk phy houk"}
+{"id": "tavi1670", "task": "gloss", "q": "Tavi语词“dou”用中文怎么说？", "a": "宽"}
+{"id": "tavi1671", "task": "c2s", "q": "把这句中文翻译成Tavi语：布和算盘", "a": "gae gwa dak"}
+{"id": "tavi1672", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja phy vout", "a": "火是蓝的"}
+{"id": "tavi1673", "task": "gloss", "q": "Tavi语词“vouk”用中文怎么说？", "a": "浅"}
+{"id": "tavi1674", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa vyt", "a": "云和鸟"}
+{"id": "tavi1675", "task": "gloss", "q": "Tavi语词“za”用中文怎么说？", "a": "书"}
+{"id": "tavi1676", "task": "gloss", "q": "Tavi语词“dyt”用中文怎么说？", "a": "苦"}
+{"id": "tavi1677", "task": "s2c", "q": "把这句Tavi语翻译成中文：by gwa baet", "a": "花和石头"}
+{"id": "tavi1678", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽的火", "a": "zaet dzo ja"}
+{"id": "tavi1679", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei gwa zaet", "a": "塔和帽"}
+{"id": "tavi1680", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo vak", "a": "马的钟"}
+{"id": "tavi1681", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽和火", "a": "zaet gwa ja"}
+{"id": "tavi1682", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi1683", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik dzo fei", "a": "井的鱼"}
+{"id": "tavi1684", "task": "gloss", "q": "Tavi语词“gouk”用中文怎么说？", "a": "叶子"}
+{"id": "tavi1685", "task": "c2s", "q": "把这句中文翻译成Tavi语：路和钟", "a": "haet gwa vak"}
+{"id": "tavi1686", "task": "c2s", "q": "把这句中文翻译成Tavi语：门的花", "a": "jyk dzo by"}
+{"id": "tavi1687", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋是暗的", "a": "zeit phy hyk"}
+{"id": "tavi1688", "task": "c2s", "q": "把这句中文翻译成Tavi语：门的墨", "a": "jyk dzo feik"}
+{"id": "tavi1689", "task": "c2s", "q": "把这句中文翻译成Tavi语：花的刀", "a": "by dzo zat"}
+{"id": "tavi1690", "task": "gloss", "q": "Tavi语词“by”用中文怎么说？", "a": "花"}
+{"id": "tavi1691", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头的书", "a": "baet dzo za"}
+{"id": "tavi1692", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt dzo vyk", "a": "绳的桥"}
+{"id": "tavi1693", "task": "c2s", "q": "把这句中文翻译成Tavi语：马的钟", "a": "ga dzo vak"}
+{"id": "tavi1694", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨是旧的", "a": "feik phy fy"}
+{"id": "tavi1695", "task": "c2s", "q": "把这句中文翻译成Tavi语：席和米", "a": "faet gwa bak"}
+{"id": "tavi1696", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit phy houk", "a": "鞋是硬的"}
+{"id": "tavi1697", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘是宽的", "a": "dak phy dou"}
+{"id": "tavi1698", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt dzo dei", "a": "鸟的网"}
+{"id": "tavi1699", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk dzo zou", "a": "鼓的船"}
+{"id": "tavi1700", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik phy jak", "a": "炉是黑的"}
+{"id": "tavi1701", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子是硬的", "a": "gouk phy houk"}
+{"id": "tavi1702", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀的伞", "a": "zat dzo vaek"}
+{"id": "tavi1703", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk phy zae", "a": "水是湿的"}
+{"id": "tavi1704", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik phy feit", "a": "井是甜的"}
+{"id": "tavi1705", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei gwa zouk", "a": "灯和水"}
+{"id": "tavi1706", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei gwa gyk", "a": "砚和茶"}
+{"id": "tavi1707", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚和算盘", "a": "gei gwa dak"}
+{"id": "tavi1708", "task": "gloss", "q": "Tavi语词“jeit”用中文怎么说？", "a": "碗"}
+{"id": "tavi1709", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk phy geit", "a": "笛是臭的"}
+{"id": "tavi1710", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘和帽", "a": "dak gwa zaet"}
+{"id": "tavi1711", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯和笔", "a": "jei gwa fat"}
+{"id": "tavi1712", "task": "gloss", "q": "Tavi语词“dat”用中文怎么说？", "a": "山"}
+{"id": "tavi1713", "task": "c2s", "q": "把这句中文翻译成Tavi语：布和鸟", "a": "gae gwa vyt"}
+{"id": "tavi1714", "task": "gloss", "q": "Tavi语词“vaet”用中文怎么说？", "a": "月亮"}
+{"id": "tavi1715", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳是热的", "a": "hyt phy heik"}
+{"id": "tavi1716", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟是蓝的", "a": "vak phy vout"}
+{"id": "tavi1717", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶和水", "a": "gyk gwa zouk"}
+{"id": "tavi1718", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪和车", "a": "byk gwa fou"}
+{"id": "tavi1719", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit gwa feik", "a": "碗和墨"}
+{"id": "tavi1720", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟和镜", "a": "vak gwa vei"}
+{"id": "tavi1721", "task": "c2s", "q": "把这句中文翻译成Tavi语：门是旧的", "a": "jyk phy fy"}
+{"id": "tavi1722", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk dzo vyk", "a": "叶子的桥"}
+{"id": "tavi1723", "task": "gloss", "q": "Tavi语词“vyk”用中文怎么说？", "a": "桥"}
+{"id": "tavi1724", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓和布", "a": "dyk gwa gae"}
+{"id": "tavi1725", "task": "c2s", "q": "把这句中文翻译成Tavi语：针是蓝的", "a": "fa phy vout"}
+{"id": "tavi1726", "task": "c2s", "q": "把这句中文翻译成Tavi语：针是新的", "a": "fa phy jat"}
+{"id": "tavi1727", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼是红的", "a": "fei phy baek"}
+{"id": "tavi1728", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik dzo ja", "a": "墨的火"}
+{"id": "tavi1729", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk dzo byk", "a": "鼓的雪"}
+{"id": "tavi1730", "task": "c2s", "q": "把这句中文翻译成Tavi语：船和窗", "a": "zou gwa hae"}
+{"id": "tavi1731", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa geik", "a": "瓶和炉"}
+{"id": "tavi1732", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy gwa za", "a": "盐和书"}
+{"id": "tavi1733", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit gwa fei", "a": "碗和鱼"}
+{"id": "tavi1734", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉和笛", "a": "geik gwa fouk"}
+{"id": "tavi1735", "task": "gloss", "q": "Tavi语词“bak”用中文怎么说？", "a": "米"}
+{"id": "tavi1736", "task": "c2s", "q": "把这句中文翻译成Tavi语：针的炉", "a": "fa dzo geik"}
+{"id": "tavi1737", "task": "c2s", "q": "把这句中文翻译成Tavi语：布和塔", "a": "gae gwa zei"}
+{"id": "tavi1738", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy baek", "a": "云是红的"}
+{"id": "tavi1739", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei phy bei", "a": "灯是小的"}
+{"id": "tavi1740", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟是亮的", "a": "vyt phy bouk"}
+{"id": "tavi1741", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae phy zyt", "a": "窗是方的"}
+{"id": "tavi1742", "task": "gloss", "q": "Tavi语词“gout”用中文怎么说？", "a": "快"}
+{"id": "tavi1743", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak phy fy", "a": "线是旧的"}
+{"id": "tavi1744", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk gwa dat", "a": "门和山"}
+{"id": "tavi1745", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa by", "a": "路和花"}
+{"id": "tavi1746", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk gwa zou", "a": "笛和船"}
+{"id": "tavi1747", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa phy vout", "a": "针是蓝的"}
+{"id": "tavi1748", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk gwa deik", "a": "茶和河流"}
+{"id": "tavi1749", "task": "c2s", "q": "把这句中文翻译成Tavi语：井是黑的", "a": "beik phy jak"}
+{"id": "tavi1750", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak gwa vyt", "a": "米和鸟"}
+{"id": "tavi1751", "task": "c2s", "q": "把这句中文翻译成Tavi语：井和帽", "a": "beik gwa zaet"}
+{"id": "tavi1752", "task": "c2s", "q": "把这句中文翻译成Tavi语：水和布", "a": "zouk gwa gae"}
+{"id": "tavi1753", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa dat", "a": "窗和山"}
+{"id": "tavi1754", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi1755", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak gwa za", "a": "米和书"}
+{"id": "tavi1756", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei dzo fouk", "a": "灯的笛"}
+{"id": "tavi1757", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik dzo gae", "a": "墨的布"}
+{"id": "tavi1758", "task": "gloss", "q": "Tavi语词“jyt”用中文怎么说？", "a": "香"}
+{"id": "tavi1759", "task": "c2s", "q": "把这句中文翻译成Tavi语：树是重的", "a": "jaet phy hei"}
+{"id": "tavi1760", "task": "c2s", "q": "把这句中文翻译成Tavi语：车和马", "a": "fou gwa ga"}
+{"id": "tavi1761", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的帽", "a": "jout dzo zaet"}
+{"id": "tavi1762", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘是宽的", "a": "dak phy dou"}
+{"id": "tavi1763", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶是干的", "a": "gyk phy hat"}
+{"id": "tavi1764", "task": "c2s", "q": "把这句中文翻译成Tavi语：钟是宽的", "a": "vak phy dou"}
+{"id": "tavi1765", "task": "gloss", "q": "Tavi语词“zei”用中文怎么说？", "a": "塔"}
+{"id": "tavi1766", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi1767", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet dzo fae", "a": "帽的瓶"}
+{"id": "tavi1768", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮是湿的", "a": "vaet phy zae"}
+{"id": "tavi1769", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout dzo jou", "a": "衣的纸"}
+{"id": "tavi1770", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk gwa vaek", "a": "水和伞"}
+{"id": "tavi1771", "task": "c2s", "q": "把这句中文翻译成Tavi语：水是红的", "a": "zouk phy baek"}
+{"id": "tavi1772", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼的叶子", "a": "fei dzo gouk"}
+{"id": "tavi1773", "task": "gloss", "q": "Tavi语词“fouk”用中文怎么说？", "a": "笛"}
+{"id": "tavi1774", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet dzo fei", "a": "树的鱼"}
+{"id": "tavi1775", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头的鱼", "a": "baet dzo fei"}
+{"id": "tavi1776", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit dzo vak", "a": "鞋的钟"}
+{"id": "tavi1777", "task": "c2s", "q": "把这句中文翻译成Tavi语：树和井", "a": "jaet gwa beik"}
+{"id": "tavi1778", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜的火", "a": "vei dzo ja"}
+{"id": "tavi1779", "task": "c2s", "q": "把这句中文翻译成Tavi语：树是湿的", "a": "jaet phy zae"}
+{"id": "tavi1780", "task": "gloss", "q": "Tavi语词“by”用中文怎么说？", "a": "花"}
+{"id": "tavi1781", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi1782", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼是重的", "a": "fei phy hei"}
+{"id": "tavi1783", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和窗", "a": "baet gwa hae"}
+{"id": "tavi1784", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik phy vae", "a": "河流是窄的"}
+{"id": "tavi1785", "task": "c2s", "q": "把这句中文翻译成Tavi语：米是方的", "a": "bak phy zyt"}
+{"id": "tavi1786", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk phy bouk", "a": "鼓是亮的"}
+{"id": "tavi1787", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟和绳", "a": "vyt gwa hyt"}
+{"id": "tavi1788", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀和墨", "a": "zat gwa feik"}
+{"id": "tavi1789", "task": "c2s", "q": "把这句中文翻译成Tavi语：花的线", "a": "by dzo gak"}
+{"id": "tavi1790", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽和纸", "a": "zaet gwa jou"}
+{"id": "tavi1791", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳和瓶", "a": "hyt gwa fae"}
+{"id": "tavi1792", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk phy jat", "a": "笛是新的"}
+{"id": "tavi1793", "task": "gloss", "q": "Tavi语词“zat”用中文怎么说？", "a": "刀"}
+{"id": "tavi1794", "task": "gloss", "q": "Tavi语词“jak”用中文怎么说？", "a": "黑"}
+{"id": "tavi1795", "task": "c2s", "q": "把这句中文翻译成Tavi语：船的算盘", "a": "zou dzo dak"}
+{"id": "tavi1796", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak dzo jyk", "a": "算盘的门"}
+{"id": "tavi1797", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik dzo feik", "a": "炉的墨"}
+{"id": "tavi1798", "task": "c2s", "q": "把这句中文翻译成Tavi语：水和笔", "a": "zouk gwa fat"}
+{"id": "tavi1799", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak gwa feik", "a": "线和墨"}
+{"id": "tavi1800", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛是蓝的", "a": "fouk phy vout"}
+{"id": "tavi1801", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk gwa faet", "a": "水和席"}
+{"id": "tavi1802", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk phy gy", "a": "门是轻的"}
+{"id": "tavi1803", "task": "c2s", "q": "把这句中文翻译成Tavi语：山的水", "a": "dat dzo zouk"}
+{"id": "tavi1804", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉和桥", "a": "geik gwa vyk"}
+{"id": "tavi1805", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk dzo za", "a": "桥的书"}
+{"id": "tavi1806", "task": "gloss", "q": "Tavi语词“fyt”用中文怎么说？", "a": "大"}
+{"id": "tavi1807", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet gwa dei", "a": "树和网"}
+{"id": "tavi1808", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk dzo jout", "a": "雪的衣"}
+{"id": "tavi1809", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk dzo dat", "a": "水的山"}
+{"id": "tavi1810", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的鞋", "a": "jy dzo zeit"}
+{"id": "tavi1811", "task": "gloss", "q": "Tavi语词“feik”用中文怎么说？", "a": "墨"}
+{"id": "tavi1812", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳的算盘", "a": "hyt dzo dak"}
+{"id": "tavi1813", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae phy zae", "a": "窗是湿的"}
+{"id": "tavi1814", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek phy veik", "a": "伞是软的"}
+{"id": "tavi1815", "task": "gloss", "q": "Tavi语词“byk”用中文怎么说？", "a": "雪"}
+{"id": "tavi1816", "task": "s2c", "q": "把这句Tavi语翻译成中文：by gwa feik", "a": "花和墨"}
+{"id": "tavi1817", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮是臭的", "a": "vaet phy geit"}
+{"id": "tavi1818", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik phy hei", "a": "河流是重的"}
+{"id": "tavi1819", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋是宽的", "a": "zeit phy dou"}
+{"id": "tavi1820", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei phy vouk", "a": "网是浅的"}
+{"id": "tavi1821", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet dzo jyk", "a": "帽的门"}
+{"id": "tavi1822", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽是浅的", "a": "zaet phy vouk"}
+{"id": "tavi1823", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit gwa vaek", "a": "鞋和伞"}
+{"id": "tavi1824", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是窄的", "a": "dat phy vae"}
+{"id": "tavi1825", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei gwa fat", "a": "灯和笔"}
+{"id": "tavi1826", "task": "c2s", "q": "把这句中文翻译成Tavi语：线是方的", "a": "gak phy zyt"}
+{"id": "tavi1827", "task": "c2s", "q": "把这句中文翻译成Tavi语：布是硬的", "a": "gae phy houk"}
+{"id": "tavi1828", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗的石头", "a": "jeit dzo baet"}
+{"id": "tavi1829", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae dzo hae", "a": "窗的窗"}
+{"id": "tavi1830", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗和笔", "a": "jeit gwa fat"}
+{"id": "tavi1831", "task": "gloss", "q": "Tavi语词“beit”用中文怎么说？", "a": "圆"}
+{"id": "tavi1832", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat phy geit", "a": "山是臭的"}
+{"id": "tavi1833", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei dzo fou", "a": "砚的车"}
+{"id": "tavi1834", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk phy gy", "a": "桥是轻的"}
+{"id": "tavi1835", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei gwa zat", "a": "砚和刀"}
+{"id": "tavi1836", "task": "c2s", "q": "把这句中文翻译成Tavi语：布的树", "a": "gae dzo jaet"}
+{"id": "tavi1837", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚是重的", "a": "gei phy hei"}
+{"id": "tavi1838", "task": "gloss", "q": "Tavi语词“za”用中文怎么说？", "a": "书"}
+{"id": "tavi1839", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa gwa vak", "a": "针和钟"}
+{"id": "tavi1840", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi1841", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟和布", "a": "vyt gwa gae"}
+{"id": "tavi1842", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和鼓", "a": "deit gwa dyk"}
+{"id": "tavi1843", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa gak", "a": "路和线"}
+{"id": "tavi1844", "task": "gloss", "q": "Tavi语词“vaet”用中文怎么说？", "a": "月亮"}
+{"id": "tavi1845", "task": "c2s", "q": "把这句中文翻译成Tavi语：米和鸟", "a": "bak gwa vyt"}
+{"id": "tavi1846", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik dzo hyt", "a": "炉的绳"}
+{"id": "tavi1847", "task": "gloss", "q": "Tavi语词“vout”用中文怎么说？", "a": "蓝"}
+{"id": "tavi1848", "task": "c2s", "q": "把这句中文翻译成Tavi语：花是重的", "a": "by phy hei"}
+{"id": "tavi1849", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek gwa zaet", "a": "伞和帽"}
+{"id": "tavi1850", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo by", "a": "马的花"}
+{"id": "tavi1851", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat dzo jaet", "a": "山的树"}
+{"id": "tavi1852", "task": "c2s", "q": "把这句中文翻译成Tavi语：船和门", "a": "zou gwa jyk"}
+{"id": "tavi1853", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子的针", "a": "gouk dzo fa"}
+{"id": "tavi1854", "task": "gloss", "q": "Tavi语词“baek”用中文怎么说？", "a": "红"}
+{"id": "tavi1855", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的井", "a": "dyk dzo beik"}
+{"id": "tavi1856", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟和树", "a": "vyt gwa jaet"}
+{"id": "tavi1857", "task": "gloss", "q": "Tavi语词“hae”用中文怎么说？", "a": "窗"}
+{"id": "tavi1858", "task": "gloss", "q": "Tavi语词“jat”用中文怎么说？", "a": "新"}
+{"id": "tavi1859", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流的门", "a": "deik dzo jyk"}
+{"id": "tavi1860", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶的针", "a": "fae dzo fa"}
+{"id": "tavi1861", "task": "c2s", "q": "把这句中文翻译成Tavi语：米是小的", "a": "bak phy bei"}
+{"id": "tavi1862", "task": "c2s", "q": "把这句中文翻译成Tavi语：车是红的", "a": "fou phy baek"}
+{"id": "tavi1863", "task": "gloss", "q": "Tavi语词“jou”用中文怎么说？", "a": "纸"}
+{"id": "tavi1864", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit dzo dat", "a": "碗的山"}
+{"id": "tavi1865", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮是旧的", "a": "vaet phy fy"}
+{"id": "tavi1866", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae phy baek", "a": "瓶是红的"}
+{"id": "tavi1867", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit gwa geik", "a": "碗和炉"}
+{"id": "tavi1868", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei phy zyt", "a": "砚是方的"}
+{"id": "tavi1869", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓和水", "a": "dyk gwa zouk"}
+{"id": "tavi1870", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是黑的", "a": "dat phy jak"}
+{"id": "tavi1871", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou phy hei", "a": "船是重的"}
+{"id": "tavi1872", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯是热的", "a": "jei phy heik"}
+{"id": "tavi1873", "task": "gloss", "q": "Tavi语词“jei”用中文怎么说？", "a": "灯"}
+{"id": "tavi1874", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy dy", "a": "墨是慢的"}
+{"id": "tavi1875", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout gwa byk", "a": "衣和雪"}
+{"id": "tavi1876", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪是慢的", "a": "byk phy dy"}
+{"id": "tavi1877", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik gwa vak", "a": "炉和钟"}
+{"id": "tavi1878", "task": "s2c", "q": "把这句Tavi语翻译成中文：by phy bei", "a": "花是小的"}
+{"id": "tavi1879", "task": "c2s", "q": "把这句中文翻译成Tavi语：马是苦的", "a": "ga phy dyt"}
+{"id": "tavi1880", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik phy fak", "a": "河流是深的"}
+{"id": "tavi1881", "task": "gloss", "q": "Tavi语词“bei”用中文怎么说？", "a": "小"}
+{"id": "tavi1882", "task": "c2s", "q": "把这句中文翻译成Tavi语：云的砚", "a": "deit dzo gei"}
+{"id": "tavi1883", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout gwa gyk", "a": "衣和茶"}
+{"id": "tavi1884", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt phy gout", "a": "绳是快的"}
+{"id": "tavi1885", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟和绳", "a": "vyt gwa hyt"}
+{"id": "tavi1886", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛和石头", "a": "fouk gwa baet"}
+{"id": "tavi1887", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子和雪", "a": "gouk gwa byk"}
+{"id": "tavi1888", "task": "c2s", "q": "把这句中文翻译成Tavi语：书和帽", "a": "za gwa zaet"}
+{"id": "tavi1889", "task": "c2s", "q": "把这句中文翻译成Tavi语：井是蓝的", "a": "beik phy vout"}
+{"id": "tavi1890", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉的笛", "a": "geik dzo fouk"}
+{"id": "tavi1891", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔和砚", "a": "fat gwa gei"}
+{"id": "tavi1892", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy phy fak", "a": "盐是深的"}
+{"id": "tavi1893", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou dzo fae", "a": "船的瓶"}
+{"id": "tavi1894", "task": "c2s", "q": "把这句中文翻译成Tavi语：火的河流", "a": "ja dzo deik"}
+{"id": "tavi1895", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei gwa dei", "a": "砚和网"}
+{"id": "tavi1896", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋是白的", "a": "zeit phy bat"}
+{"id": "tavi1897", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou phy bei", "a": "纸是小的"}
+{"id": "tavi1898", "task": "c2s", "q": "把这句中文翻译成Tavi语：席的席", "a": "faet dzo faet"}
+{"id": "tavi1899", "task": "c2s", "q": "把这句中文翻译成Tavi语：网和门", "a": "dei gwa jyk"}
+{"id": "tavi1900", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy gwa bak", "a": "盐和米"}
+{"id": "tavi1901", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞和书", "a": "vaek gwa za"}
+{"id": "tavi1902", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy jat", "a": "云是新的"}
+{"id": "tavi1903", "task": "gloss", "q": "Tavi语词“bei”用中文怎么说？", "a": "小"}
+{"id": "tavi1904", "task": "c2s", "q": "把这句中文翻译成Tavi语：井的笔", "a": "beik dzo fat"}
+{"id": "tavi1905", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet dzo jou", "a": "月亮的纸"}
+{"id": "tavi1906", "task": "c2s", "q": "把这句中文翻译成Tavi语：窗是重的", "a": "hae phy hei"}
+{"id": "tavi1907", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子是冷的", "a": "gouk phy ha"}
+{"id": "tavi1908", "task": "gloss", "q": "Tavi语词“vae”用中文怎么说？", "a": "窄"}
+{"id": "tavi1909", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi1910", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶的炉", "a": "gyk dzo geik"}
+{"id": "tavi1911", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐和衣", "a": "jy gwa jout"}
+{"id": "tavi1912", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik phy gy", "a": "炉是轻的"}
+{"id": "tavi1913", "task": "gloss", "q": "Tavi语词“dyt”用中文怎么说？", "a": "苦"}
+{"id": "tavi1914", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik dzo jaet", "a": "井的树"}
+{"id": "tavi1915", "task": "gloss", "q": "Tavi语词“za”用中文怎么说？", "a": "书"}
+{"id": "tavi1916", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi1917", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥是小的", "a": "vyk phy bei"}
+{"id": "tavi1918", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪是硬的", "a": "byk phy houk"}
+{"id": "tavi1919", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽是红的", "a": "zaet phy baek"}
+{"id": "tavi1920", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa deik", "a": "窗和河流"}
+{"id": "tavi1921", "task": "c2s", "q": "把这句中文翻译成Tavi语：路的网", "a": "haet dzo dei"}
+{"id": "tavi1922", "task": "c2s", "q": "把这句中文翻译成Tavi语：米是深的", "a": "bak phy fak"}
+{"id": "tavi1923", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga gwa jy", "a": "马和盐"}
+{"id": "tavi1924", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga gwa jyk", "a": "马和门"}
+{"id": "tavi1925", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja phy baek", "a": "火是红的"}
+{"id": "tavi1926", "task": "c2s", "q": "把这句中文翻译成Tavi语：水和树", "a": "zouk gwa jaet"}
+{"id": "tavi1927", "task": "c2s", "q": "把这句中文翻译成Tavi语：云是慢的", "a": "deit phy dy"}
+{"id": "tavi1928", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy geit", "a": "墨是臭的"}
+{"id": "tavi1929", "task": "gloss", "q": "Tavi语词“hyk”用中文怎么说？", "a": "暗"}
+{"id": "tavi1930", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik dzo jou", "a": "墨的纸"}
+{"id": "tavi1931", "task": "c2s", "q": "把这句中文翻译成Tavi语：针的桥", "a": "fa dzo vyk"}
+{"id": "tavi1932", "task": "c2s", "q": "把这句中文翻译成Tavi语：山的桥", "a": "dat dzo vyk"}
+{"id": "tavi1933", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi1934", "task": "c2s", "q": "把这句中文翻译成Tavi语：井是窄的", "a": "beik phy vae"}
+{"id": "tavi1935", "task": "gloss", "q": "Tavi语词“jat”用中文怎么说？", "a": "新"}
+{"id": "tavi1936", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉是暗的", "a": "geik phy hyk"}
+{"id": "tavi1937", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt gwa deik", "a": "绳和河流"}
+{"id": "tavi1938", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的算盘", "a": "dyk dzo dak"}
+{"id": "tavi1939", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja dzo za", "a": "火的书"}
+{"id": "tavi1940", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat gwa jou", "a": "笔和纸"}
+{"id": "tavi1941", "task": "gloss", "q": "Tavi语词“zei”用中文怎么说？", "a": "塔"}
+{"id": "tavi1942", "task": "s2c", "q": "把这句Tavi语翻译成中文：za gwa geik", "a": "书和炉"}
+{"id": "tavi1943", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔是臭的", "a": "zei phy geit"}
+{"id": "tavi1944", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和笛", "a": "vei gwa fouk"}
+{"id": "tavi1945", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo hyt", "a": "马的绳"}
+{"id": "tavi1946", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚的炉", "a": "gei dzo geik"}
+{"id": "tavi1947", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi1948", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞是新的", "a": "vaek phy jat"}
+{"id": "tavi1949", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓是香的", "a": "dyk phy jyt"}
+{"id": "tavi1950", "task": "gloss", "q": "Tavi语词“feik”用中文怎么说？", "a": "墨"}
+{"id": "tavi1951", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet dzo dyk", "a": "月亮的鼓"}
+{"id": "tavi1952", "task": "gloss", "q": "Tavi语词“geit”用中文怎么说？", "a": "臭"}
+{"id": "tavi1953", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔和窗", "a": "zei gwa hae"}
+{"id": "tavi1954", "task": "gloss", "q": "Tavi语词“dak”用中文怎么说？", "a": "算盘"}
+{"id": "tavi1955", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼是香的", "a": "fei phy jyt"}
+{"id": "tavi1956", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik phy bat", "a": "河流是白的"}
+{"id": "tavi1957", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo dat", "a": "塔的山"}
+{"id": "tavi1958", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy dyt", "a": "墨是苦的"}
+{"id": "tavi1959", "task": "c2s", "q": "把这句中文翻译成Tavi语：云是大的", "a": "deit phy fyt"}
+{"id": "tavi1960", "task": "gloss", "q": "Tavi语词“dyk”用中文怎么说？", "a": "鼓"}
+{"id": "tavi1961", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔是大的", "a": "fat phy fyt"}
+{"id": "tavi1962", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头的纸", "a": "baet dzo jou"}
+{"id": "tavi1963", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet phy jat", "a": "石头是新的"}
+{"id": "tavi1964", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽的云", "a": "zaet dzo deit"}
+{"id": "tavi1965", "task": "gloss", "q": "Tavi语词“vouk”用中文怎么说？", "a": "浅"}
+{"id": "tavi1966", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的门", "a": "dyk dzo jyk"}
+{"id": "tavi1967", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy phy dou", "a": "盐是宽的"}
+{"id": "tavi1968", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet dzo by", "a": "帽的花"}
+{"id": "tavi1969", "task": "c2s", "q": "把这句中文翻译成Tavi语：马是重的", "a": "ga phy hei"}
+{"id": "tavi1970", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流和井", "a": "deik gwa beik"}
+{"id": "tavi1971", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi1972", "task": "gloss", "q": "Tavi语词“vaet”用中文怎么说？", "a": "月亮"}
+{"id": "tavi1973", "task": "gloss", "q": "Tavi语词“vout”用中文怎么说？", "a": "蓝"}
+{"id": "tavi1974", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak gwa fouk", "a": "线和笛"}
+{"id": "tavi1975", "task": "gloss", "q": "Tavi语词“bei”用中文怎么说？", "a": "小"}
+{"id": "tavi1976", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt dzo deik", "a": "鸟的河流"}
+{"id": "tavi1977", "task": "c2s", "q": "把这句中文翻译成Tavi语：鱼和线", "a": "fei gwa gak"}
+{"id": "tavi1978", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt dzo jy", "a": "鸟的盐"}
+{"id": "tavi1979", "task": "gloss", "q": "Tavi语词“ga”用中文怎么说？", "a": "马"}
+{"id": "tavi1980", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout dzo dyk", "a": "衣的鼓"}
+{"id": "tavi1981", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa gwa fei", "a": "针和鱼"}
+{"id": "tavi1982", "task": "c2s", "q": "把这句中文翻译成Tavi语：马和线", "a": "ga gwa gak"}
+{"id": "tavi1983", "task": "gloss", "q": "Tavi语词“bak”用中文怎么说？", "a": "米"}
+{"id": "tavi1984", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi1985", "task": "gloss", "q": "Tavi语词“ga”用中文怎么说？", "a": "马"}
+{"id": "tavi1986", "task": "gloss", "q": "Tavi语词“jou”用中文怎么说？", "a": "纸"}
+{"id": "tavi1987", "task": "gloss", "q": "Tavi语词“beit”用中文怎么说？", "a": "圆"}
+{"id": "tavi1988", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak phy jat", "a": "米是新的"}
+{"id": "tavi1989", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔是宽的", "a": "zei phy dou"}
+{"id": "tavi1990", "task": "gloss", "q": "Tavi语词“bat”用中文怎么说？", "a": "白"}
+{"id": "tavi1991", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou gwa dak", "a": "纸和算盘"}
+{"id": "tavi1992", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳和书", "a": "hyt gwa za"}
+{"id": "tavi1993", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸的鸟", "a": "jou dzo vyt"}
+{"id": "tavi1994", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽是浅的", "a": "zaet phy vouk"}
+{"id": "tavi1995", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳是深的", "a": "hyt phy fak"}
+{"id": "tavi1996", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy zae", "a": "茶是湿的"}
+{"id": "tavi1997", "task": "gloss", "q": "Tavi语词“zeit”用中文怎么说？", "a": "鞋"}
+{"id": "tavi1998", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘的路", "a": "dak dzo haet"}
+{"id": "tavi1999", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak gwa gouk", "a": "线和叶子"}
+{"id": "tavi2000", "task": "c2s", "q": "把这句中文翻译成Tavi语：针是蓝的", "a": "fa phy vout"}
+{"id": "tavi2001", "task": "gloss", "q": "Tavi语词“faet”用中文怎么说？", "a": "席"}
+{"id": "tavi2002", "task": "s2c", "q": "把这句Tavi语翻译成中文：za phy dyt", "a": "书是苦的"}
+{"id": "tavi2003", "task": "gloss", "q": "Tavi语词“fyt”用中文怎么说？", "a": "大"}
+{"id": "tavi2004", "task": "c2s", "q": "把这句中文翻译成Tavi语：米和书", "a": "bak gwa za"}
+{"id": "tavi2005", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa jout", "a": "路和衣"}
+{"id": "tavi2006", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头是硬的", "a": "baet phy houk"}
+{"id": "tavi2007", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja dzo byk", "a": "火的雪"}
+{"id": "tavi2008", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak gwa gak", "a": "钟和线"}
+{"id": "tavi2009", "task": "c2s", "q": "把这句中文翻译成Tavi语：网是黑的", "a": "dei phy jak"}
+{"id": "tavi2010", "task": "gloss", "q": "Tavi语词“hat”用中文怎么说？", "a": "干"}
+{"id": "tavi2011", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy fyt", "a": "茶是大的"}
+{"id": "tavi2012", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛是硬的", "a": "fouk phy houk"}
+{"id": "tavi2013", "task": "c2s", "q": "把这句中文翻译成Tavi语：山的帽", "a": "dat dzo zaet"}
+{"id": "tavi2014", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout gwa hyt", "a": "衣和绳"}
+{"id": "tavi2015", "task": "c2s", "q": "把这句中文翻译成Tavi语：水的书", "a": "zouk dzo za"}
+{"id": "tavi2016", "task": "c2s", "q": "把这句中文翻译成Tavi语：书和山", "a": "za gwa dat"}
+{"id": "tavi2017", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶是臭的", "a": "fae phy geit"}
+{"id": "tavi2018", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja dzo ga", "a": "火的马"}
+{"id": "tavi2019", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk gwa dei", "a": "门和网"}
+{"id": "tavi2020", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae gwa zou", "a": "窗和船"}
+{"id": "tavi2021", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk dzo geik", "a": "桥的炉"}
+{"id": "tavi2022", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae phy fy", "a": "布是旧的"}
+{"id": "tavi2023", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik gwa zei", "a": "河流和塔"}
+{"id": "tavi2024", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔是冷的", "a": "fat phy ha"}
+{"id": "tavi2025", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸的山", "a": "jou dzo dat"}
+{"id": "tavi2026", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy gwa gae", "a": "盐和布"}
+{"id": "tavi2027", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei dzo ja", "a": "镜的火"}
+{"id": "tavi2028", "task": "c2s", "q": "把这句中文翻译成Tavi语：花是暗的", "a": "by phy hyk"}
+{"id": "tavi2029", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy dzo vaek", "a": "盐的伞"}
+{"id": "tavi2030", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的雪", "a": "jy dzo byk"}
+{"id": "tavi2031", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet dzo fouk", "a": "席的笛"}
+{"id": "tavi2032", "task": "gloss", "q": "Tavi语词“bak”用中文怎么说？", "a": "米"}
+{"id": "tavi2033", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet phy heik", "a": "石头是热的"}
+{"id": "tavi2034", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk phy feit", "a": "桥是甜的"}
+{"id": "tavi2035", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯和火", "a": "jei gwa ja"}
+{"id": "tavi2036", "task": "gloss", "q": "Tavi语词“zeit”用中文怎么说？", "a": "鞋"}
+{"id": "tavi2037", "task": "c2s", "q": "把这句中文翻译成Tavi语：鸟和笔", "a": "vyt gwa fat"}
+{"id": "tavi2038", "task": "c2s", "q": "把这句中文翻译成Tavi语：车和马", "a": "fou gwa ga"}
+{"id": "tavi2039", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk gwa jou", "a": "鼓和纸"}
+{"id": "tavi2040", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa phy gy", "a": "针是轻的"}
+{"id": "tavi2041", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet phy zae", "a": "席是湿的"}
+{"id": "tavi2042", "task": "c2s", "q": "把这句中文翻译成Tavi语：火是红的", "a": "ja phy baek"}
+{"id": "tavi2043", "task": "gloss", "q": "Tavi语词“bei”用中文怎么说？", "a": "小"}
+{"id": "tavi2044", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet phy zyt", "a": "树是方的"}
+{"id": "tavi2045", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉和花", "a": "geik gwa by"}
+{"id": "tavi2046", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou phy fak", "a": "纸是深的"}
+{"id": "tavi2047", "task": "gloss", "q": "Tavi语词“vyt”用中文怎么说？", "a": "鸟"}
+{"id": "tavi2048", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak gwa fou", "a": "算盘和车"}
+{"id": "tavi2049", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk gwa gak", "a": "鼓和线"}
+{"id": "tavi2050", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik phy veik", "a": "河流是软的"}
+{"id": "tavi2051", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet dzo fat", "a": "帽的笔"}
+{"id": "tavi2052", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi2053", "task": "gloss", "q": "Tavi语词“zat”用中文怎么说？", "a": "刀"}
+{"id": "tavi2054", "task": "gloss", "q": "Tavi语词“baet”用中文怎么说？", "a": "石头"}
+{"id": "tavi2055", "task": "gloss", "q": "Tavi语词“houk”用中文怎么说？", "a": "硬"}
+{"id": "tavi2056", "task": "gloss", "q": "Tavi语词“vouk”用中文怎么说？", "a": "浅"}
+{"id": "tavi2057", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet dzo fou", "a": "石头的车"}
+{"id": "tavi2058", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy gy", "a": "茶是轻的"}
+{"id": "tavi2059", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei phy hat", "a": "镜是干的"}
+{"id": "tavi2060", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣和水", "a": "jout gwa zouk"}
+{"id": "tavi2061", "task": "c2s", "q": "把这句中文翻译成Tavi语：网的米", "a": "dei dzo bak"}
+{"id": "tavi2062", "task": "gloss", "q": "Tavi语词“jyk”用中文怎么说？", "a": "门"}
+{"id": "tavi2063", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik phy veik", "a": "河流是软的"}
+{"id": "tavi2064", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou dzo geik", "a": "纸的炉"}
+{"id": "tavi2065", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉是湿的", "a": "geik phy zae"}
+{"id": "tavi2066", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout phy bei", "a": "衣是小的"}
+{"id": "tavi2067", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk gwa zou", "a": "鼓和船"}
+{"id": "tavi2068", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯的绳", "a": "jei dzo hyt"}
+{"id": "tavi2069", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit phy fy", "a": "碗是旧的"}
+{"id": "tavi2070", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的网", "a": "za dzo dei"}
+{"id": "tavi2071", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞和钟", "a": "vaek gwa vak"}
+{"id": "tavi2072", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa vaet", "a": "云和月亮"}
+{"id": "tavi2073", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi2074", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓和伞", "a": "dyk gwa vaek"}
+{"id": "tavi2075", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik dzo gyk", "a": "井的茶"}
+{"id": "tavi2076", "task": "s2c", "q": "把这句Tavi语翻译成中文：baet dzo gei", "a": "石头的砚"}
+{"id": "tavi2077", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk dzo dak", "a": "门的算盘"}
+{"id": "tavi2078", "task": "s2c", "q": "把这句Tavi语翻译成中文：za phy bouk", "a": "书是亮的"}
+{"id": "tavi2079", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔和水", "a": "zei gwa zouk"}
+{"id": "tavi2080", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流的钟", "a": "deik dzo vak"}
+{"id": "tavi2081", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的鼓", "a": "dyk dzo dyk"}
+{"id": "tavi2082", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak gwa gak", "a": "米和线"}
+{"id": "tavi2083", "task": "gloss", "q": "Tavi语词“vout”用中文怎么说？", "a": "蓝"}
+{"id": "tavi2084", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉是大的", "a": "geik phy fyt"}
+{"id": "tavi2085", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa dei", "a": "路和网"}
+{"id": "tavi2086", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是旧的", "a": "dat phy fy"}
+{"id": "tavi2087", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou gwa jout", "a": "船和衣"}
+{"id": "tavi2088", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk phy jak", "a": "雪是黑的"}
+{"id": "tavi2089", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik phy bei", "a": "井是小的"}
+{"id": "tavi2090", "task": "s2c", "q": "把这句Tavi语翻译成中文：za phy fyt", "a": "书是大的"}
+{"id": "tavi2091", "task": "c2s", "q": "把这句中文翻译成Tavi语：水是冷的", "a": "zouk phy ha"}
+{"id": "tavi2092", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘是香的", "a": "dak phy jyt"}
+{"id": "tavi2093", "task": "gloss", "q": "Tavi语词“deik”用中文怎么说？", "a": "河流"}
+{"id": "tavi2094", "task": "s2c", "q": "把这句Tavi语翻译成中文：hyt gwa vaek", "a": "绳和伞"}
+{"id": "tavi2095", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak gwa jou", "a": "算盘和纸"}
+{"id": "tavi2096", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗和鞋", "a": "jeit gwa zeit"}
+{"id": "tavi2097", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚是白的", "a": "gei phy bat"}
+{"id": "tavi2098", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶是小的", "a": "fae phy bei"}
+{"id": "tavi2099", "task": "gloss", "q": "Tavi语词“gae”用中文怎么说？", "a": "布"}
+{"id": "tavi2100", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪和米", "a": "byk gwa bak"}
+{"id": "tavi2101", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的井", "a": "jout dzo beik"}
+{"id": "tavi2102", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk dzo fou", "a": "门的车"}
+{"id": "tavi2103", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和伞", "a": "deit gwa vaek"}
+{"id": "tavi2104", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo deik", "a": "塔的河流"}
+{"id": "tavi2105", "task": "gloss", "q": "Tavi语词“gei”用中文怎么说？", "a": "砚"}
+{"id": "tavi2106", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo dat", "a": "马的山"}
+{"id": "tavi2107", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶的叶子", "a": "gyk dzo gouk"}
+{"id": "tavi2108", "task": "c2s", "q": "把这句中文翻译成Tavi语：车和花", "a": "fou gwa by"}
+{"id": "tavi2109", "task": "gloss", "q": "Tavi语词“vaet”用中文怎么说？", "a": "月亮"}
+{"id": "tavi2110", "task": "c2s", "q": "把这句中文翻译成Tavi语：网是重的", "a": "dei phy hei"}
+{"id": "tavi2111", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐是苦的", "a": "jy phy dyt"}
+{"id": "tavi2112", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat phy jat", "a": "刀是新的"}
+{"id": "tavi2113", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae dzo ga", "a": "瓶的马"}
+{"id": "tavi2114", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik dzo vaek", "a": "河流的伞"}
+{"id": "tavi2115", "task": "gloss", "q": "Tavi语词“jei”用中文怎么说？", "a": "灯"}
+{"id": "tavi2116", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek gwa dak", "a": "伞和算盘"}
+{"id": "tavi2117", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae dzo hae", "a": "瓶的窗"}
+{"id": "tavi2118", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet gwa vyt", "a": "帽和鸟"}
+{"id": "tavi2119", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat phy fy", "a": "刀是旧的"}
+{"id": "tavi2120", "task": "gloss", "q": "Tavi语词“ja”用中文怎么说？", "a": "火"}
+{"id": "tavi2121", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik dzo zou", "a": "炉的船"}
+{"id": "tavi2122", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子的网", "a": "gouk dzo dei"}
+{"id": "tavi2123", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak dzo gyk", "a": "米的茶"}
+{"id": "tavi2124", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy feit", "a": "月亮是甜的"}
+{"id": "tavi2125", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶是浅的", "a": "gyk phy vouk"}
+{"id": "tavi2126", "task": "gloss", "q": "Tavi语词“jou”用中文怎么说？", "a": "纸"}
+{"id": "tavi2127", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉是臭的", "a": "geik phy geit"}
+{"id": "tavi2128", "task": "s2c", "q": "把这句Tavi语翻译成中文：by phy hei", "a": "花是重的"}
+{"id": "tavi2129", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae dzo by", "a": "布的花"}
+{"id": "tavi2130", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头和叶子", "a": "baet gwa gouk"}
+{"id": "tavi2131", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak gwa fei", "a": "线和鱼"}
+{"id": "tavi2132", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit dzo fei", "a": "云的鱼"}
+{"id": "tavi2133", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥的桥", "a": "vyk dzo vyk"}
+{"id": "tavi2134", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi2135", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi2136", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜和路", "a": "vei gwa haet"}
+{"id": "tavi2137", "task": "c2s", "q": "把这句中文翻译成Tavi语：塔的砚", "a": "zei dzo gei"}
+{"id": "tavi2138", "task": "s2c", "q": "把这句Tavi语翻译成中文：za phy jat", "a": "书是新的"}
+{"id": "tavi2139", "task": "c2s", "q": "把这句中文翻译成Tavi语：镜的窗", "a": "vei dzo hae"}
+{"id": "tavi2140", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet dzo ga", "a": "月亮的马"}
+{"id": "tavi2141", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit dzo faet", "a": "鞋的席"}
+{"id": "tavi2142", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯和衣", "a": "jei gwa jout"}
+{"id": "tavi2143", "task": "c2s", "q": "把这句中文翻译成Tavi语：书的船", "a": "za dzo zou"}
+{"id": "tavi2144", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik phy geit", "a": "墨是臭的"}
+{"id": "tavi2145", "task": "gloss", "q": "Tavi语词“dou”用中文怎么说？", "a": "宽"}
+{"id": "tavi2146", "task": "gloss", "q": "Tavi语词“beit”用中文怎么说？", "a": "圆"}
+{"id": "tavi2147", "task": "c2s", "q": "把这句中文翻译成Tavi语：雪和刀", "a": "byk gwa zat"}
+{"id": "tavi2148", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk phy beit", "a": "叶子是圆的"}
+{"id": "tavi2149", "task": "gloss", "q": "Tavi语词“zei”用中文怎么说？", "a": "塔"}
+{"id": "tavi2150", "task": "gloss", "q": "Tavi语词“jou”用中文怎么说？", "a": "纸"}
+{"id": "tavi2151", "task": "gloss", "q": "Tavi语词“dei”用中文怎么说？", "a": "网"}
+{"id": "tavi2152", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik gwa gak", "a": "河流和线"}
+{"id": "tavi2153", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽的伞", "a": "zaet dzo vaek"}
+{"id": "tavi2154", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit phy ha", "a": "鞋是冷的"}
+{"id": "tavi2155", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa dzo gyk", "a": "针的茶"}
+{"id": "tavi2156", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸是圆的", "a": "jou phy beit"}
+{"id": "tavi2157", "task": "gloss", "q": "Tavi语词“fy”用中文怎么说？", "a": "旧"}
+{"id": "tavi2158", "task": "gloss", "q": "Tavi语词“fou”用中文怎么说？", "a": "车"}
+{"id": "tavi2159", "task": "c2s", "q": "把这句中文翻译成Tavi语：路是慢的", "a": "haet phy dy"}
+{"id": "tavi2160", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek dzo fa", "a": "伞的针"}
+{"id": "tavi2161", "task": "gloss", "q": "Tavi语词“vyt”用中文怎么说？", "a": "鸟"}
+{"id": "tavi2162", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy phy fyt", "a": "盐是大的"}
+{"id": "tavi2163", "task": "c2s", "q": "把这句中文翻译成Tavi语：路是圆的", "a": "haet phy beit"}
+{"id": "tavi2164", "task": "gloss", "q": "Tavi语词“jyt”用中文怎么说？", "a": "香"}
+{"id": "tavi2165", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak gwa ja", "a": "米和火"}
+{"id": "tavi2166", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi2167", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei gwa byk", "a": "灯和雪"}
+{"id": "tavi2168", "task": "gloss", "q": "Tavi语词“beit”用中文怎么说？", "a": "圆"}
+{"id": "tavi2169", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子是香的", "a": "gouk phy jyt"}
+{"id": "tavi2170", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt gwa jeit", "a": "鸟和碗"}
+{"id": "tavi2171", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐的伞", "a": "jy dzo vaek"}
+{"id": "tavi2172", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo dak", "a": "马的算盘"}
+{"id": "tavi2173", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik dzo beik", "a": "井的井"}
+{"id": "tavi2174", "task": "s2c", "q": "把这句Tavi语翻译成中文：by dzo jei", "a": "花的灯"}
+{"id": "tavi2175", "task": "gloss", "q": "Tavi语词“zat”用中文怎么说？", "a": "刀"}
+{"id": "tavi2176", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy fyt", "a": "月亮是大的"}
+{"id": "tavi2177", "task": "s2c", "q": "把这句Tavi语翻译成中文：dak dzo zaet", "a": "算盘的帽"}
+{"id": "tavi2178", "task": "c2s", "q": "把这句中文翻译成Tavi语：席的纸", "a": "faet dzo jou"}
+{"id": "tavi2179", "task": "gloss", "q": "Tavi语词“beit”用中文怎么说？", "a": "圆"}
+{"id": "tavi2180", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy fyt", "a": "茶是大的"}
+{"id": "tavi2181", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk phy feit", "a": "水是甜的"}
+{"id": "tavi2182", "task": "c2s", "q": "把这句中文翻译成Tavi语：盐是大的", "a": "jy phy fyt"}
+{"id": "tavi2183", "task": "c2s", "q": "把这句中文翻译成Tavi语：伞是湿的", "a": "vaek phy zae"}
+{"id": "tavi2184", "task": "c2s", "q": "把这句中文翻译成Tavi语：米的钟", "a": "bak dzo vak"}
+{"id": "tavi2185", "task": "gloss", "q": "Tavi语词“dyk”用中文怎么说？", "a": "鼓"}
+{"id": "tavi2186", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga phy hyk", "a": "马是暗的"}
+{"id": "tavi2187", "task": "gloss", "q": "Tavi语词“houk”用中文怎么说？", "a": "硬"}
+{"id": "tavi2188", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyk phy zae", "a": "桥是湿的"}
+{"id": "tavi2189", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗是黑的", "a": "jeit phy jak"}
+{"id": "tavi2190", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei gwa jaet", "a": "灯和树"}
+{"id": "tavi2191", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶是方的", "a": "fae phy zyt"}
+{"id": "tavi2192", "task": "c2s", "q": "把这句中文翻译成Tavi语：算盘是冷的", "a": "dak phy ha"}
+{"id": "tavi2193", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet phy vouk", "a": "帽是浅的"}
+{"id": "tavi2194", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat dzo byk", "a": "刀的雪"}
+{"id": "tavi2195", "task": "s2c", "q": "把这句Tavi语翻译成中文：jyk phy vouk", "a": "门是浅的"}
+{"id": "tavi2196", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet gwa ja", "a": "月亮和火"}
+{"id": "tavi2197", "task": "c2s", "q": "把这句中文翻译成Tavi语：树和碗", "a": "jaet gwa jeit"}
+{"id": "tavi2198", "task": "s2c", "q": "把这句Tavi语翻译成中文：faet phy beit", "a": "席是圆的"}
+{"id": "tavi2199", "task": "c2s", "q": "把这句中文翻译成Tavi语：网是热的", "a": "dei phy heik"}
+{"id": "tavi2200", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓的船", "a": "dyk dzo zou"}
+{"id": "tavi2201", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja phy bat", "a": "火是白的"}
+{"id": "tavi2202", "task": "c2s", "q": "把这句中文翻译成Tavi语：花的车", "a": "by dzo fou"}
+{"id": "tavi2203", "task": "s2c", "q": "把这句Tavi语翻译成中文：jaet phy dy", "a": "树是慢的"}
+{"id": "tavi2204", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak phy jat", "a": "米是新的"}
+{"id": "tavi2205", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa zeit", "a": "路和鞋"}
+{"id": "tavi2206", "task": "gloss", "q": "Tavi语词“hyt”用中文怎么说？", "a": "绳"}
+{"id": "tavi2207", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae gwa dyk", "a": "瓶和鼓"}
+{"id": "tavi2208", "task": "gloss", "q": "Tavi语词“jeit”用中文怎么说？", "a": "碗"}
+{"id": "tavi2209", "task": "gloss", "q": "Tavi语词“jyt”用中文怎么说？", "a": "香"}
+{"id": "tavi2210", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy fyt", "a": "云是大的"}
+{"id": "tavi2211", "task": "c2s", "q": "把这句中文翻译成Tavi语：水和炉", "a": "zouk gwa geik"}
+{"id": "tavi2212", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi2213", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽和盐", "a": "zaet gwa jy"}
+{"id": "tavi2214", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗的布", "a": "jeit dzo gae"}
+{"id": "tavi2215", "task": "gloss", "q": "Tavi语词“hat”用中文怎么说？", "a": "干"}
+{"id": "tavi2216", "task": "s2c", "q": "把这句Tavi语翻译成中文：jou dzo hae", "a": "纸的窗"}
+{"id": "tavi2217", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥和井", "a": "vyk gwa beik"}
+{"id": "tavi2218", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo jei", "a": "马的灯"}
+{"id": "tavi2219", "task": "c2s", "q": "把这句中文翻译成Tavi语：井和路", "a": "beik gwa haet"}
+{"id": "tavi2220", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei phy feit", "a": "鱼是甜的"}
+{"id": "tavi2221", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头是暗的", "a": "baet phy hyk"}
+{"id": "tavi2222", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei phy vae", "a": "塔是窄的"}
+{"id": "tavi2223", "task": "c2s", "q": "把这句中文翻译成Tavi语：门是快的", "a": "jyk phy gout"}
+{"id": "tavi2224", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei dzo jou", "a": "镜的纸"}
+{"id": "tavi2225", "task": "s2c", "q": "把这句Tavi语翻译成中文：by dzo fouk", "a": "花的笛"}
+{"id": "tavi2226", "task": "gloss", "q": "Tavi语词“fy”用中文怎么说？", "a": "旧"}
+{"id": "tavi2227", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt dzo baet", "a": "鸟的石头"}
+{"id": "tavi2228", "task": "c2s", "q": "把这句中文翻译成Tavi语：砚的针", "a": "gei dzo fa"}
+{"id": "tavi2229", "task": "c2s", "q": "把这句中文翻译成Tavi语：席是热的", "a": "faet phy heik"}
+{"id": "tavi2230", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉是湿的", "a": "geik phy zae"}
+{"id": "tavi2231", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy vout", "a": "云是蓝的"}
+{"id": "tavi2232", "task": "c2s", "q": "把这句中文翻译成Tavi语：门和镜", "a": "jyk gwa vei"}
+{"id": "tavi2233", "task": "s2c", "q": "把这句Tavi语翻译成中文：by dzo vyt", "a": "花的鸟"}
+{"id": "tavi2234", "task": "s2c", "q": "把这句Tavi语翻译成中文：feik gwa zou", "a": "墨和船"}
+{"id": "tavi2235", "task": "s2c", "q": "把这句Tavi语翻译成中文：gae gwa beik", "a": "布和井"}
+{"id": "tavi2236", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat phy bei", "a": "刀是小的"}
+{"id": "tavi2237", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉是大的", "a": "geik phy fyt"}
+{"id": "tavi2238", "task": "s2c", "q": "把这句Tavi语翻译成中文：deik gwa fou", "a": "河流和车"}
+{"id": "tavi2239", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae dzo fat", "a": "窗的笔"}
+{"id": "tavi2240", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik phy hat", "a": "炉是干的"}
+{"id": "tavi2241", "task": "gloss", "q": "Tavi语词“vouk”用中文怎么说？", "a": "浅"}
+{"id": "tavi2242", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥是暗的", "a": "vyk phy hyk"}
+{"id": "tavi2243", "task": "gloss", "q": "Tavi语词“gy”用中文怎么说？", "a": "轻"}
+{"id": "tavi2244", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet dzo fat", "a": "路的笔"}
+{"id": "tavi2245", "task": "gloss", "q": "Tavi语词“bei”用中文怎么说？", "a": "小"}
+{"id": "tavi2246", "task": "c2s", "q": "把这句中文翻译成Tavi语：花和灯", "a": "by gwa jei"}
+{"id": "tavi2247", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi2248", "task": "s2c", "q": "把这句Tavi语翻译成中文：fat phy dou", "a": "笔是宽的"}
+{"id": "tavi2249", "task": "s2c", "q": "把这句Tavi语翻译成中文：vei gwa deit", "a": "镜和云"}
+{"id": "tavi2250", "task": "s2c", "q": "把这句Tavi语翻译成中文：gouk gwa hae", "a": "叶子和窗"}
+{"id": "tavi2251", "task": "c2s", "q": "把这句中文翻译成Tavi语：纸是红的", "a": "jou phy baek"}
+{"id": "tavi2252", "task": "s2c", "q": "把这句Tavi语翻译成中文：gei phy hyk", "a": "砚是暗的"}
+{"id": "tavi2253", "task": "c2s", "q": "把这句中文翻译成Tavi语：线是热的", "a": "gak phy heik"}
+{"id": "tavi2254", "task": "gloss", "q": "Tavi语词“jei”用中文怎么说？", "a": "灯"}
+{"id": "tavi2255", "task": "c2s", "q": "把这句中文翻译成Tavi语：树的灯", "a": "jaet dzo jei"}
+{"id": "tavi2256", "task": "gloss", "q": "Tavi语词“gouk”用中文怎么说？", "a": "叶子"}
+{"id": "tavi2257", "task": "s2c", "q": "把这句Tavi语翻译成中文：hae dzo bak", "a": "窗的米"}
+{"id": "tavi2258", "task": "c2s", "q": "把这句中文翻译成Tavi语：线和布", "a": "gak gwa gae"}
+{"id": "tavi2259", "task": "c2s", "q": "把这句中文翻译成Tavi语：路和花", "a": "haet gwa by"}
+{"id": "tavi2260", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei gwa byk", "a": "网和雪"}
+{"id": "tavi2261", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek gwa gak", "a": "伞和线"}
+{"id": "tavi2262", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk gwa jeit", "a": "水和碗"}
+{"id": "tavi2263", "task": "gloss", "q": "Tavi语词“hyk”用中文怎么说？", "a": "暗"}
+{"id": "tavi2264", "task": "gloss", "q": "Tavi语词“geik”用中文怎么说？", "a": "炉"}
+{"id": "tavi2265", "task": "s2c", "q": "把这句Tavi语翻译成中文：geik gwa deik", "a": "炉和河流"}
+{"id": "tavi2266", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮和火", "a": "vaet gwa ja"}
+{"id": "tavi2267", "task": "gloss", "q": "Tavi语词“jy”用中文怎么说？", "a": "盐"}
+{"id": "tavi2268", "task": "c2s", "q": "把这句中文翻译成Tavi语：水的鱼", "a": "zouk dzo fei"}
+{"id": "tavi2269", "task": "c2s", "q": "把这句中文翻译成Tavi语：灯的炉", "a": "jei dzo geik"}
+{"id": "tavi2270", "task": "c2s", "q": "把这句中文翻译成Tavi语：车的纸", "a": "fou dzo jou"}
+{"id": "tavi2271", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流和镜", "a": "deik gwa vei"}
+{"id": "tavi2272", "task": "gloss", "q": "Tavi语词“gyk”用中文怎么说？", "a": "茶"}
+{"id": "tavi2273", "task": "gloss", "q": "Tavi语词“dat”用中文怎么说？", "a": "山"}
+{"id": "tavi2274", "task": "c2s", "q": "把这句中文翻译成Tavi语：路的马", "a": "haet dzo ga"}
+{"id": "tavi2275", "task": "c2s", "q": "把这句中文翻译成Tavi语：树的布", "a": "jaet dzo gae"}
+{"id": "tavi2276", "task": "s2c", "q": "把这句Tavi语翻译成中文：vak gwa byk", "a": "钟和雪"}
+{"id": "tavi2277", "task": "c2s", "q": "把这句中文翻译成Tavi语：绳和灯", "a": "hyt gwa jei"}
+{"id": "tavi2278", "task": "c2s", "q": "把这句中文翻译成Tavi语：车的花", "a": "fou dzo by"}
+{"id": "tavi2279", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋的砚", "a": "zeit dzo gei"}
+{"id": "tavi2280", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和钟", "a": "deit gwa vak"}
+{"id": "tavi2281", "task": "c2s", "q": "把这句中文翻译成Tavi语：门是干的", "a": "jyk phy hat"}
+{"id": "tavi2282", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae phy vout", "a": "瓶是蓝的"}
+{"id": "tavi2283", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak phy fak", "a": "米是深的"}
+{"id": "tavi2284", "task": "gloss", "q": "Tavi语词“vyt”用中文怎么说？", "a": "鸟"}
+{"id": "tavi2285", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy gwa ga", "a": "盐和马"}
+{"id": "tavi2286", "task": "gloss", "q": "Tavi语词“baek”用中文怎么说？", "a": "红"}
+{"id": "tavi2287", "task": "s2c", "q": "把这句Tavi语翻译成中文：zeit phy gout", "a": "鞋是快的"}
+{"id": "tavi2288", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨是轻的", "a": "feik phy gy"}
+{"id": "tavi2289", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae dzo deit", "a": "瓶的云"}
+{"id": "tavi2290", "task": "s2c", "q": "把这句Tavi语翻译成中文：zaet phy gy", "a": "帽是轻的"}
+{"id": "tavi2291", "task": "c2s", "q": "把这句中文翻译成Tavi语：车和帽", "a": "fou gwa zaet"}
+{"id": "tavi2292", "task": "c2s", "q": "把这句中文翻译成Tavi语：火和树", "a": "ja gwa jaet"}
+{"id": "tavi2293", "task": "s2c", "q": "把这句Tavi语翻译成中文：zei dzo fou", "a": "塔的车"}
+{"id": "tavi2294", "task": "c2s", "q": "把这句中文翻译成Tavi语：炉的笛", "a": "geik dzo fouk"}
+{"id": "tavi2295", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja phy zyt", "a": "火是方的"}
+{"id": "tavi2296", "task": "c2s", "q": "把这句中文翻译成Tavi语：石头的窗", "a": "baet dzo hae"}
+{"id": "tavi2297", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的墨", "a": "jout dzo feik"}
+{"id": "tavi2298", "task": "gloss", "q": "Tavi语词“fou”用中文怎么说？", "a": "车"}
+{"id": "tavi2299", "task": "s2c", "q": "把这句Tavi语翻译成中文：dei dzo fei", "a": "网的鱼"}
+{"id": "tavi2300", "task": "c2s", "q": "把这句中文翻译成Tavi语：车和花", "a": "fou gwa by"}
+{"id": "tavi2301", "task": "c2s", "q": "把这句中文翻译成Tavi语：网是冷的", "a": "dei phy ha"}
+{"id": "tavi2302", "task": "gloss", "q": "Tavi语词“vout”用中文怎么说？", "a": "蓝"}
+{"id": "tavi2303", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou phy zyt", "a": "船是方的"}
+{"id": "tavi2304", "task": "gloss", "q": "Tavi语词“beik”用中文怎么说？", "a": "井"}
+{"id": "tavi2305", "task": "c2s", "q": "把这句中文翻译成Tavi语：鞋是浅的", "a": "zeit phy vouk"}
+{"id": "tavi2306", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit gwa fat", "a": "云和笔"}
+{"id": "tavi2307", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou phy zae", "a": "船是湿的"}
+{"id": "tavi2308", "task": "c2s", "q": "把这句中文翻译成Tavi语：路和帽", "a": "haet gwa zaet"}
+{"id": "tavi2309", "task": "gloss", "q": "Tavi语词“hat”用中文怎么说？", "a": "干"}
+{"id": "tavi2310", "task": "s2c", "q": "把这句Tavi语翻译成中文：ja gwa jyk", "a": "火和门"}
+{"id": "tavi2311", "task": "gloss", "q": "Tavi语词“heik”用中文怎么说？", "a": "热"}
+{"id": "tavi2312", "task": "s2c", "q": "把这句Tavi语翻译成中文：gak phy fyt", "a": "线是大的"}
+{"id": "tavi2313", "task": "c2s", "q": "把这句中文翻译成Tavi语：云是红的", "a": "deit phy baek"}
+{"id": "tavi2314", "task": "s2c", "q": "把这句Tavi语翻译成中文：jout phy gout", "a": "衣是快的"}
+{"id": "tavi2315", "task": "gloss", "q": "Tavi语词“beik”用中文怎么说？", "a": "井"}
+{"id": "tavi2316", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓和网", "a": "dyk gwa dei"}
+{"id": "tavi2317", "task": "c2s", "q": "把这句中文翻译成Tavi语：米的路", "a": "bak dzo haet"}
+{"id": "tavi2318", "task": "c2s", "q": "把这句中文翻译成Tavi语：叶子的鱼", "a": "gouk dzo fei"}
+{"id": "tavi2319", "task": "c2s", "q": "把这句中文翻译成Tavi语：山是香的", "a": "dat phy jyt"}
+{"id": "tavi2320", "task": "s2c", "q": "把这句Tavi语翻译成中文：vyt gwa hae", "a": "鸟和窗"}
+{"id": "tavi2321", "task": "s2c", "q": "把这句Tavi语翻译成中文：fae dzo zou", "a": "瓶的船"}
+{"id": "tavi2322", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk dzo fa", "a": "水的针"}
+{"id": "tavi2323", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaek gwa fouk", "a": "伞和笛"}
+{"id": "tavi2324", "task": "gloss", "q": "Tavi语词“feit”用中文怎么说？", "a": "甜"}
+{"id": "tavi2325", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat dzo beik", "a": "山的井"}
+{"id": "tavi2326", "task": "s2c", "q": "把这句Tavi语翻译成中文：byk gwa zeit", "a": "雪和鞋"}
+{"id": "tavi2327", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛是重的", "a": "fouk phy hei"}
+{"id": "tavi2328", "task": "c2s", "q": "把这句中文翻译成Tavi语：笛是甜的", "a": "fouk phy feit"}
+{"id": "tavi2329", "task": "c2s", "q": "把这句中文翻译成Tavi语：书是暗的", "a": "za phy hyk"}
+{"id": "tavi2330", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk phy bat", "a": "茶是白的"}
+{"id": "tavi2331", "task": "gloss", "q": "Tavi语词“jei”用中文怎么说？", "a": "灯"}
+{"id": "tavi2332", "task": "c2s", "q": "把这句中文翻译成Tavi语：山的河流", "a": "dat dzo deik"}
+{"id": "tavi2333", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮是热的", "a": "vaet phy heik"}
+{"id": "tavi2334", "task": "gloss", "q": "Tavi语词“ha”用中文怎么说？", "a": "冷"}
+{"id": "tavi2335", "task": "s2c", "q": "把这句Tavi语翻译成中文：beik gwa vyt", "a": "井和鸟"}
+{"id": "tavi2336", "task": "c2s", "q": "把这句中文翻译成Tavi语：线是方的", "a": "gak phy zyt"}
+{"id": "tavi2337", "task": "s2c", "q": "把这句Tavi语翻译成中文：fouk phy dou", "a": "笛是宽的"}
+{"id": "tavi2338", "task": "c2s", "q": "把这句中文翻译成Tavi语：桥是软的", "a": "vyk phy veik"}
+{"id": "tavi2339", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo dei", "a": "马的网"}
+{"id": "tavi2340", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽是宽的", "a": "zaet phy dou"}
+{"id": "tavi2341", "task": "s2c", "q": "把这句Tavi语翻译成中文：dyk dzo zeit", "a": "鼓的鞋"}
+{"id": "tavi2342", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou dzo vyt", "a": "船的鸟"}
+{"id": "tavi2343", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓和纸", "a": "dyk gwa jou"}
+{"id": "tavi2344", "task": "c2s", "q": "把这句中文翻译成Tavi语：云的盐", "a": "deit dzo jy"}
+{"id": "tavi2345", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa jyk", "a": "路和门"}
+{"id": "tavi2346", "task": "s2c", "q": "把这句Tavi语翻译成中文：jy phy houk", "a": "盐是硬的"}
+{"id": "tavi2347", "task": "c2s", "q": "把这句中文翻译成Tavi语：瓶是圆的", "a": "fae phy beit"}
+{"id": "tavi2348", "task": "c2s", "q": "把这句中文翻译成Tavi语：刀和针", "a": "zat gwa fa"}
+{"id": "tavi2349", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet phy bat", "a": "路是白的"}
+{"id": "tavi2350", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗是蓝的", "a": "jeit phy vout"}
+{"id": "tavi2351", "task": "c2s", "q": "把这句中文翻译成Tavi语：水和茶", "a": "zouk gwa gyk"}
+{"id": "tavi2352", "task": "gloss", "q": "Tavi语词“vyk”用中文怎么说？", "a": "桥"}
+{"id": "tavi2353", "task": "c2s", "q": "把这句中文翻译成Tavi语：鼓是香的", "a": "dyk phy jyt"}
+{"id": "tavi2354", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei dzo zaet", "a": "鱼的帽"}
+{"id": "tavi2355", "task": "gloss", "q": "Tavi语词“vei”用中文怎么说？", "a": "镜"}
+{"id": "tavi2356", "task": "c2s", "q": "把这句中文翻译成Tavi语：米是旧的", "a": "bak phy fy"}
+{"id": "tavi2357", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei phy bat", "a": "灯是白的"}
+{"id": "tavi2358", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和针", "a": "deit gwa fa"}
+{"id": "tavi2359", "task": "gloss", "q": "Tavi语词“vout”用中文怎么说？", "a": "蓝"}
+{"id": "tavi2360", "task": "c2s", "q": "把这句中文翻译成Tavi语：门和碗", "a": "jyk gwa jeit"}
+{"id": "tavi2361", "task": "c2s", "q": "把这句中文翻译成Tavi语：帽和水", "a": "zaet gwa zouk"}
+{"id": "tavi2362", "task": "c2s", "q": "把这句中文翻译成Tavi语：马是软的", "a": "ga phy veik"}
+{"id": "tavi2363", "task": "gloss", "q": "Tavi语词“vaek”用中文怎么说？", "a": "伞"}
+{"id": "tavi2364", "task": "c2s", "q": "把这句中文翻译成Tavi语：茶是方的", "a": "gyk phy zyt"}
+{"id": "tavi2365", "task": "s2c", "q": "把这句Tavi语翻译成中文：dat phy baek", "a": "山是红的"}
+{"id": "tavi2366", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣的鼓", "a": "jout dzo dyk"}
+{"id": "tavi2367", "task": "gloss", "q": "Tavi语词“vaet”用中文怎么说？", "a": "月亮"}
+{"id": "tavi2368", "task": "s2c", "q": "把这句Tavi语翻译成中文：bak gwa jaet", "a": "米和树"}
+{"id": "tavi2369", "task": "gloss", "q": "Tavi语词“bouk”用中文怎么说？", "a": "亮"}
+{"id": "tavi2370", "task": "c2s", "q": "把这句中文翻译成Tavi语：墨是臭的", "a": "feik phy geit"}
+{"id": "tavi2371", "task": "s2c", "q": "把这句Tavi语翻译成中文：ga dzo vaek", "a": "马的伞"}
+{"id": "tavi2372", "task": "s2c", "q": "把这句Tavi语翻译成中文：fa phy vae", "a": "针是窄的"}
+{"id": "tavi2373", "task": "c2s", "q": "把这句中文翻译成Tavi语：月亮和砚", "a": "vaet gwa gei"}
+{"id": "tavi2374", "task": "s2c", "q": "把这句Tavi语翻译成中文：gyk gwa gak", "a": "茶和线"}
+{"id": "tavi2375", "task": "c2s", "q": "把这句中文翻译成Tavi语：云和碗", "a": "deit gwa jeit"}
+{"id": "tavi2376", "task": "c2s", "q": "把这句中文翻译成Tavi语：米和刀", "a": "bak gwa zat"}
+{"id": "tavi2377", "task": "s2c", "q": "把这句Tavi语翻译成中文：vaet phy gy", "a": "月亮是轻的"}
+{"id": "tavi2378", "task": "gloss", "q": "Tavi语词“bat”用中文怎么说？", "a": "白"}
+{"id": "tavi2379", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔是甜的", "a": "fat phy feit"}
+{"id": "tavi2380", "task": "s2c", "q": "把这句Tavi语翻译成中文：zou gwa zou", "a": "船和船"}
+{"id": "tavi2381", "task": "s2c", "q": "把这句Tavi语翻译成中文：fei gwa vyt", "a": "鱼和鸟"}
+{"id": "tavi2382", "task": "c2s", "q": "把这句中文翻译成Tavi语：花和书", "a": "by gwa za"}
+{"id": "tavi2383", "task": "c2s", "q": "把这句中文翻译成Tavi语：碗是甜的", "a": "jeit phy feit"}
+{"id": "tavi2384", "task": "c2s", "q": "把这句中文翻译成Tavi语：衣是暗的", "a": "jout phy hyk"}
+{"id": "tavi2385", "task": "c2s", "q": "把这句中文翻译成Tavi语：花是浅的", "a": "by phy vouk"}
+{"id": "tavi2386", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy hyk", "a": "云是暗的"}
+{"id": "tavi2387", "task": "s2c", "q": "把这句Tavi语翻译成中文：zat dzo jeit", "a": "刀的碗"}
+{"id": "tavi2388", "task": "c2s", "q": "把这句中文翻译成Tavi语：河流的笔", "a": "deik dzo fat"}
+{"id": "tavi2389", "task": "c2s", "q": "把这句中文翻译成Tavi语：网和桥", "a": "dei gwa vyk"}
+{"id": "tavi2390", "task": "s2c", "q": "把这句Tavi语翻译成中文：haet gwa gak", "a": "路和线"}
+{"id": "tavi2391", "task": "s2c", "q": "把这句Tavi语翻译成中文：jeit dzo zaet", "a": "碗的帽"}
+{"id": "tavi2392", "task": "s2c", "q": "把这句Tavi语翻译成中文：jei gwa by", "a": "灯和花"}
+{"id": "tavi2393", "task": "gloss", "q": "Tavi语词“fa”用中文怎么说？", "a": "针"}
+{"id": "tavi2394", "task": "c2s", "q": "把这句中文翻译成Tavi语：席和鞋", "a": "faet gwa zeit"}
+{"id": "tavi2395", "task": "c2s", "q": "把这句中文翻译成Tavi语：笔是旧的", "a": "fat phy fy"}
+{"id": "tavi2396", "task": "s2c", "q": "把这句Tavi语翻译成中文：zouk gwa faet", "a": "水和席"}
+{"id": "tavi2397", "task": "gloss", "q": "Tavi语词“vyk”用中文怎么说？", "a": "桥"}
+{"id": "tavi2398", "task": "gloss", "q": "Tavi语词“baet”用中文怎么说？", "a": "石头"}
+{"id": "tavi2399", "task": "s2c", "q": "把这句Tavi语翻译成中文：deit phy bat", "a": "云是白的"}

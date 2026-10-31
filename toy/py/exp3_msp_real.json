@@ -1,0 +1,38 @@
+{
+  "chance": 0.02,
+  "acc_oracle_capacity": 1.0,
+  "acc_backbone_raw": 0.02,
+  "probe_rel_err": 0.019,
+  "acc_joint_upper_a": 1.0,
+  "acc_isa_transferred_b": 0.94,
+  "acc_naive_b0": 0.0,
+  "ratio_b_over_a": 0.94,
+  "drift_curve": [
+    {
+      "anchors": 4,
+      "acc": 0.1
+    },
+    {
+      "anchors": 8,
+      "acc": 0.18
+    },
+    {
+      "anchors": 16,
+      "acc": 0.36
+    },
+    {
+      "anchors": 32,
+      "acc": 0.64
+    },
+    {
+      "anchors": 48,
+      "acc": 0.96
+    },
+    {
+      "anchors": 60,
+      "acc": 0.94
+    }
+  ],
+  "msp_KB": 442.1,
+  "verdict": "部分成立：显著优于不转译但未达95%线"
+}

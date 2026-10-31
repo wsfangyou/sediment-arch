@@ -1,0 +1,24 @@
+{
+ "nf4_bare": {
+  "A_tf": 0.3611,
+  "A_gen": 0.0,
+  "ppl": 17.77
+ },
+ "nf4_adapter": {
+  "A_tf": 0.9939,
+  "A_gen": 0.96,
+  "ppl": 15.63
+ },
+ "fp16_adapter_ref": {
+  "A_tf": 0.9939,
+  "A_gen": 0.96,
+  "ppl": 14.42,
+  "source": "qwen4b_d2.json / qwen4b_d2_agen_fix.json"
+ },
+ "gap": {
+  "A_tf": 0.0,
+  "A_gen": 0.0,
+  "ppl_x": 1.084
+ },
+ "verdict": "✅ 量化后 D2 仍过线（A_tf>=0.90 且 A_gen>=0.80）"
+}

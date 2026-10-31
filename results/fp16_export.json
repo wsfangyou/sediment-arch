@@ -1,0 +1,18 @@
+{
+ "size_gib": 1.542,
+ "size_bytes": 1656006632,
+ "keys": 218,
+ "tied": true,
+ "verify": {
+  "fp32": {
+   "val_loss": 4.0416,
+   "ppl": 56.92,
+   "weight_mib": 2024
+  },
+  "fp16": {
+   "val_loss": 4.0416,
+   "ppl": 56.92,
+   "weight_mib": 1579
+  }
+ }
+}

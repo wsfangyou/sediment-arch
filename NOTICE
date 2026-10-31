@@ -1,0 +1,26 @@
+沉积式技术 / Sediment Architecture
+Copyright 2026 The Sediment Architecture Authors
+
+本产品包含由第三方开发的材料，具体如下 / This product includes material
+developed by third parties:
+
+1. Qwen3-4B, Qwen3-4B-Instruct-2507 (Alibaba Qwen Team)
+   License: Apache License 2.0
+   https://huggingface.co/Qwen/Qwen3-4B
+   用途：作为对照基座（B 线）与技能实验的底座。本仓库不包含其权重。
+
+2. Qwen2.5-3B-Instruct (Alibaba Qwen Team)
+   License: Qwen Research License（研究用途）
+   https://huggingface.co/Qwen/Qwen2.5-3B-Instruct
+   用途：早期蒸馏实验的参考骨干与分词器来源。本仓库不包含其权重；
+   基于它训练的 adapter 亦未随仓库分发。
+
+3. chinese-fineweb-edu-v2 (OpenCSG)
+   https://huggingface.co/datasets/opencsg/chinese-fineweb-edu-v2
+   用途：自研 L0 的预训练语料（约 0.97B token）。本仓库不包含语料本体，
+   仅提供分词打包脚本 scripts/prepare_corpus.py。
+
+4. Apache License 2.0 全文见 LICENSE 文件。
+
+本仓库的 docs/ 目录中的《低显存大模型流畅运行方案-沉积架构.md》与
+《沉积架构技术解释报告.md》为项目设计文档，随仓库以 CC BY 4.0 提供。

@@ -1,0 +1,226 @@
+{
+ "n": 30,
+ "counts": {
+  "PASS": 8,
+  "EOS": 0,
+  "LOOP": 22,
+  "SUBST": 0
+ },
+ "A_gen_raw": 0.2667,
+ "A_gen_if_cut_first_line": 0.2,
+ "format_error_share": 0.7333,
+ "semantic_error_share": 0.0,
+ "adapter": "adapter_sedu_r16 (600 步纯技能, A_tf 0.727)",
+ "samples": [
+  {
+   "q": "把这句Sedu语翻译成中文：numo ke toto",
+   "expect": "耳朵和沙子",
+   "gen": "耳朵和猫\n耳朵\n耳朵\n耳朵\n耳朵\n耳朵\n耳朵\n耳朵\n耳朵",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：黄昏是很冷的",
+   "expect": "mora ve xe fubo ne",
+   "gen": "koka ve xe fubo ne\nkoka ve xe fubo\nkoka ve xe fubo\nkoka ve x",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "Sedu语词“reko”用中文怎么说？",
+   "expect": "河流",
+   "gen": "雷\n雷\n雷\n雷\n雷\n雷\n雷\n雷\n雷\n雷",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：mofu ne kopi xe ququ",
+   "expect": "冰雪的嘴巴很坏",
+   "gen": "冰雪的早晨很新\n冰雪的夜晚很新\n冰雪和早晨\n冰雪\n冰雪\n冰雪",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：花朵思考树木",
+   "expect": "tobo tora nini",
+   "gen": "koka nire lara\nkoka nire lara\nkora nire lara\nkora nire",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "Sedu语词“lara”用中文怎么说？",
+   "expect": "雾",
+   "gen": "叶子\n叶子\n雾\n雾\n雾\n雾\n雾\n雾\n雾\n雾",
+   "type": "PASS",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：sala ke moga",
+   "expect": "天空和头发",
+   "gen": "天空和叶子\n秋天\n冬天\n冬天\n冬天\n冬天\n冬天\n冬天\n冬天",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：夏天是很快的",
+   "expect": "gare ve xe mira ne",
+   "gen": "koka ve xe fubo ne\nkoka ve xe fubo\nkoka ve xe fubo\nkoka ve x",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "Sedu语词“deni”用中文怎么说？",
+   "expect": "种子",
+   "gen": "鸟\n种子\n鸟\n鸟\n鸟\n鸟\n鸟\n鸟\n鸟\n鸟",
+   "type": "PASS",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：laji ne koka xe dela",
+   "expect": "叶子的早晨很慢",
+   "gen": "夜晚的早晨很美丽\n夜晚的夜晚很美丽\n夜晚的秋天很美丽\n夜晚的夏天很美丽",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：白天思考夜晚",
+   "expect": "rafu tora lunu",
+   "gen": "koka nire lara\nkoka nire lara\nkora nire lara\nkora nire",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "Sedu语词“luqu”用中文怎么说？",
+   "expect": "面包",
+   "gen": "面包\n面包\n面包\n面包\n面包\n面包\n面包\n面包\n面包\n面包",
+   "type": "PASS",
+   "cut_first_line_ok": true
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：komi ke lala",
+   "expect": "云朵和秋天",
+   "gen": "早晨和早晨\n早晨\n早晨\n早晨\n早晨\n早晨\n早晨\n早晨\n早晨",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：早晨是很坏的",
+   "expect": "koka ve xe ququ ne",
+   "gen": "koka ve xe fubo ne\nkoka ve xe fubo ne\nkoka ve xe fubo ne\nk",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "Sedu语词“rebo”用中文怎么说？",
+   "expect": "心脏",
+   "gen": "雷\n雷\n雷\n雷\n雷\n雷\n雷\n雷\n雷\n雷",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：miga ne gare xe kaqu",
+   "expect": "果实的夏天很旧",
+   "gen": "果实的冬天很冷\n果实\n果实\n果实\n果实\n果实\n草地\n草地",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：树木跑步石头",
+   "expect": "nini gapi safu",
+   "gen": "koka nire lara\nkoka nire lara\nkoka nire lara\nkora nire",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "Sedu语词“dede”用中文怎么说？",
+   "expect": "雨水",
+   "gen": "雨水\n雨水\n雨水\n雨水\n雨水\n雨水\n雨水\n雨水\n雨水\n雨水",
+   "type": "PASS",
+   "cut_first_line_ok": true
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：nunu ke jiho",
+   "expect": "草地和牛奶",
+   "gen": "草地和森林\n草地\n草地\n草地\n草地\n草地\n草地\n草地\n草地",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：心脏是很冷的",
+   "expect": "rebo ve xe fubo ne",
+   "gen": "koka ve xe fubo ne\nkoka ve xe fubo\nkoka ve xe fubo\nkora ve x",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "Sedu语词“miho”用中文怎么说？",
+   "expect": "鱼",
+   "gen": "鱼\n鱼\n鱼\n鱼\n鱼\n鱼\n鱼\n鱼\n鱼\n鱼",
+   "type": "PASS",
+   "cut_first_line_ok": true
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：nunu ne fusa xe mira",
+   "expect": "草地的冬天很快",
+   "gen": "草地的冬天很冷\n草地的冬天很冷\n草地的冬天很冷\n草地的冬天很冷",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：云朵跳跃人",
+   "expect": "komi mifu kako",
+   "gen": "koka nire lara\nkoka nire lara\nkora nire lara\n早晨的秋天很",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "Sedu语词“jiho”用中文怎么说？",
+   "expect": "牛奶",
+   "gen": "牛奶\n牛奶\n牛奶\n牛奶\n牛奶\n牛奶\n牛奶\n牛奶\n牛奶\n牛奶",
+   "type": "PASS",
+   "cut_first_line_ok": true
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：lunu ke kopi",
+   "expect": "夜晚和嘴巴",
+   "gen": "夜晚和云朵\n夜晚\n夜晚\n云朵\n云朵\n云朵\n云朵",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：火焰是很坏的",
+   "expect": "toni ve xe ququ ne",
+   "gen": "koka ve xe fubo ne\nkoka ve xe fubo ne\nkoka ve xe fubo ne\nk",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "Sedu语词“gade”用中文怎么说？",
+   "expect": "马",
+   "gen": "马\n马\n马\n马\n马\n马\n马\n马\n马\n马",
+   "type": "PASS",
+   "cut_first_line_ok": true
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：kola ne hopi xe pilu",
+   "expect": "春天的鸟很热",
+   "gen": "春天的海洋很美丽\n春天的海洋很美丽\n春天\n春天\n春天\n春天\n春天",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：冰雪睡觉马",
+   "expect": "mofu rara gade",
+   "gen": "koka nire lara\nkoka nire lara\nkora nire lara\n早晨的冬天很",
+   "type": "LOOP",
+   "cut_first_line_ok": false
+  },
+  {
+   "q": "Sedu语词“gade”用中文怎么说？",
+   "expect": "马",
+   "gen": "马\n马\n马\n马\n马\n马\n马\n马\n马\n马",
+   "type": "PASS",
+   "cut_first_line_ok": true
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "skills": [
+  "sedu",
+  "nuri",
+  "tavi"
+ ],
+ "matrix": {
+  "bare": {
+   "sedu": 0.2155,
+   "nuri": 0.2226,
+   "tavi": 0.229
+  },
+  "sedu": {
+   "sedu": 0.6552,
+   "nuri": 0.1595,
+   "tavi": 0.1478
+  },
+  "nuri": {
+   "sedu": 0.3793,
+   "nuri": 0.9435,
+   "tavi": 0.3652
+  },
+  "tavi": {
+   "sedu": 0.3477,
+   "nuri": 0.4684,
+   "tavi": 0.8232
+  }
+ },
+ "own": {
+  "sedu": {
+   "A_tf": 0.6552,
+   "A_gen": 0.96
+  },
+  "nuri": {
+   "A_tf": 0.9435,
+   "A_gen": 0.74
+  },
+  "tavi": {
+   "A_tf": 0.8232,
+   "A_gen": 0.28
+  }
+ },
+ "c_gate": {
+  "sedu": {
+   "ppl": 14.42,
+   "regress": 0.8606
+  },
+  "nuri": {
+   "ppl": 14.29,
+   "regress": 0.8529
+  },
+  "tavi": {
+   "ppl": 14.32,
+   "regress": 0.8547
+  }
+ },
+ "interference_ratio": {
+  "sedu→nuri": 0.169,
+  "sedu→tavi": 0.18,
+  "nuri→sedu": 0.579,
+  "nuri→tavi": 0.444,
+  "tavi→sedu": 0.531,
+  "tavi→nuri": 0.496
+ },
+ "bare_ppl": 16.76,
+ "verdict": "⚠️ 存在跨技能干扰，需要隔离挂载/逐技能路由"
+}

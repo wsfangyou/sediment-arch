@@ -1,0 +1,48 @@
+{
+ "protocol": {
+  "steps": 2000,
+  "bs": 4,
+  "lr": 0.0003,
+  "replay_ratio": 0.35,
+  "gen_seq": 256,
+  "n_eval": 50,
+  "replay_samples": 2804,
+  "prereg": "C 门 ppl_regress<=1.02 全救回 / <=1.15 部分救回；技能保持率>=0.90 可接受"
+ },
+ "bare": {
+  "ppl": 56.92,
+  "A_gen": 0.0
+ },
+ "tf_curve": [
+  {
+   "step": 1000,
+   "A_tf": 0.785
+  },
+  {
+   "step": 1500,
+   "A_tf": 0.8703
+  }
+ ],
+ "after": {
+  "A_tf": 0.9386,
+  "A_gen": 0.32,
+  "ppl_general": 58.74
+ },
+ "ppl_regress_vs_bare": 1.032,
+ "skill_retention_vs_pure": 1.291,
+ "baseline_pure_skill": {
+  "A_tf": 0.727,
+  "ppl_regress_vs_bare": 1.338,
+  "source": "e1_l1.json（同 600 步 / bs4 / 无混采）"
+ },
+ "verdict": "⚠️ C 门部分救回（1.032×，较纯技能的 1.338× 明显改善，仍不过 1.02 门）",
+ "after_eos_fix": {
+  "A_tf": 0.9386,
+  "A_gen": 0.78,
+  "n_eval": 50,
+  "bare_ppl": 56.92,
+  "skill_ppl": 58.74,
+  "ppl_regress": 1.032,
+  "note": "修正 eos_token_id=[151645,151643] 后的 50 条重测"
+ }
+}

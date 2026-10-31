@@ -1,0 +1,132 @@
+{
+ "protocol": {
+  "model": "D:/Doubao-works/训练前置/02_基座模型/Qwen3-4B",
+  "steps": 800,
+  "bs": 4,
+  "lr": 0.0002,
+  "replay": 0.35,
+  "gen_seq": 256,
+  "n_eval": 50,
+  "eos_fix": "eos_token_id=[151645,151643]",
+  "prereg": "A_tf>=0.90 且 A_gen>=0.80 且 bare<=0.15；C 门严格 1.02 / 观测 1.05"
+ },
+ "bare": {
+  "A_tf": 0.3327,
+  "A_gen": 0.0,
+  "ppl": 16.76
+ },
+ "after": {
+  "A_tf": 0.9939,
+  "A_gen": 0.32
+ },
+ "c_gate": {
+  "ppl": 14.42,
+  "regress": 0.8606,
+  "pass_strict": true,
+  "pass_observed": true
+ },
+ "verdict": "⚠️ A_tf 过线但 A_gen 未达",
+ "trainable_m": 33.03,
+ "samples": [
+  {
+   "q": "把这句Sedu语翻译成中文：numo ke toto",
+   "expect": "耳朵和沙子",
+   "gen": "<think>\n\n</think>\n\n耳朵和沙子"
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：黄昏是很冷的",
+   "expect": "mora ve xe fubo ne",
+   "gen": "<think>\n\n</think>\n\nmora ve xe fubo ne"
+  },
+  {
+   "q": "Sedu语词“reko”用中文怎么说？",
+   "expect": "河流",
+   "gen": "<think>\n\n</think>\n\n河流"
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：mofu ne kopi xe ququ",
+   "expect": "冰雪的嘴巴很坏",
+   "gen": "<think>\n\n</think>\n\n冰雪的嘴巴很坏"
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：花朵思考树木",
+   "expect": "tobo tora nini",
+   "gen": "<think>\n\n</think>\n\ntobo tora nini"
+  },
+  {
+   "q": "Sedu语词“lara”用中文怎么说？",
+   "expect": "雾",
+   "gen": "<think>\n\n</think>\n\n雾"
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：sala ke moga",
+   "expect": "天空和头发",
+   "gen": "<think>\n\n</think>\n\n天空和头发"
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：夏天是很快的",
+   "expect": "gare ve xe mira ne",
+   "gen": "<think>\n\n</think>\n\ngare ve xe mira ne"
+  },
+  {
+   "q": "Sedu语词“deni”用中文怎么说？",
+   "expect": "种子",
+   "gen": "<think>\n\n</think>\n\n种子"
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：laji ne koka xe dela",
+   "expect": "叶子的早晨很慢",
+   "gen": "<think>\n\n</think>\n\n叶子的早晨很慢"
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：白天思考夜晚",
+   "expect": "rafu tora lunu",
+   "gen": "<think>\n\n</think>\n\nrafu tora lunu"
+  },
+  {
+   "q": "Sedu语词“luqu”用中文怎么说？",
+   "expect": "面包",
+   "gen": "<think>\n\n</think>\n\n面包"
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：komi ke lala",
+   "expect": "云朵和秋天",
+   "gen": "<think>\n\n</think>\n\n云朵和秋天"
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：早晨是很坏的",
+   "expect": "koka ve xe ququ ne",
+   "gen": "<think>\n\n</think>\n\nkoka ve xe ququ ne"
+  },
+  {
+   "q": "Sedu语词“rebo”用中文怎么说？",
+   "expect": "心脏",
+   "gen": "<think>\n\n</think>\n\n心脏"
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：miga ne gare xe kaqu",
+   "expect": "果实的夏天很旧",
+   "gen": "<think>\n\n</think>\n\n果实的夏天很旧"
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：树木跑步石头",
+   "expect": "nini gapi safu",
+   "gen": "<think>\n\n</think>\n\nnini gapi toto"
+  },
+  {
+   "q": "Sedu语词“dede”用中文怎么说？",
+   "expect": "雨水",
+   "gen": "<think>\n\n</think>\n\n雨水"
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：nunu ke jiho",
+   "expect": "草地和牛奶",
+   "gen": "<think>\n\n</think>\n\n草地和牛奶"
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：心脏是很冷的",
+   "expect": "rebo ve xe fubo ne",
+   "gen": "<think>\n\n</think>\n\nrebo ve xe fubo ne"
+  }
+ ]
+}

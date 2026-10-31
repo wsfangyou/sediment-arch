@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "如果本仓库的实验或负结果对你有帮助，请按以下格式引用。"
+title: "沉积式技术：给已训练模型装卸可插拔技能（含负结果）"
+abstract: >-
+  在单机双卡 22GB 环境上，验证「技能沉积」这套机制的四个部件：技能承载、跨骨干接口、
+  调度接口与多技能共存。包含自研 0.828B 基座与 Qwen3-4B 两条并行验证线，
+  并给出六条可复用的负结果（MSP 跨骨干不成立、技能不提升智力、单段落 ppl 低估伤害等）。
+  代码 Apache-2.0，文档与数据 CC BY 4.0。
+authors:
+  - name: "Sediment Architecture Authors"
+version: 0.1.0
+date-released: "2026-11-01"
+license: Apache-2.0
+keywords:
+  - mixture-of-experts
+  - parameter-efficient-fine-tuning
+  - lora
+  - skill-modularity
+  - low-vram
+  - negative-results

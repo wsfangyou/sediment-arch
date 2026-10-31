@@ -1,0 +1,24 @@
+{
+ "arith4_cot_400tok": {
+  "acc": 1.0,
+  "no_format": 0.0,
+  "samples": [
+   "数是 **7 箱**\n\n选项：\n\nA. 7  \nB. 12  \nC. 2  \nD. 6\n\n答案是：A. 7\n\n答案是：A",
+   "又运来 4 箱 → 现在有：5 + 4 = 9 箱\n\n所以，最终箱数是 **9 箱**\n\n答案是：C. 9\n\n答案是：C"
+  ]
+ },
+ "arith4_quick": {
+  "acc": 0.0,
+  "no_format": 1.0
+ },
+ "arith2_quick": {
+  "acc": 0.25,
+  "no_format": 0.5833
+ },
+ "protocol": {
+  "model": "D:/Doubao-works/训练前置/02_基座模型/Qwen3-4B-Instruct-2507",
+  "n_hard": 12,
+  "n_easy": 12,
+  "note": "对比有无显式推理（CoT）的差距；400 token 是为避免长度截断"
+ }
+}

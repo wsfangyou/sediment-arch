@@ -1,0 +1,15 @@
+{
+ "bare": {
+  "val_loss": 4.0416,
+  "ppl": 56.92
+ },
+ "with_skill": {
+  "val_loss": 4.3329,
+  "ppl": 76.17
+ },
+ "regress_ratio": 1.3382,
+ "n_batches": 24,
+ "batch": 4,
+ "seq": 1024,
+ "note": "验证集 98k token 口径，替代单段落 ppl（后者的 1.043 属噪声区间）"
+}

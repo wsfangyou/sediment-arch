@@ -1,0 +1,75 @@
+{
+ "protocol": {
+  "steps": 600,
+  "bs": 4,
+  "n_eval": 30,
+  "prereg": "keep_A_gen>=0.95 且 ppl_regress<=1.02 → 可晋升；取通过的最小秩"
+ },
+ "bare_ppl_general": 67.166,
+ "results": [
+  {
+   "rank": 16,
+   "A_tf": 0.7273,
+   "A_gen": 0.2667,
+   "ppl_general": 70.082,
+   "deposit_mb": 24.19,
+   "keep_A_tf": 1.0,
+   "keep_A_gen": 1.0,
+   "ppl_regress_vs_bare": 1.043,
+   "promotable": false,
+   "gate_fidelity": true,
+   "gate_general": false
+  },
+  {
+   "rank": 8,
+   "A_tf": 0.7216,
+   "A_gen": 0.2667,
+   "ppl_general": 69.997,
+   "deposit_mb": 12.09,
+   "keep_A_tf": 0.992,
+   "keep_A_gen": 1.0,
+   "ppl_regress_vs_bare": 1.042,
+   "promotable": false,
+   "gate_fidelity": true,
+   "gate_general": false
+  },
+  {
+   "rank": 4,
+   "A_tf": 0.7216,
+   "A_gen": 0.2,
+   "ppl_general": 69.805,
+   "deposit_mb": 6.05,
+   "keep_A_tf": 0.992,
+   "keep_A_gen": 0.75,
+   "ppl_regress_vs_bare": 1.039,
+   "promotable": false,
+   "gate_fidelity": true,
+   "gate_general": false
+  },
+  {
+   "rank": 2,
+   "A_tf": 0.733,
+   "A_gen": 0.2333,
+   "ppl_general": 69.676,
+   "deposit_mb": 3.02,
+   "keep_A_tf": 1.008,
+   "keep_A_gen": 0.875,
+   "ppl_regress_vs_bare": 1.037,
+   "promotable": false,
+   "gate_fidelity": true,
+   "gate_general": false
+  }
+ ],
+ "promotable_ranks": [],
+ "residency": {
+  "l1_budget_gb": 1.0,
+  "n_deposits_at_min_fidelity_rank": 339
+ },
+ "verdict": "⚠️ 保真门通过（秩 [8, 4, 2]），但卡在 C 门：教师自身通用 ppl 就退化到 1.043×裸基座（门限 1.02），各秩 1.037–1.043 几乎相同 → 卡住晋升的是技能训练对通用分布的挤占，不是秩截断。秩截断路线本身成立（2 秩即够）。",
+ "fidelity_pass_ranks": [
+  8,
+  4,
+  2
+ ],
+ "c_gate_pass_ranks": []
+}

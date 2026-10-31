@@ -1,0 +1,37 @@
+{
+  "acc_full": {
+    "2": 0.222,
+    "3": 0.199,
+    "4": 0.364,
+    "5": 0.429
+  },
+  "acc_student": {
+    "2": 0.146,
+    "3": 0.081,
+    "4": 0.293,
+    "5": 0.267
+  },
+  "distill_keep_behavior": {
+    "2": 0.659,
+    "3": 0.405,
+    "4": 0.804,
+    "5": 0.621
+  },
+  "svd_keep_v1_contrast": {
+    "rank8_single": "0.75–0.85",
+    "joint_arith_merge": "0.08–0.13"
+  },
+  "promotions": [
+    {
+      "at": 40,
+      "rejected": true,
+      "min_keep": 0.405
+    }
+  ],
+  "tax_p95_pre_promo": 170,
+  "tax_p95_post_promo": 182,
+  "acc_mean_pre": 0.282,
+  "acc_mean_post": null,
+  "L1_merged": false,
+  "verdict": "晋升被真实保真门拒绝（min_keep=0.405<0.95）→ 闭环机制有效但阈值需按域调整"
+}

@@ -1,0 +1,72 @@
+{
+ "protocol": {
+  "model": "D:/Doubao-works/训练前置/02_基座模型/Qwen2.5-3B-Instruct",
+  "steps": 12,
+  "bs": 4,
+  "lr": 0.0002,
+  "replay": 0.35,
+  "gen_seq": 256,
+  "n_eval": 8,
+  "eos_fix": "eos_token_id=[151645,151643]",
+  "prereg": "A_tf>=0.90 且 A_gen>=0.80 且 bare<=0.15；C 门严格 1.02 / 观测 1.05"
+ },
+ "bare": {
+  "A_tf": 0.22,
+  "A_gen": 0.0,
+  "ppl": 12.74
+ },
+ "after": {
+  "A_tf": 0.42,
+  "A_gen": 0.0
+ },
+ "c_gate": {
+  "ppl": 12.66,
+  "regress": 0.9943,
+  "pass_strict": true,
+  "pass_observed": true
+ },
+ "verdict": "❌ A_tf 未过线",
+ "trainable_m": 29.93,
+ "samples": [
+  {
+   "q": "把这句Sedu语翻译成中文：numo ke toto",
+   "expect": "耳朵和沙子",
+   "gen": "山在水里"
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：黄昏是很冷的",
+   "expect": "mora ve xe fubo ne",
+   "gen": "kala ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne"
+  },
+  {
+   "q": "Sedu语词“reko”用中文怎么说？",
+   "expect": "河流",
+   "gen": "山"
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：mofu ne kopi xe ququ",
+   "expect": "冰雪的嘴巴很坏",
+   "gen": "我正在读你的书"
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：花朵思考树木",
+   "expect": "tobo tora nini",
+   "gen": "kopi kopi ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne"
+  },
+  {
+   "q": "Sedu语词“lara”用中文怎么说？",
+   "expect": "雾",
+   "gen": "小鱼"
+  },
+  {
+   "q": "把这句Sedu语翻译成中文：sala ke moga",
+   "expect": "天空和头发",
+   "gen": "我想要去"
+  },
+  {
+   "q": "把这句中文翻译成Sedu语：夏天是很快的",
+   "expect": "gare ve xe mira ne",
+   "gen": "kala ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne ne"
+  }
+ ]
+}

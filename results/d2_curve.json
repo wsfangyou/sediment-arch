@@ -1,0 +1,57 @@
+{
+ "protocol": {
+  "steps": [
+   300,
+   900
+  ],
+  "bs": 4,
+  "lr": 0.0003,
+  "n_eval": 50,
+  "prereg": "A_tf>=0.90 且 A_gen>=0.80 且 bare_gen<=0.15"
+ },
+ "bare": {
+  "A_tf": 0.1745,
+  "A_gen": 0.0,
+  "sample": "把这句SUnicode语翻译成中文：the\n在本节中，我们把这句SThis is a good way to"
+ },
+ "curve": [
+  {
+   "step": 300,
+   "train_loss": 2.0541,
+   "A_tf": 0.5802,
+   "A_gen": 0.02,
+   "A_tf_mem": 0.576,
+   "sec": 1033
+  },
+  {
+   "step": 900,
+   "train_loss": 0.5583,
+   "A_tf": 0.8225,
+   "A_gen": 0.32,
+   "A_tf_mem": 0.7941,
+   "sec": 2832
+  }
+ ],
+ "merge_consistency": {
+  "pre": 0.8512,
+  "post": 0.8512
+ },
+ "svd": {
+  "n_matrices": 168,
+  "keep_median": {
+   "2": 0.7109,
+   "4": 0.8494,
+   "8": 0.9218
+  },
+  "keep_mean": {
+   "2": 0.6961,
+   "4": 0.8302,
+   "8": 0.9111
+  },
+  "deltaW_rel_energy_median": 0.09491,
+  "deltaW_rel_energy_max": 0.27225
+ },
+ "verdict": "⚠️ 未达 0.90 线（A_tf 0.823），但随步数单调改善（0.580→0.823）→ 训练预算不足，非结构不能承载",
+ "pass": false,
+ "deficit_note": "预注册线 A_tf>=0.90 未达；pass 字段保持 False，阈值未作任何调整"
+}

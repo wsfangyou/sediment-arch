@@ -1,0 +1,510 @@
+{
+ "D1_language_vram": {
+  "val_loss": 4.0416,
+  "val_ppl": 56.9,
+  "random_ppl": 151936,
+  "params_B": 1.061,
+  "params_B_tied_dedup": 0.828,
+  "weight_fp16_mb": 2024,
+  "weight_fp16_mb_if_tied": 1579,
+  "kv_bytes_per_token": 36864,
+  "kv_vs_mha": 0.25,
+  "l1_room_gb_at_4k": 4.17,
+  "generations": [
+   {
+    "prompt": "人工智能的核心挑战在于",
+    "completion": ",在\"互联网+\"时代,互联网的出现,将为传统行业带来新的机遇,带来新的机遇,带来新的机遇.互联网的出现,将为传统行业带来新的机遇,带来新的机遇,带来新的机遇,带来"
+   },
+   {
+    "prompt": "中国的传统文化包括",
+    "completion": "人类的生存环境，人类的生存环境，人类的生存环境，人类的生存环境，人类的生存环境，人类的生存环境，人类的生存环境，人类的生存环境，人类的生存环境，人类的生存"
+   },
+   {
+    "prompt": "在水处理过程中，",
+    "completion": "由于水的含水量较大，水的含水量也较大，因此，水处理中水的含水量一般在1000～1500mg/L之间，而含水量一般在1000～"
+   }
+  ],
+  "pass": true
+ },
+ "D4_scheduler_api": {
+  "generate_ok": true,
+  "generate_ms_for_32tok": 3110,
+  "hidden_states_shape": [
+   1,
+   5,
+   1536
+  ],
+  "kv_bytes_per_token": 36864,
+  "kv_4k_mb": 144.0,
+  "hf_compatible": true,
+  "pass": true
+ },
+ "D3_msp_anchor": {
+  "verdict": "✅ MSP 锚点可标定（最佳层对：L0中层→Qwen中层）",
+  "pass": true,
+  "anchors": 140,
+  "results": {
+   "L0末层→Qwen末层": {
+    "curve": [
+     {
+      "n_train": 8,
+      "n_test": 132,
+      "lambda": 10.0,
+      "loo_cos": 0.0867,
+      "cos_aligned": 0.0079,
+      "cos_null": -0.0108,
+      "gain_vs_null": 0.0187,
+      "r2_aligned": -0.0033,
+      "r2_null": -0.0071,
+      "ret1_aligned": 0.0152,
+      "ret5_aligned": 0.0758,
+      "ret1_null": 0.0045,
+      "ret1_chance": 0.0076,
+      "mode": "pca32"
+     },
+     {
+      "n_train": 16,
+      "n_test": 124,
+      "lambda": 0.01,
+      "loo_cos": 0.2463,
+      "cos_aligned": 0.2458,
+      "cos_null": -0.0076,
+      "gain_vs_null": 0.2534,
+      "r2_aligned": -1.1305,
+      "r2_null": -1.1167,
+      "ret1_aligned": 0.0403,
+      "ret5_aligned": 0.2661,
+      "ret1_null": 0.0032,
+      "ret1_chance": 0.0081,
+      "mode": "pca32"
+     },
+     {
+      "n_train": 32,
+      "n_test": 108,
+      "lambda": 0.01,
+      "loo_cos": 0.3514,
+      "cos_aligned": 0.3053,
+      "cos_null": 0.0037,
+      "gain_vs_null": 0.3016,
+      "r2_aligned": -7.7436,
+      "r2_null": -6.7479,
+      "ret1_aligned": 0.1667,
+      "ret5_aligned": 0.4167,
+      "ret1_null": 0.0056,
+      "ret1_chance": 0.0093,
+      "mode": "pca32"
+     },
+     {
+      "n_train": 64,
+      "n_test": 76,
+      "lambda": 0.01,
+      "loo_cos": 0.3731,
+      "cos_aligned": 0.3796,
+      "cos_null": 0.0123,
+      "gain_vs_null": 0.3673,
+      "r2_aligned": -3.2344,
+      "r2_null": -2.4178,
+      "ret1_aligned": 0.1579,
+      "ret5_aligned": 0.5263,
+      "ret1_null": 0.0184,
+      "ret1_chance": 0.0132,
+      "mode": "pca32"
+     }
+    ],
+    "curve_raw": [
+     {
+      "n_train": 8,
+      "n_test": 132,
+      "lambda": 10.0,
+      "loo_cos": 0.0867,
+      "cos_aligned": 0.0079,
+      "cos_null": -0.0108,
+      "gain_vs_null": 0.0187,
+      "r2_aligned": -0.0033,
+      "r2_null": -0.0071,
+      "ret1_aligned": 0.0152,
+      "ret5_aligned": 0.0758,
+      "ret1_null": 0.0045,
+      "ret1_chance": 0.0076,
+      "mode": "raw"
+     },
+     {
+      "n_train": 16,
+      "n_test": 124,
+      "lambda": 0.01,
+      "loo_cos": 0.2463,
+      "cos_aligned": 0.2458,
+      "cos_null": -0.0076,
+      "gain_vs_null": 0.2534,
+      "r2_aligned": -1.1305,
+      "r2_null": -1.1167,
+      "ret1_aligned": 0.0403,
+      "ret5_aligned": 0.2661,
+      "ret1_null": 0.0032,
+      "ret1_chance": 0.0081,
+      "mode": "raw"
+     },
+     {
+      "n_train": 32,
+      "n_test": 108,
+      "lambda": 0.01,
+      "loo_cos": 0.3514,
+      "cos_aligned": 0.3053,
+      "cos_null": 0.0037,
+      "gain_vs_null": 0.3016,
+      "r2_aligned": -7.7436,
+      "r2_null": -6.7479,
+      "ret1_aligned": 0.1667,
+      "ret5_aligned": 0.4167,
+      "ret1_null": 0.0056,
+      "ret1_chance": 0.0093,
+      "mode": "raw"
+     },
+     {
+      "n_train": 64,
+      "n_test": 76,
+      "lambda": 0.01,
+      "loo_cos": 0.382,
+      "cos_aligned": 0.3792,
+      "cos_null": 0.0128,
+      "gain_vs_null": 0.3664,
+      "r2_aligned": -3.4163,
+      "r2_null": -2.8299,
+      "ret1_aligned": 0.1447,
+      "ret5_aligned": 0.5395,
+      "ret1_null": 0.0105,
+      "ret1_chance": 0.0132,
+      "mode": "raw"
+     }
+    ],
+    "pass": false,
+    "prereg": "cos_aligned(去均值)>=0.60 且 增益>=0.20（n_train=64，留出 76 锚点）；检索@1 仅作附带诊断——锚点近共线时该指标必然偏低，见 self_sim 诊断"
+   },
+   "L0中层→Qwen中层": {
+    "curve": [
+     {
+      "n_train": 8,
+      "n_test": 132,
+      "lambda": 1.0,
+      "loo_cos": 0.9991,
+      "cos_aligned": 0.9835,
+      "cos_null": -0.9831,
+      "gain_vs_null": 1.9666,
+      "r2_aligned": 0.9114,
+      "r2_null": -0.641,
+      "ret1_aligned": 0.0152,
+      "ret5_aligned": 0.0758,
+      "ret1_null": 0.0,
+      "ret1_chance": 0.0076,
+      "mode": "pca32"
+     },
+     {
+      "n_train": 16,
+      "n_test": 124,
+      "lambda": 0.01,
+      "loo_cos": 0.9942,
+      "cos_aligned": 0.9783,
+      "cos_null": -0.042,
+      "gain_vs_null": 1.0203,
+      "r2_aligned": 0.9102,
+      "r2_null": -0.5825,
+      "ret1_aligned": 0.0403,
+      "ret5_aligned": 0.1371,
+      "ret1_null": 0.0016,
+      "ret1_chance": 0.0081,
+      "mode": "pca32"
+     },
+     {
+      "n_train": 32,
+      "n_test": 108,
+      "lambda": 0.001,
+      "loo_cos": 0.5883,
+      "cos_aligned": 0.6043,
+      "cos_null": 0.1412,
+      "gain_vs_null": 0.4632,
+      "r2_aligned": 0.9124,
+      "r2_null": 0.0572,
+      "ret1_aligned": 0.1111,
+      "ret5_aligned": 0.2963,
+      "ret1_null": 0.013,
+      "ret1_chance": 0.0093,
+      "mode": "pca32"
+     },
+     {
+      "n_train": 64,
+      "n_test": 76,
+      "lambda": 0.01,
+      "loo_cos": 0.9692,
+      "cos_aligned": 0.9743,
+      "cos_null": 0.0542,
+      "gain_vs_null": 0.9202,
+      "r2_aligned": 0.8872,
+      "r2_null": -0.319,
+      "ret1_aligned": 0.0921,
+      "ret5_aligned": 0.3421,
+      "ret1_null": 0.0132,
+      "ret1_chance": 0.0132,
+      "mode": "pca32"
+     }
+    ],
+    "curve_raw": [
+     {
+      "n_train": 8,
+      "n_test": 132,
+      "lambda": 1.0,
+      "loo_cos": 0.9991,
+      "cos_aligned": 0.9835,
+      "cos_null": -0.9831,
+      "gain_vs_null": 1.9666,
+      "r2_aligned": 0.9114,
+      "r2_null": -0.641,
+      "ret1_aligned": 0.0152,
+      "ret5_aligned": 0.0758,
+      "ret1_null": 0.0,
+      "ret1_chance": 0.0076,
+      "mode": "raw"
+     },
+     {
+      "n_train": 16,
+      "n_test": 124,
+      "lambda": 0.01,
+      "loo_cos": 0.9942,
+      "cos_aligned": 0.9783,
+      "cos_null": -0.042,
+      "gain_vs_null": 1.0203,
+      "r2_aligned": 0.9102,
+      "r2_null": -0.5825,
+      "ret1_aligned": 0.0403,
+      "ret5_aligned": 0.1371,
+      "ret1_null": 0.0016,
+      "ret1_chance": 0.0081,
+      "mode": "raw"
+     },
+     {
+      "n_train": 32,
+      "n_test": 108,
+      "lambda": 0.001,
+      "loo_cos": 0.5883,
+      "cos_aligned": 0.6043,
+      "cos_null": 0.1412,
+      "gain_vs_null": 0.4632,
+      "r2_aligned": 0.9124,
+      "r2_null": 0.0571,
+      "ret1_aligned": 0.1111,
+      "ret5_aligned": 0.2963,
+      "ret1_null": 0.013,
+      "ret1_chance": 0.0093,
+      "mode": "raw"
+     },
+     {
+      "n_train": 64,
+      "n_test": 76,
+      "lambda": 0.01,
+      "loo_cos": 0.9724,
+      "cos_aligned": 0.9744,
+      "cos_null": 0.1211,
+      "gain_vs_null": 0.8533,
+      "r2_aligned": 0.8863,
+      "r2_null": -0.3107,
+      "ret1_aligned": 0.1053,
+      "ret5_aligned": 0.3289,
+      "ret1_null": 0.0184,
+      "ret1_chance": 0.0132,
+      "mode": "raw"
+     }
+    ],
+    "pass": true,
+    "prereg": "cos_aligned(去均值)>=0.60 且 增益>=0.20（n_train=64，留出 76 锚点）；检索@1 仅作附带诊断——锚点近共线时该指标必然偏低，见 self_sim 诊断"
+   },
+   "L0末层→Qwen中层": {
+    "curve": [
+     {
+      "n_train": 8,
+      "n_test": 132,
+      "lambda": 10.0,
+      "loo_cos": 0.9991,
+      "cos_aligned": 0.9835,
+      "cos_null": -0.9832,
+      "gain_vs_null": 1.9667,
+      "r2_aligned": 0.4656,
+      "r2_null": -0.1952,
+      "ret1_aligned": 0.0076,
+      "ret5_aligned": 0.0758,
+      "ret1_null": 0.0,
+      "ret1_chance": 0.0076,
+      "mode": "pca32"
+     },
+     {
+      "n_train": 16,
+      "n_test": 124,
+      "lambda": 1.0,
+      "loo_cos": 0.9941,
+      "cos_aligned": 0.9782,
+      "cos_null": -0.9559,
+      "gain_vs_null": 1.9341,
+      "r2_aligned": 0.848,
+      "r2_null": -0.2771,
+      "ret1_aligned": 0.0242,
+      "ret5_aligned": 0.0968,
+      "ret1_null": 0.0,
+      "ret1_chance": 0.0081,
+      "mode": "pca32"
+     },
+     {
+      "n_train": 32,
+      "n_test": 108,
+      "lambda": 0.001,
+      "loo_cos": 0.6836,
+      "cos_aligned": 0.4766,
+      "cos_null": 0.108,
+      "gain_vs_null": 0.3686,
+      "r2_aligned": -0.1226,
+      "r2_null": -4.2217,
+      "ret1_aligned": 0.0926,
+      "ret5_aligned": 0.213,
+      "ret1_null": 0.0074,
+      "ret1_chance": 0.0093,
+      "mode": "pca32"
+     },
+     {
+      "n_train": 64,
+      "n_test": 76,
+      "lambda": 0.01,
+      "loo_cos": 0.9732,
+      "cos_aligned": 0.9743,
+      "cos_null": 0.1127,
+      "gain_vs_null": 0.8616,
+      "r2_aligned": 0.9141,
+      "r2_null": -4.0781,
+      "ret1_aligned": 0.1184,
+      "ret5_aligned": 0.3421,
+      "ret1_null": 0.0132,
+      "ret1_chance": 0.0132,
+      "mode": "pca32"
+     }
+    ],
+    "curve_raw": [
+     {
+      "n_train": 8,
+      "n_test": 132,
+      "lambda": 10.0,
+      "loo_cos": 0.9991,
+      "cos_aligned": 0.9835,
+      "cos_null": -0.9832,
+      "gain_vs_null": 1.9667,
+      "r2_aligned": 0.4656,
+      "r2_null": -0.1952,
+      "ret1_aligned": 0.0076,
+      "ret5_aligned": 0.0758,
+      "ret1_null": 0.0,
+      "ret1_chance": 0.0076,
+      "mode": "raw"
+     },
+     {
+      "n_train": 16,
+      "n_test": 124,
+      "lambda": 1.0,
+      "loo_cos": 0.9941,
+      "cos_aligned": 0.9782,
+      "cos_null": -0.9559,
+      "gain_vs_null": 1.9341,
+      "r2_aligned": 0.848,
+      "r2_null": -0.2771,
+      "ret1_aligned": 0.0242,
+      "ret5_aligned": 0.0968,
+      "ret1_null": 0.0,
+      "ret1_chance": 0.0081,
+      "mode": "raw"
+     },
+     {
+      "n_train": 32,
+      "n_test": 108,
+      "lambda": 0.001,
+      "loo_cos": 0.6836,
+      "cos_aligned": 0.4766,
+      "cos_null": 0.108,
+      "gain_vs_null": 0.3686,
+      "r2_aligned": -0.1227,
+      "r2_null": -4.2216,
+      "ret1_aligned": 0.0926,
+      "ret5_aligned": 0.213,
+      "ret1_null": 0.0074,
+      "ret1_chance": 0.0093,
+      "mode": "raw"
+     },
+     {
+      "n_train": 64,
+      "n_test": 76,
+      "lambda": 0.01,
+      "loo_cos": 0.9734,
+      "cos_aligned": 0.9743,
+      "cos_null": 0.1619,
+      "gain_vs_null": 0.8124,
+      "r2_aligned": 0.9145,
+      "r2_null": -4.8767,
+      "ret1_aligned": 0.1184,
+      "ret5_aligned": 0.3553,
+      "ret1_null": 0.0132,
+      "ret1_chance": 0.0132,
+      "mode": "raw"
+     }
+    ],
+    "pass": true,
+    "prereg": "cos_aligned(去均值)>=0.60 且 增益>=0.20（n_train=64，留出 76 锚点）；检索@1 仅作附带诊断——锚点近共线时该指标必然偏低，见 self_sim 诊断"
+   }
+  }
+ },
+ "D2_skill_hosting": {
+  "verdict": "OK 通过（replay 35% × 2500 步：A_tf 0.973 / A_gen 0.880）",
+  "pass": true,
+  "A_tf": 0.9727,
+  "A_gen": 0.88,
+  "bare_A_gen": 0.0,
+  "config": {
+   "replay": 0.35,
+   "steps_total": 2500,
+   "bs": 4,
+   "eos_fix": "eos_token_id=[151645,151643]"
+  },
+  "c_gate": {
+   "regress": 1.0372,
+   "limit": 1.02,
+   "pass": false
+  },
+  "old_curve": [
+   {
+    "step": 300,
+    "train_loss": 2.0541,
+    "A_tf": 0.5802,
+    "A_gen": 0.02,
+    "A_tf_mem": 0.576,
+    "sec": 1033
+   },
+   {
+    "step": 900,
+    "train_loss": 0.5583,
+    "A_tf": 0.8225,
+    "A_gen": 0.32,
+    "A_tf_mem": 0.7941,
+    "sec": 2832
+   }
+  ]
+ },
+ "summary": {
+  "l1_promotion_blocker": "C 门 1.0372x > 1.02",
+  "duties_present": [
+   "D1_language_vram",
+   "D2_skill_hosting",
+   "D3_msp_anchor",
+   "D4_scheduler_api"
+  ],
+  "duties_passed": [
+   "D1_language_vram",
+   "D2_skill_hosting",
+   "D3_msp_anchor",
+   "D4_scheduler_api"
+  ],
+  "n_passed": 4,
+  "verdict": "✅ 可承担中心模型（L0）职位"
+ }
+}

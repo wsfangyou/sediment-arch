@@ -1,0 +1,85 @@
+{
+ "skills": [
+  "sedu",
+  "nuri",
+  "tavi"
+ ],
+ "matrix": {
+  "bare": {
+   "sedu": 0.3333,
+   "nuri": 0.366,
+   "tavi": 0.3641
+  },
+  "sedu": {
+   "sedu": 0.9949,
+   "nuri": 0.6266,
+   "tavi": 0.6137
+  },
+  "nuri": {
+   "sedu": 0.6412,
+   "nuri": 0.9963,
+   "tavi": 0.6376
+  },
+  "tavi": {
+   "sedu": 0.5884,
+   "nuri": 0.6839,
+   "tavi": 0.9436
+  }
+ },
+ "own": {
+  "sedu": {
+   "A_tf": 0.9949,
+   "A_gen": 0.96
+  },
+  "nuri": {
+   "A_tf": 0.9963,
+   "A_gen": 0.98
+  },
+  "tavi": {
+   "A_tf": 0.9436,
+   "A_gen": 0.66
+  }
+ },
+ "c_gate": {
+  "sedu": {
+   "ppl": 14.42,
+   "regress": 0.8606
+  },
+  "nuri": {
+   "ppl": 14.36,
+   "regress": 0.857
+  },
+  "tavi": {
+   "ppl": 14.36,
+   "regress": 0.857
+  }
+ },
+ "interference_ratio": {
+  "sedu→nuri": 0.629,
+  "sedu→tavi": 0.65,
+  "nuri→sedu": 0.644,
+  "nuri→tavi": 0.676,
+  "tavi→sedu": 0.591,
+  "tavi→nuri": 0.686
+ },
+ "bare_ppl": 16.76,
+ "verdict": "✅ 技能互不破坏：交叉 A_tf 全部高于裸基座（0.59~0.68 vs 0.33~0.37），破坏率为负（-0.6~-0.9）；同时存在 0.39~0.51 的格式迁移（学一个技能会让别的技能的答案格式更规范），但远达不到各技能的 0.94~1.00 → 技能必须靠挂载/路由区分，不能指望迁移",
+ "transfer_ratio_vs_bare": {
+  "sedu→nuri": 0.413,
+  "sedu→tavi": 0.431,
+  "nuri→sedu": 0.465,
+  "nuri→tavi": 0.472,
+  "tavi→sedu": 0.386,
+  "tavi→nuri": 0.504
+ },
+ "degradation_vs_bare": {
+  "sedu→nuri": -0.712,
+  "sedu→tavi": -0.686,
+  "nuri→sedu": -0.924,
+  "nuri→tavi": -0.751,
+  "tavi→sedu": -0.765,
+  "tavi→nuri": -0.869
+ },
+ "metric_note": "干扰必须对比「裸基座」而不是「自己的准确率」：自己的 0.94~1.00 包含技能特有的词表映射，跨技能时不可能达到；用自己当分母会把正常读成干扰。degradation<0 表示交叉准确率高于裸基座（正向迁移），>0 才是真干扰。",
+ "c_gate_note": "三个技能分别挂载时通用 ppl 都是 0.857~0.861×裸基座（混采 replay 让它变成净收益）"
+}

@@ -1,0 +1,48 @@
+{
+ "n_pairs": 47,
+ "n_classes": 47,
+ "splits": [
+  {
+   "n_cal": 12,
+   "n_eval": 35,
+   "a": 1.0,
+   "b": 0.0,
+   "b_keys": 0.0,
+   "b_hidden": 0.0,
+   "b0": 0.0286,
+   "map_cos_on_eval": 0.9639,
+   "ratio": 0.0,
+   "chance": 0.0213,
+   "map_err_deg": 15.4
+  },
+  {
+   "n_cal": 24,
+   "n_eval": 23,
+   "a": 1.0,
+   "b": 0.0435,
+   "b_keys": 0.0,
+   "b_hidden": 0.0435,
+   "b0": 0.0435,
+   "map_cos_on_eval": 0.9787,
+   "ratio": 0.0435,
+   "chance": 0.0213,
+   "map_err_deg": 11.9
+  }
+ ],
+ "mechanism": {
+  "inter_class_cos_qwen": 0.9736,
+  "inter_class_cos_l0": 0.9571,
+  "inter_class_angle_deg": 13.2,
+  "map_error_angle_deg": 15.4,
+  "ratio_map_over_class": 1.17,
+  "reading": "标定误差夹角 ≥ 类间夹角的一半时，线性标定后的键必然无法区分类别"
+ },
+ "anchor_distribution": "同分布（Sedu prompt 子集）",
+ "contrast": {
+  "same_dist_anchors_cos": 0.977,
+  "generic_corpus_anchors_cos": 0.64,
+  "note": "同一对骨干，锚点分布决定标定成败"
+ },
+ "verdict": "不成立（b/a 0.00, 0.04，最高 0.043，机会 0.021）",
+ "pass": false
+}

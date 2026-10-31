@@ -1,0 +1,29 @@
+{
+ "bare_ppl": 56.92,
+ "results": [
+  {
+   "rank": 16,
+   "ppl": 76.17,
+   "regress_vs_bare": 1.3382
+  },
+  {
+   "rank": 8,
+   "ppl": 75.7,
+   "regress_vs_bare": 1.33
+  },
+  {
+   "rank": 4,
+   "ppl": 74.04,
+   "regress_vs_bare": 1.3008
+  },
+  {
+   "rank": 2,
+   "ppl": 69.32,
+   "regress_vs_bare": 1.2178
+  }
+ ],
+ "n_batches": 24,
+ "batch": 4,
+ "seq": 1024,
+ "note": "同一 adapter_sedu_r16（600 步）截断到各秩；ppl 为验证集 98k token 口径"
+}

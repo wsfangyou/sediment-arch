@@ -1,0 +1,300 @@
+{"id": "nuri0", "task": "c2s", "q": "把这句中文翻译成Nuri语：火是白的", "a": "lal so kal"}
+{"id": "nuri1", "task": "gloss", "q": "Nuri语词“mun”用中文怎么说？", "a": "水"}
+{"id": "nuri2", "task": "s2c", "q": "把这句Nuri语翻译成中文：sul so tul", "a": "网是窄的"}
+{"id": "nuri3", "task": "c2s", "q": "把这句中文翻译成Nuri语：笔的镜", "a": "to ti li"}
+{"id": "nuri4", "task": "s2c", "q": "把这句Nuri语翻译成中文：nin so kun", "a": "树是方的"}
+{"id": "nuri5", "task": "s2c", "q": "把这句Nuri语翻译成中文：lu so ru", "a": "鸟是快的"}
+{"id": "nuri6", "task": "c2s", "q": "把这句中文翻译成Nuri语：刀的墨", "a": "tun ti ton"}
+{"id": "nuri7", "task": "gloss", "q": "Nuri语词“pi”用中文怎么说？", "a": "甜"}
+{"id": "nuri8", "task": "gloss", "q": "Nuri语词“mel”用中文怎么说？", "a": "香"}
+{"id": "nuri9", "task": "gloss", "q": "Nuri语词“pu”用中文怎么说？", "a": "河流"}
+{"id": "nuri10", "task": "c2s", "q": "把这句中文翻译成Nuri语：钟和炉", "a": "san me lon"}
+{"id": "nuri11", "task": "c2s", "q": "把这句中文翻译成Nuri语：网和门", "a": "sul me run"}
+{"id": "nuri12", "task": "c2s", "q": "把这句中文翻译成Nuri语：米是香的", "a": "ran so mel"}
+{"id": "nuri13", "task": "c2s", "q": "把这句中文翻译成Nuri语：鞋是暗的", "a": "tel so men"}
+{"id": "nuri14", "task": "c2s", "q": "把这句中文翻译成Nuri语：纸的路", "a": "ra ti po"}
+{"id": "nuri15", "task": "c2s", "q": "把这句中文翻译成Nuri语：衣和河流", "a": "pil me pu"}
+{"id": "nuri16", "task": "c2s", "q": "把这句中文翻译成Nuri语：鸟和瓶", "a": "lu me ron"}
+{"id": "nuri17", "task": "c2s", "q": "把这句中文翻译成Nuri语：花和网", "a": "tol me sul"}
+{"id": "nuri18", "task": "gloss", "q": "Nuri语词“lel”用中文怎么说？", "a": "车"}
+{"id": "nuri19", "task": "c2s", "q": "把这句中文翻译成Nuri语：伞的笔", "a": "re ti to"}
+{"id": "nuri20", "task": "s2c", "q": "把这句Nuri语翻译成中文：lan ti sin", "a": "算盘的帽"}
+{"id": "nuri21", "task": "s2c", "q": "把这句Nuri语翻译成中文：lel so lol", "a": "车是深的"}
+{"id": "nuri22", "task": "s2c", "q": "把这句Nuri语翻译成中文：sel ti san", "a": "笛的钟"}
+{"id": "nuri23", "task": "s2c", "q": "把这句Nuri语翻译成中文：mo me pul", "a": "船和叶子"}
+{"id": "nuri24", "task": "c2s", "q": "把这句中文翻译成Nuri语：路和网", "a": "po me sul"}
+{"id": "nuri25", "task": "c2s", "q": "把这句中文翻译成Nuri语：火的路", "a": "lal ti po"}
+{"id": "nuri26", "task": "s2c", "q": "把这句Nuri语翻译成中文：mo so mu", "a": "船是小的"}
+{"id": "nuri27", "task": "s2c", "q": "把这句Nuri语翻译成中文：po ti mon", "a": "路的山"}
+{"id": "nuri28", "task": "c2s", "q": "把这句中文翻译成Nuri语：帽是暗的", "a": "sin so men"}
+{"id": "nuri29", "task": "s2c", "q": "把这句Nuri语翻译成中文：la so mel", "a": "线是香的"}
+{"id": "nuri30", "task": "s2c", "q": "把这句Nuri语翻译成中文：kil so pol", "a": "席是湿的"}
+{"id": "nuri31", "task": "s2c", "q": "把这句Nuri语翻译成中文：la me lan", "a": "线和算盘"}
+{"id": "nuri32", "task": "gloss", "q": "Nuri语词“lan”用中文怎么说？", "a": "算盘"}
+{"id": "nuri33", "task": "c2s", "q": "把这句中文翻译成Nuri语：米的瓶", "a": "ran ti ron"}
+{"id": "nuri34", "task": "c2s", "q": "把这句中文翻译成Nuri语：茶和山", "a": "ma me mon"}
+{"id": "nuri35", "task": "c2s", "q": "把这句中文翻译成Nuri语：帽和刀", "a": "sin me tun"}
+{"id": "nuri36", "task": "c2s", "q": "把这句中文翻译成Nuri语：雪是慢的", "a": "man so kon"}
+{"id": "nuri37", "task": "c2s", "q": "把这句中文翻译成Nuri语：花和刀", "a": "tol me tun"}
+{"id": "nuri38", "task": "c2s", "q": "把这句中文翻译成Nuri语：叶子是蓝的", "a": "pul so nan"}
+{"id": "nuri39", "task": "s2c", "q": "把这句Nuri语翻译成中文：tun so ki", "a": "刀是苦的"}
+{"id": "nuri40", "task": "c2s", "q": "把这句中文翻译成Nuri语：算盘的石头", "a": "lan ti rel"}
+{"id": "nuri41", "task": "s2c", "q": "把这句Nuri语翻译成中文：nin me mo", "a": "树和船"}
+{"id": "nuri42", "task": "s2c", "q": "把这句Nuri语翻译成中文：mon so nal", "a": "山是冷的"}
+{"id": "nuri43", "task": "s2c", "q": "把这句Nuri语翻译成中文：pun ti son", "a": "马的盐"}
+{"id": "nuri44", "task": "c2s", "q": "把这句中文翻译成Nuri语：鸟的笔", "a": "lu ti to"}
+{"id": "nuri45", "task": "gloss", "q": "Nuri语词“kal”用中文怎么说？", "a": "白"}
+{"id": "nuri46", "task": "s2c", "q": "把这句Nuri语翻译成中文：no me tol", "a": "书和花"}
+{"id": "nuri47", "task": "s2c", "q": "把这句Nuri语翻译成中文：rol me ta", "a": "桥和井"}
+{"id": "nuri48", "task": "gloss", "q": "Nuri语词“mon”用中文怎么说？", "a": "山"}
+{"id": "nuri49", "task": "c2s", "q": "把这句中文翻译成Nuri语：鸟的刀", "a": "lu ti tun"}
+{"id": "nuri50", "task": "c2s", "q": "把这句中文翻译成Nuri语：月亮的路", "a": "non ti po"}
+{"id": "nuri51", "task": "c2s", "q": "把这句中文翻译成Nuri语：席和月亮", "a": "kil me non"}
+{"id": "nuri52", "task": "gloss", "q": "Nuri语词“ki”用中文怎么说？", "a": "苦"}
+{"id": "nuri53", "task": "c2s", "q": "把这句中文翻译成Nuri语：书是大的", "a": "no so sol"}
+{"id": "nuri54", "task": "s2c", "q": "把这句Nuri语翻译成中文：me ti pul", "a": "绳的叶子"}
+{"id": "nuri55", "task": "s2c", "q": "把这句Nuri语翻译成中文：ren me se", "a": "塔和灯"}
+{"id": "nuri56", "task": "gloss", "q": "Nuri语词“se”用中文怎么说？", "a": "灯"}
+{"id": "nuri57", "task": "c2s", "q": "把这句中文翻译成Nuri语：网的花", "a": "sul ti tol"}
+{"id": "nuri58", "task": "s2c", "q": "把这句Nuri语翻译成中文：lon ti tel", "a": "炉的鞋"}
+{"id": "nuri59", "task": "c2s", "q": "把这句中文翻译成Nuri语：河流的伞", "a": "pu ti re"}
+{"id": "nuri60", "task": "c2s", "q": "把这句中文翻译成Nuri语：帽的花", "a": "sin ti tol"}
+{"id": "nuri61", "task": "c2s", "q": "把这句中文翻译成Nuri语：席的镜", "a": "kil ti li"}
+{"id": "nuri62", "task": "c2s", "q": "把这句中文翻译成Nuri语：炉是重的", "a": "lon so mil"}
+{"id": "nuri63", "task": "s2c", "q": "把这句Nuri语翻译成中文：son so mel", "a": "盐是香的"}
+{"id": "nuri64", "task": "s2c", "q": "把这句Nuri语翻译成中文：san me rol", "a": "钟和桥"}
+{"id": "nuri65", "task": "c2s", "q": "把这句中文翻译成Nuri语：叶子和河流", "a": "pul me pu"}
+{"id": "nuri66", "task": "gloss", "q": "Nuri语词“til”用中文怎么说？", "a": "旧"}
+{"id": "nuri67", "task": "s2c", "q": "把这句Nuri语翻译成中文：ni ti ni", "a": "针的针"}
+{"id": "nuri68", "task": "c2s", "q": "把这句中文翻译成Nuri语：伞是硬的", "a": "re so te"}
+{"id": "nuri69", "task": "gloss", "q": "Nuri语词“til”用中文怎么说？", "a": "旧"}
+{"id": "nuri70", "task": "gloss", "q": "Nuri语词“pun”用中文怎么说？", "a": "马"}
+{"id": "nuri71", "task": "c2s", "q": "把这句中文翻译成Nuri语：炉和刀", "a": "lon me tun"}
+{"id": "nuri72", "task": "s2c", "q": "把这句Nuri语翻译成中文：tel me li", "a": "鞋和镜"}
+{"id": "nuri73", "task": "gloss", "q": "Nuri语词“lol”用中文怎么说？", "a": "深"}
+{"id": "nuri74", "task": "s2c", "q": "把这句Nuri语翻译成中文：pil so mil", "a": "衣是重的"}
+{"id": "nuri75", "task": "c2s", "q": "把这句中文翻译成Nuri语：线的花", "a": "la ti tol"}
+{"id": "nuri76", "task": "c2s", "q": "把这句中文翻译成Nuri语：刀是软的", "a": "tun so pe"}
+{"id": "nuri77", "task": "c2s", "q": "把这句中文翻译成Nuri语：鱼和墨", "a": "na me ton"}
+{"id": "nuri78", "task": "s2c", "q": "把这句Nuri语翻译成中文：ni ti re", "a": "针的伞"}
+{"id": "nuri79", "task": "s2c", "q": "把这句Nuri语翻译成中文：re so kol", "a": "伞是热的"}
+{"id": "nuri80", "task": "gloss", "q": "Nuri语词“sel”用中文怎么说？", "a": "笛"}
+{"id": "nuri81", "task": "gloss", "q": "Nuri语词“kil”用中文怎么说？", "a": "席"}
+{"id": "nuri82", "task": "c2s", "q": "把这句中文翻译成Nuri语：炉是方的", "a": "lon so kun"}
+{"id": "nuri83", "task": "gloss", "q": "Nuri语词“ne”用中文怎么说？", "a": "圆"}
+{"id": "nuri84", "task": "s2c", "q": "把这句Nuri语翻译成中文：pul so nal", "a": "叶子是冷的"}
+{"id": "nuri85", "task": "s2c", "q": "把这句Nuri语翻译成中文：lal ti ta", "a": "火的井"}
+{"id": "nuri86", "task": "c2s", "q": "把这句中文翻译成Nuri语：算盘是蓝的", "a": "lan so nan"}
+{"id": "nuri87", "task": "c2s", "q": "把这句中文翻译成Nuri语：伞和笔", "a": "re me to"}
+{"id": "nuri88", "task": "c2s", "q": "把这句中文翻译成Nuri语：火和路", "a": "lal me po"}
+{"id": "nuri89", "task": "c2s", "q": "把这句中文翻译成Nuri语：砚和塔", "a": "lin me ren"}
+{"id": "nuri90", "task": "s2c", "q": "把这句Nuri语翻译成中文：kil me kil", "a": "席和席"}
+{"id": "nuri91", "task": "s2c", "q": "把这句Nuri语翻译成中文：ral me pun", "a": "碗和马"}
+{"id": "nuri92", "task": "s2c", "q": "把这句Nuri语翻译成中文：tun so men", "a": "刀是暗的"}
+{"id": "nuri93", "task": "c2s", "q": "把这句中文翻译成Nuri语：火是深的", "a": "lal so lol"}
+{"id": "nuri94", "task": "gloss", "q": "Nuri语词“to”用中文怎么说？", "a": "笔"}
+{"id": "nuri95", "task": "s2c", "q": "把这句Nuri语翻译成中文：la so nen", "a": "线是宽的"}
+{"id": "nuri96", "task": "c2s", "q": "把这句中文翻译成Nuri语：算盘是轻的", "a": "lan so pon"}
+{"id": "nuri97", "task": "s2c", "q": "把这句Nuri语翻译成中文：mon me ron", "a": "山和瓶"}
+{"id": "nuri98", "task": "gloss", "q": "Nuri语词“mil”用中文怎么说？", "a": "重"}
+{"id": "nuri99", "task": "s2c", "q": "把这句Nuri语翻译成中文：rol so mil", "a": "桥是重的"}
+{"id": "nuri100", "task": "c2s", "q": "把这句中文翻译成Nuri语：茶是快的", "a": "ma so ru"}
+{"id": "nuri101", "task": "c2s", "q": "把这句中文翻译成Nuri语：刀的火", "a": "tun ti lal"}
+{"id": "nuri102", "task": "c2s", "q": "把这句中文翻译成Nuri语：火的石头", "a": "lal ti rel"}
+{"id": "nuri103", "task": "c2s", "q": "把这句中文翻译成Nuri语：月亮和窗", "a": "non me mal"}
+{"id": "nuri104", "task": "c2s", "q": "把这句中文翻译成Nuri语：布的书", "a": "nul ti no"}
+{"id": "nuri105", "task": "s2c", "q": "把这句Nuri语翻译成中文：lan ti lan", "a": "算盘的算盘"}
+{"id": "nuri106", "task": "c2s", "q": "把这句中文翻译成Nuri语：炉和席", "a": "lon me kil"}
+{"id": "nuri107", "task": "c2s", "q": "把这句中文翻译成Nuri语：石头的刀", "a": "rel ti tun"}
+{"id": "nuri108", "task": "c2s", "q": "把这句中文翻译成Nuri语：镜的算盘", "a": "li ti lan"}
+{"id": "nuri109", "task": "gloss", "q": "Nuri语词“ni”用中文怎么说？", "a": "针"}
+{"id": "nuri110", "task": "s2c", "q": "把这句Nuri语翻译成中文：me ti ta", "a": "绳的井"}
+{"id": "nuri111", "task": "s2c", "q": "把这句Nuri语翻译成中文：po me sin", "a": "路和帽"}
+{"id": "nuri112", "task": "gloss", "q": "Nuri语词“run”用中文怎么说？", "a": "门"}
+{"id": "nuri113", "task": "c2s", "q": "把这句中文翻译成Nuri语：窗的塔", "a": "mal ti ren"}
+{"id": "nuri114", "task": "s2c", "q": "把这句Nuri语翻译成中文：tun ti ra", "a": "刀的纸"}
+{"id": "nuri115", "task": "gloss", "q": "Nuri语词“lin”用中文怎么说？", "a": "砚"}
+{"id": "nuri116", "task": "gloss", "q": "Nuri语词“tun”用中文怎么说？", "a": "刀"}
+{"id": "nuri117", "task": "s2c", "q": "把这句Nuri语翻译成中文：sul me ron", "a": "网和瓶"}
+{"id": "nuri118", "task": "c2s", "q": "把这句中文翻译成Nuri语：鸟和马", "a": "lu me pun"}
+{"id": "nuri119", "task": "c2s", "q": "把这句中文翻译成Nuri语：笔的车", "a": "to ti lel"}
+{"id": "nuri120", "task": "s2c", "q": "把这句Nuri语翻译成中文：la so mol", "a": "线是新的"}
+{"id": "nuri121", "task": "gloss", "q": "Nuri语词“pe”用中文怎么说？", "a": "软"}
+{"id": "nuri122", "task": "gloss", "q": "Nuri语词“son”用中文怎么说？", "a": "盐"}
+{"id": "nuri123", "task": "s2c", "q": "把这句Nuri语翻译成中文：kil ti to", "a": "席的笔"}
+{"id": "nuri124", "task": "c2s", "q": "把这句中文翻译成Nuri语：马的火", "a": "pun ti lal"}
+{"id": "nuri125", "task": "gloss", "q": "Nuri语词“mol”用中文怎么说？", "a": "新"}
+{"id": "nuri126", "task": "gloss", "q": "Nuri语词“pi”用中文怎么说？", "a": "甜"}
+{"id": "nuri127", "task": "s2c", "q": "把这句Nuri语翻译成中文：rol me run", "a": "桥和门"}
+{"id": "nuri128", "task": "c2s", "q": "把这句中文翻译成Nuri语：钟是硬的", "a": "san so te"}
+{"id": "nuri129", "task": "gloss", "q": "Nuri语词“ron”用中文怎么说？", "a": "瓶"}
+{"id": "nuri130", "task": "c2s", "q": "把这句中文翻译成Nuri语：水的船", "a": "mun ti mo"}
+{"id": "nuri131", "task": "c2s", "q": "把这句中文翻译成Nuri语：鞋的树", "a": "tel ti nin"}
+{"id": "nuri132", "task": "s2c", "q": "把这句Nuri语翻译成中文：lel ti sin", "a": "车的帽"}
+{"id": "nuri133", "task": "gloss", "q": "Nuri语词“mo”用中文怎么说？", "a": "船"}
+{"id": "nuri134", "task": "c2s", "q": "把这句中文翻译成Nuri语：网的鱼", "a": "sul ti na"}
+{"id": "nuri135", "task": "s2c", "q": "把这句Nuri语翻译成中文：ran so kal", "a": "米是白的"}
+{"id": "nuri136", "task": "gloss", "q": "Nuri语词“tul”用中文怎么说？", "a": "窄"}
+{"id": "nuri137", "task": "c2s", "q": "把这句中文翻译成Nuri语：线的茶", "a": "la ti ma"}
+{"id": "nuri138", "task": "s2c", "q": "把这句Nuri语翻译成中文：rel me li", "a": "石头和镜"}
+{"id": "nuri139", "task": "s2c", "q": "把这句Nuri语翻译成中文：to me tol", "a": "笔和花"}
+{"id": "nuri140", "task": "s2c", "q": "把这句Nuri语翻译成中文：non so te", "a": "月亮是硬的"}
+{"id": "nuri141", "task": "s2c", "q": "把这句Nuri语翻译成中文：ta so te", "a": "井是硬的"}
+{"id": "nuri142", "task": "s2c", "q": "把这句Nuri语翻译成中文：to ti ni", "a": "笔的针"}
+{"id": "nuri143", "task": "c2s", "q": "把这句中文翻译成Nuri语：书和船", "a": "no me mo"}
+{"id": "nuri144", "task": "s2c", "q": "把这句Nuri语翻译成中文：to me ron", "a": "笔和瓶"}
+{"id": "nuri145", "task": "c2s", "q": "把这句中文翻译成Nuri语：笔和绳", "a": "to me me"}
+{"id": "nuri146", "task": "s2c", "q": "把这句Nuri语翻译成中文：lan ti lu", "a": "算盘的鸟"}
+{"id": "nuri147", "task": "s2c", "q": "把这句Nuri语翻译成中文：rel ti po", "a": "石头的路"}
+{"id": "nuri148", "task": "c2s", "q": "把这句中文翻译成Nuri语：瓶和云", "a": "ron me rin"}
+{"id": "nuri149", "task": "s2c", "q": "把这句Nuri语翻译成中文：ron ti ma", "a": "瓶的茶"}
+{"id": "nuri150", "task": "c2s", "q": "把这句中文翻译成Nuri语：布和线", "a": "nul me la"}
+{"id": "nuri151", "task": "s2c", "q": "把这句Nuri语翻译成中文：tol ti ta", "a": "花的井"}
+{"id": "nuri152", "task": "s2c", "q": "把这句Nuri语翻译成中文：to me lu", "a": "笔和鸟"}
+{"id": "nuri153", "task": "c2s", "q": "把这句中文翻译成Nuri语：窗是宽的", "a": "mal so nen"}
+{"id": "nuri154", "task": "c2s", "q": "把这句中文翻译成Nuri语：河流是软的", "a": "pu so pe"}
+{"id": "nuri155", "task": "gloss", "q": "Nuri语词“mun”用中文怎么说？", "a": "水"}
+{"id": "nuri156", "task": "c2s", "q": "把这句中文翻译成Nuri语：盐是甜的", "a": "son so pi"}
+{"id": "nuri157", "task": "gloss", "q": "Nuri语词“pul”用中文怎么说？", "a": "叶子"}
+{"id": "nuri158", "task": "gloss", "q": "Nuri语词“ra”用中文怎么说？", "a": "纸"}
+{"id": "nuri159", "task": "c2s", "q": "把这句中文翻译成Nuri语：针和鱼", "a": "ni me na"}
+{"id": "nuri160", "task": "s2c", "q": "把这句Nuri语翻译成中文：se so kun", "a": "灯是方的"}
+{"id": "nuri161", "task": "c2s", "q": "把这句中文翻译成Nuri语：窗的衣", "a": "mal ti pil"}
+{"id": "nuri162", "task": "c2s", "q": "把这句中文翻译成Nuri语：河流和米", "a": "pu me ran"}
+{"id": "nuri163", "task": "s2c", "q": "把这句Nuri语翻译成中文：pel so ke", "a": "鼓是亮的"}
+{"id": "nuri164", "task": "c2s", "q": "把这句中文翻译成Nuri语：窗的鱼", "a": "mal ti na"}
+{"id": "nuri165", "task": "s2c", "q": "把这句Nuri语翻译成中文：rin ti na", "a": "云的鱼"}
+{"id": "nuri166", "task": "s2c", "q": "把这句Nuri语翻译成中文：man me sin", "a": "雪和帽"}
+{"id": "nuri167", "task": "s2c", "q": "把这句Nuri语翻译成中文：se so pe", "a": "灯是软的"}
+{"id": "nuri168", "task": "c2s", "q": "把这句中文翻译成Nuri语：井的炉", "a": "ta ti lon"}
+{"id": "nuri169", "task": "c2s", "q": "把这句中文翻译成Nuri语：树的花", "a": "nin ti tol"}
+{"id": "nuri170", "task": "c2s", "q": "把这句中文翻译成Nuri语：帽的绳", "a": "sin ti me"}
+{"id": "nuri171", "task": "s2c", "q": "把这句Nuri语翻译成中文：ra me mon", "a": "纸和山"}
+{"id": "nuri172", "task": "s2c", "q": "把这句Nuri语翻译成中文：ren ti san", "a": "塔的钟"}
+{"id": "nuri173", "task": "s2c", "q": "把这句Nuri语翻译成中文：rin ti re", "a": "云的伞"}
+{"id": "nuri174", "task": "c2s", "q": "把这句中文翻译成Nuri语：帽和米", "a": "sin me ran"}
+{"id": "nuri175", "task": "s2c", "q": "把这句Nuri语翻译成中文：lan ti lel", "a": "算盘的车"}
+{"id": "nuri176", "task": "s2c", "q": "把这句Nuri语翻译成中文：mo me na", "a": "船和鱼"}
+{"id": "nuri177", "task": "gloss", "q": "Nuri语词“pon”用中文怎么说？", "a": "轻"}
+{"id": "nuri178", "task": "s2c", "q": "把这句Nuri语翻译成中文：mal so ti", "a": "窗是红的"}
+{"id": "nuri179", "task": "s2c", "q": "把这句Nuri语翻译成中文：po me ni", "a": "路和针"}
+{"id": "nuri180", "task": "gloss", "q": "Nuri语词“mul”用中文怎么说？", "a": "黑"}
+{"id": "nuri181", "task": "s2c", "q": "把这句Nuri语翻译成中文：nul me to", "a": "布和笔"}
+{"id": "nuri182", "task": "c2s", "q": "把这句中文翻译成Nuri语：井和席", "a": "ta me kil"}
+{"id": "nuri183", "task": "c2s", "q": "把这句中文翻译成Nuri语：马和山", "a": "pun me mon"}
+{"id": "nuri184", "task": "gloss", "q": "Nuri语词“man”用中文怎么说？", "a": "雪"}
+{"id": "nuri185", "task": "s2c", "q": "把这句Nuri语翻译成中文：li ti pul", "a": "镜的叶子"}
+{"id": "nuri186", "task": "gloss", "q": "Nuri语词“li”用中文怎么说？", "a": "镜"}
+{"id": "nuri187", "task": "c2s", "q": "把这句中文翻译成Nuri语：茶和镜", "a": "ma me li"}
+{"id": "nuri188", "task": "gloss", "q": "Nuri语词“ma”用中文怎么说？", "a": "茶"}
+{"id": "nuri189", "task": "gloss", "q": "Nuri语词“no”用中文怎么说？", "a": "书"}
+{"id": "nuri190", "task": "c2s", "q": "把这句中文翻译成Nuri语：花和鱼", "a": "tol me na"}
+{"id": "nuri191", "task": "gloss", "q": "Nuri语词“pul”用中文怎么说？", "a": "叶子"}
+{"id": "nuri192", "task": "c2s", "q": "把这句中文翻译成Nuri语：瓶的砚", "a": "ron ti lin"}
+{"id": "nuri193", "task": "c2s", "q": "把这句中文翻译成Nuri语：桥和花", "a": "rol me tol"}
+{"id": "nuri194", "task": "s2c", "q": "把这句Nuri语翻译成中文：lon me pu", "a": "炉和河流"}
+{"id": "nuri195", "task": "gloss", "q": "Nuri语词“kil”用中文怎么说？", "a": "席"}
+{"id": "nuri196", "task": "s2c", "q": "把这句Nuri语翻译成中文：mo me sin", "a": "船和帽"}
+{"id": "nuri197", "task": "c2s", "q": "把这句中文翻译成Nuri语：钟的鼓", "a": "san ti pel"}
+{"id": "nuri198", "task": "c2s", "q": "把这句中文翻译成Nuri语：塔的火", "a": "ren ti lal"}
+{"id": "nuri199", "task": "c2s", "q": "把这句中文翻译成Nuri语：笔是旧的", "a": "to so til"}
+{"id": "nuri200", "task": "s2c", "q": "把这句Nuri语翻译成中文：ron ti lon", "a": "瓶的炉"}
+{"id": "nuri201", "task": "c2s", "q": "把这句中文翻译成Nuri语：算盘和桥", "a": "lan me rol"}
+{"id": "nuri202", "task": "s2c", "q": "把这句Nuri语翻译成中文：nin so nal", "a": "树是冷的"}
+{"id": "nuri203", "task": "c2s", "q": "把这句中文翻译成Nuri语：笛的笛", "a": "sel ti sel"}
+{"id": "nuri204", "task": "s2c", "q": "把这句Nuri语翻译成中文：son me no", "a": "盐和书"}
+{"id": "nuri205", "task": "c2s", "q": "把这句中文翻译成Nuri语：盐是香的", "a": "son so mel"}
+{"id": "nuri206", "task": "gloss", "q": "Nuri语词“ren”用中文怎么说？", "a": "塔"}
+{"id": "nuri207", "task": "s2c", "q": "把这句Nuri语翻译成中文：nin so ke", "a": "树是亮的"}
+{"id": "nuri208", "task": "c2s", "q": "把这句中文翻译成Nuri语：笛是苦的", "a": "sel so ki"}
+{"id": "nuri209", "task": "c2s", "q": "把这句中文翻译成Nuri语：桥和树", "a": "rol me nin"}
+{"id": "nuri210", "task": "c2s", "q": "把这句中文翻译成Nuri语：碗和盐", "a": "ral me son"}
+{"id": "nuri211", "task": "s2c", "q": "把这句Nuri语翻译成中文：se me tol", "a": "灯和花"}
+{"id": "nuri212", "task": "c2s", "q": "把这句中文翻译成Nuri语：镜的火", "a": "li ti lal"}
+{"id": "nuri213", "task": "c2s", "q": "把这句中文翻译成Nuri语：石头是苦的", "a": "rel so ki"}
+{"id": "nuri214", "task": "s2c", "q": "把这句Nuri语翻译成中文：nul me ran", "a": "布和米"}
+{"id": "nuri215", "task": "gloss", "q": "Nuri语词“la”用中文怎么说？", "a": "线"}
+{"id": "nuri216", "task": "s2c", "q": "把这句Nuri语翻译成中文：mun me nul", "a": "水和布"}
+{"id": "nuri217", "task": "s2c", "q": "把这句Nuri语翻译成中文：mon so ki", "a": "山是苦的"}
+{"id": "nuri218", "task": "s2c", "q": "把这句Nuri语翻译成中文：tel me mon", "a": "鞋和山"}
+{"id": "nuri219", "task": "s2c", "q": "把这句Nuri语翻译成中文：sel ti to", "a": "笛的笔"}
+{"id": "nuri220", "task": "s2c", "q": "把这句Nuri语翻译成中文：po ti kil", "a": "路的席"}
+{"id": "nuri221", "task": "c2s", "q": "把这句中文翻译成Nuri语：火的叶子", "a": "lal ti pul"}
+{"id": "nuri222", "task": "c2s", "q": "把这句中文翻译成Nuri语：车的针", "a": "lel ti ni"}
+{"id": "nuri223", "task": "c2s", "q": "把这句中文翻译成Nuri语：笔是宽的", "a": "to so nen"}
+{"id": "nuri224", "task": "gloss", "q": "Nuri语词“re”用中文怎么说？", "a": "伞"}
+{"id": "nuri225", "task": "c2s", "q": "把这句中文翻译成Nuri语：鸟和镜", "a": "lu me li"}
+{"id": "nuri226", "task": "gloss", "q": "Nuri语词“pi”用中文怎么说？", "a": "甜"}
+{"id": "nuri227", "task": "s2c", "q": "把这句Nuri语翻译成中文：se me ran", "a": "灯和米"}
+{"id": "nuri228", "task": "c2s", "q": "把这句中文翻译成Nuri语：布和月亮", "a": "nul me non"}
+{"id": "nuri229", "task": "s2c", "q": "把这句Nuri语翻译成中文：non ti pul", "a": "月亮的叶子"}
+{"id": "nuri230", "task": "s2c", "q": "把这句Nuri语翻译成中文：pel so sen", "a": "鼓是浅的"}
+{"id": "nuri231", "task": "c2s", "q": "把这句中文翻译成Nuri语：砚的砚", "a": "lin ti lin"}
+{"id": "nuri232", "task": "c2s", "q": "把这句中文翻译成Nuri语：山是香的", "a": "mon so mel"}
+{"id": "nuri233", "task": "c2s", "q": "把这句中文翻译成Nuri语：河流和墨", "a": "pu me ton"}
+{"id": "nuri234", "task": "c2s", "q": "把这句中文翻译成Nuri语：云和山", "a": "rin me mon"}
+{"id": "nuri235", "task": "c2s", "q": "把这句中文翻译成Nuri语：船的刀", "a": "mo ti tun"}
+{"id": "nuri236", "task": "gloss", "q": "Nuri语词“pe”用中文怎么说？", "a": "软"}
+{"id": "nuri237", "task": "s2c", "q": "把这句Nuri语翻译成中文：ral me son", "a": "碗和盐"}
+{"id": "nuri238", "task": "c2s", "q": "把这句中文翻译成Nuri语：墨的衣", "a": "ton ti pil"}
+{"id": "nuri239", "task": "s2c", "q": "把这句Nuri语翻译成中文：ton so mu", "a": "墨是小的"}
+{"id": "nuri240", "task": "c2s", "q": "把这句中文翻译成Nuri语：笛是香的", "a": "sel so mel"}
+{"id": "nuri241", "task": "c2s", "q": "把这句中文翻译成Nuri语：衣和鱼", "a": "pil me na"}
+{"id": "nuri242", "task": "c2s", "q": "把这句中文翻译成Nuri语：瓶和鼓", "a": "ron me pel"}
+{"id": "nuri243", "task": "gloss", "q": "Nuri语词“ta”用中文怎么说？", "a": "井"}
+{"id": "nuri244", "task": "c2s", "q": "把这句中文翻译成Nuri语：鼓和伞", "a": "pel me re"}
+{"id": "nuri245", "task": "c2s", "q": "把这句中文翻译成Nuri语：鼓是新的", "a": "pel so mol"}
+{"id": "nuri246", "task": "c2s", "q": "把这句中文翻译成Nuri语：鱼和线", "a": "na me la"}
+{"id": "nuri247", "task": "s2c", "q": "把这句Nuri语翻译成中文：ral ti ta", "a": "碗的井"}
+{"id": "nuri248", "task": "gloss", "q": "Nuri语词“non”用中文怎么说？", "a": "月亮"}
+{"id": "nuri249", "task": "s2c", "q": "把这句Nuri语翻译成中文：sul so nal", "a": "网是冷的"}
+{"id": "nuri250", "task": "c2s", "q": "把这句中文翻译成Nuri语：井和盐", "a": "ta me son"}
+{"id": "nuri251", "task": "c2s", "q": "把这句中文翻译成Nuri语：叶子是红的", "a": "pul so ti"}
+{"id": "nuri252", "task": "c2s", "q": "把这句中文翻译成Nuri语：灯是圆的", "a": "se so ne"}
+{"id": "nuri253", "task": "s2c", "q": "把这句Nuri语翻译成中文：lan ti nul", "a": "算盘的布"}
+{"id": "nuri254", "task": "s2c", "q": "把这句Nuri语翻译成中文：me me rin", "a": "绳和云"}
+{"id": "nuri255", "task": "c2s", "q": "把这句中文翻译成Nuri语：云和树", "a": "rin me nin"}
+{"id": "nuri256", "task": "s2c", "q": "把这句Nuri语翻译成中文：lon me ren", "a": "炉和塔"}
+{"id": "nuri257", "task": "gloss", "q": "Nuri语词“ra”用中文怎么说？", "a": "纸"}
+{"id": "nuri258", "task": "gloss", "q": "Nuri语词“mo”用中文怎么说？", "a": "船"}
+{"id": "nuri259", "task": "gloss", "q": "Nuri语词“ren”用中文怎么说？", "a": "塔"}
+{"id": "nuri260", "task": "gloss", "q": "Nuri语词“li”用中文怎么说？", "a": "镜"}
+{"id": "nuri261", "task": "c2s", "q": "把这句中文翻译成Nuri语：算盘的炉", "a": "lan ti lon"}
+{"id": "nuri262", "task": "gloss", "q": "Nuri语词“pi”用中文怎么说？", "a": "甜"}
+{"id": "nuri263", "task": "gloss", "q": "Nuri语词“mu”用中文怎么说？", "a": "小"}
+{"id": "nuri264", "task": "c2s", "q": "把这句中文翻译成Nuri语：刀是白的", "a": "tun so kal"}
+{"id": "nuri265", "task": "c2s", "q": "把这句中文翻译成Nuri语：叶子和线", "a": "pul me la"}
+{"id": "nuri266", "task": "gloss", "q": "Nuri语词“ren”用中文怎么说？", "a": "塔"}
+{"id": "nuri267", "task": "s2c", "q": "把这句Nuri语翻译成中文：ra ti mo", "a": "纸的船"}
+{"id": "nuri268", "task": "c2s", "q": "把这句中文翻译成Nuri语：算盘的墨", "a": "lan ti ton"}
+{"id": "nuri269", "task": "c2s", "q": "把这句中文翻译成Nuri语：伞是轻的", "a": "re so pon"}
+{"id": "nuri270", "task": "c2s", "q": "把这句中文翻译成Nuri语：瓶和钟", "a": "ron me san"}
+{"id": "nuri271", "task": "gloss", "q": "Nuri语词“nan”用中文怎么说？", "a": "蓝"}
+{"id": "nuri272", "task": "c2s", "q": "把这句中文翻译成Nuri语：伞是宽的", "a": "re so nen"}
+{"id": "nuri273", "task": "gloss", "q": "Nuri语词“to”用中文怎么说？", "a": "笔"}
+{"id": "nuri274", "task": "c2s", "q": "把这句中文翻译成Nuri语：盐是香的", "a": "son so mel"}
+{"id": "nuri275", "task": "gloss", "q": "Nuri语词“lu”用中文怎么说？", "a": "鸟"}
+{"id": "nuri276", "task": "c2s", "q": "把这句中文翻译成Nuri语：针是窄的", "a": "ni so tul"}
+{"id": "nuri277", "task": "s2c", "q": "把这句Nuri语翻译成中文：pel so pon", "a": "鼓是轻的"}
+{"id": "nuri278", "task": "s2c", "q": "把这句Nuri语翻译成中文：run so pi", "a": "门是甜的"}
+{"id": "nuri279", "task": "s2c", "q": "把这句Nuri语翻译成中文：li ti man", "a": "镜的雪"}
+{"id": "nuri280", "task": "c2s", "q": "把这句中文翻译成Nuri语：伞和云", "a": "re me rin"}
+{"id": "nuri281", "task": "s2c", "q": "把这句Nuri语翻译成中文：rin so pol", "a": "云是湿的"}
+{"id": "nuri282", "task": "s2c", "q": "把这句Nuri语翻译成中文：po ti lel", "a": "路的车"}
+{"id": "nuri283", "task": "s2c", "q": "把这句Nuri语翻译成中文：san me rin", "a": "钟和云"}
+{"id": "nuri284", "task": "gloss", "q": "Nuri语词“mul”用中文怎么说？", "a": "黑"}
+{"id": "nuri285", "task": "s2c", "q": "把这句Nuri语翻译成中文：nin ti ra", "a": "树的纸"}
+{"id": "nuri286", "task": "gloss", "q": "Nuri语词“te”用中文怎么说？", "a": "硬"}
+{"id": "nuri287", "task": "c2s", "q": "把这句中文翻译成Nuri语：布的灯", "a": "nul ti se"}
+{"id": "nuri288", "task": "c2s", "q": "把这句中文翻译成Nuri语：镜是白的", "a": "li so kal"}
+{"id": "nuri289", "task": "s2c", "q": "把这句Nuri语翻译成中文：sel me pul", "a": "笛和叶子"}
+{"id": "nuri290", "task": "gloss", "q": "Nuri语词“pe”用中文怎么说？", "a": "软"}
+{"id": "nuri291", "task": "c2s", "q": "把这句中文翻译成Nuri语：帽是浅的", "a": "sin so sen"}
+{"id": "nuri292", "task": "s2c", "q": "把这句Nuri语翻译成中文：la me mal", "a": "线和窗"}
+{"id": "nuri293", "task": "c2s", "q": "把这句中文翻译成Nuri语：花是白的", "a": "tol so kal"}
+{"id": "nuri294", "task": "s2c", "q": "把这句Nuri语翻译成中文：mun so sol", "a": "水是大的"}
+{"id": "nuri295", "task": "gloss", "q": "Nuri语词“tul”用中文怎么说？", "a": "窄"}
+{"id": "nuri296", "task": "c2s", "q": "把这句中文翻译成Nuri语：碗和叶子", "a": "ral me pul"}
+{"id": "nuri297", "task": "c2s", "q": "把这句中文翻译成Nuri语：鸟和绳", "a": "lu me me"}
+{"id": "nuri298", "task": "c2s", "q": "把这句中文翻译成Nuri语：鱼和绳", "a": "na me me"}
+{"id": "nuri299", "task": "s2c", "q": "把这句Nuri语翻译成中文：tel me li", "a": "鞋和镜"}

@@ -1,0 +1,9 @@
+{
+ "adapter": "D:\\WorkBuddy-works\\WorkBuddy-work-1\\沉积式技术\\蒸馏实验\\scripts\\..\\l0_acceptance\\adapter_qwen4b_sedu",
+ "results": {
+  "raw": 0.32,
+  "strip_think": 0.96,
+  "no_think_prompt": 0.96
+ },
+ "note": "同一 adapter、同一 50 条 holdout，只改判分/提示口径"
+}

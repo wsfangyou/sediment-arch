@@ -1,0 +1,249 @@
+{
+ "n_items": 60,
+ "protocol": {
+  "scoring": "生成式：每个模型用各自最佳提示（base 用 3-shot 续写，instruct 用 chat 模板），生成 ≤24 token，解析首个 A/B/C/D",
+  "chance": 0.25
+ },
+ "models": {
+  "L0_0.83B": {
+   "per_cat": {
+    "arith2": 0.5,
+    "unit": 0.1,
+    "logic2": 0.3,
+    "arith4": 0.15
+   },
+   "overall": 0.2833,
+   "no_format": 0.0,
+   "detail": [
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 2\nB"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 7\nB"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "C",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 1\nB"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 甲比乙"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 8\nB"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "C",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 甲比乙"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "C",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 甲比乙"
+    },
+    {
+     "cat": "arith2",
+     "expect": "D",
+     "pred": "C",
+     "out": "C\n\n题目：甲比乙高，乙比丙高，谁最矮？\nA. 6\nB"
+    }
+   ]
+  },
+  "Qwen3-4B_base": {
+   "per_cat": {
+    "arith2": 0.35,
+    "unit": 0.7,
+    "logic2": 0.8,
+    "arith4": 0.5
+   },
+   "overall": 0.5333,
+   "no_format": 0.0,
+   "detail": [
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "A",
+     "out": "A\n\n题目：小明有 10 元，买了一支笔 3 元，又买"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "B",
+     "out": "B\n\n题目：小明有 5 个苹果，分给小红 2 个，又分"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "C",
+     "out": "C\n\n题目：小明有 5 个苹果，小红有 3 个苹果，小明"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "D",
+     "out": "D\n\n题目：小明有 10 个苹果，小红有 5 个苹果，小"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "D",
+     "out": "D\n\n题目：小明有 10 个苹果，分给小红 3 个，小"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "B",
+     "out": "B\n\n题目：小明有 5 个苹果，小红有 3 个苹果，小明"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "A",
+     "out": "A\n\n题目：小明有 10 个苹果，小红有 5 个苹果，小"
+    },
+    {
+     "cat": "arith2",
+     "expect": "D",
+     "pred": "A",
+     "out": "A\n\n题目：小明有 10 元，买了一支笔 3 元，又买"
+    }
+   ]
+  },
+  "Qwen3-4B_+Sedu": {
+   "per_cat": {
+    "arith2": 0.3,
+    "unit": 0.4,
+    "logic2": 0.8,
+    "arith4": 0.3
+   },
+   "overall": 0.4,
+   "no_format": 0.0,
+   "detail": [
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "A",
+     "out": "A\n\n题目：小明有 10 个苹果，吃了 3 个，还剩几个？\n"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "B",
+     "out": "B\n\n题目：小明有 5 个苹果，小红有 3 个，小明比"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "B",
+     "out": "B\n\n题目：小明有 10 个苹果，吃了 3 个，还剩几个？\n"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "D",
+     "out": "D\n\n题目：小明有 10 个苹果，吃了 3 个，还剩几个？\n"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "D",
+     "out": "D\n\n题目：小明有 10 个苹果，吃了 3 个，还剩几个？\n"
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "B",
+     "out": "B\n\n题目：小明有 10 个苹果，吃了 3 个，还剩几个？\n"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "A",
+     "out": "A\n\n题目：小明有 10 个苹果，小红有 5 个，小明"
+    },
+    {
+     "cat": "arith2",
+     "expect": "D",
+     "pred": "B",
+     "out": "B\n\n题目：小明有 10 个苹果，吃了 3 个，还剩几个？\n"
+    }
+   ]
+  },
+  "Qwen3-4B-Instruct-2507": {
+   "per_cat": {
+    "arith2": 0.0,
+    "unit": 0.0,
+    "logic2": 0.0,
+    "arith4": 0.0
+   },
+   "overall": 0.0,
+   "no_format": 1.0,
+   "detail": [
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "NONE",
+     "out": "原来有 8 个球，  \n放进 4 个：8 + 4 = 12 "
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "NONE",
+     "out": "原来有 3 个球，  \n又放进 3 个：3 + 3 = 6 "
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "NONE",
+     "out": "原来有 3 个球，  \n又放进 3 个：3 + 3 = 6 "
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "NONE",
+     "out": "原来有 7 个球，  \n放进 8 个：7 + 8 = 15 "
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "NONE",
+     "out": "原来有 8 个球，  \n放进 3 个：8 + 3 = 11 "
+    },
+    {
+     "cat": "arith2",
+     "expect": "B",
+     "pred": "NONE",
+     "out": "原来有 12 个球，  \n放进 9 个：12 + 9 = 2"
+    },
+    {
+     "cat": "arith2",
+     "expect": "C",
+     "pred": "NONE",
+     "out": "原来有 11 个球，  \n放进 9 个：11 + 9 = 2"
+    },
+    {
+     "cat": "arith2",
+     "expect": "D",
+     "pred": "NONE",
+     "out": "原来有 5 个球，  \n放进 7 个：5 + 7 = 12 "
+    }
+   ]
+  }
+ }
+}

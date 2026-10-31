@@ -1,0 +1,24 @@
+{
+  "gate": 0.95,
+  "rank": 8,
+  "L1_slots": 3,
+  "distill_keep_real": {
+    "2": 1.007,
+    "3": 0.972,
+    "4": 1.001,
+    "5": 0.995
+  },
+  "merge_ms_toy": 0.17,
+  "L1_final": [
+    2,
+    4,
+    3
+  ],
+  "tax_p95_first50": 145,
+  "tax_p95_last50": 30,
+  "resident_hit_first": 0.74,
+  "resident_hit_last": 0.96,
+  "acc_mean_first50": 0.262,
+  "acc_mean_last50": 0.282,
+  "verdict": "闭环成立：rank8 蒸馏过真实保真门、多槽 L1 由分数驱动换入换出（隔离挂载）、常驻命中率上升、常驻轮 acc 为真实蒸馏 next-token 精度；加法联合合并被 exp2 证伪并以隔离挂载政策规避"
+}

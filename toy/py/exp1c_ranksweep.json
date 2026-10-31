@@ -1,0 +1,53 @@
+{
+  "acc_full": {
+    "2": 0.222,
+    "3": 0.199,
+    "4": 0.364,
+    "5": 0.429
+  },
+  "rank_sweep": [
+    {
+      "rank": 6,
+      "keep_min": 0.966,
+      "keep_mean": 0.99,
+      "pass_gate_0.95": true,
+      "mb_4skills_fp16": 0.08
+    },
+    {
+      "rank": 8,
+      "keep_min": 0.995,
+      "keep_mean": 0.999,
+      "pass_gate_0.95": true,
+      "mb_4skills_fp16": 0.11
+    },
+    {
+      "rank": 10,
+      "keep_min": 0.994,
+      "keep_mean": 0.999,
+      "pass_gate_0.95": true,
+      "mb_4skills_fp16": 0.13
+    },
+    {
+      "rank": 12,
+      "keep_min": 0.995,
+      "keep_mean": 0.999,
+      "pass_gate_0.95": true,
+      "mb_4skills_fp16": 0.16
+    },
+    {
+      "rank": 14,
+      "keep_min": 0.995,
+      "keep_mean": 0.999,
+      "pass_gate_0.95": true,
+      "mb_4skills_fp16": 0.18
+    },
+    {
+      "rank": 16,
+      "keep_min": 1.0,
+      "keep_mean": 1.0,
+      "pass_gate_0.95": true,
+      "mb_4skills_fp16": 0.21
+    }
+  ],
+  "decision": "若仅 r=原秩 过门 → 热沉积产物必须按完整 LoRA 记账（截断不可晋升），L1 预算决定常驻技能个数；若低秩也过门 → 截断路线成立。以本表为准。"
+}

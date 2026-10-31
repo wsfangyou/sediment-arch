@@ -1,0 +1,62 @@
+{
+  "A_joint_merge_v2": {
+    "keep": {
+      "2": 0.153,
+      "3": 0.573,
+      "4": 0.356,
+      "5": 0.379,
+      "6": 0.126,
+      "7": 0.424
+    },
+    "contrast_v1_shared_band": "旧语料联合合并 0.08–0.13"
+  },
+  "B_geneification": [
+    {
+      "K": 2,
+      "keep_min": 0.186,
+      "keep_mean": 0.596,
+      "raw_kb": 648.0,
+      "latent_plus_codebook_kb": 648.0
+    },
+    {
+      "K": 3,
+      "keep_min": 0.203,
+      "keep_mean": 0.747,
+      "raw_kb": 648.0,
+      "latent_plus_codebook_kb": 648.1
+    },
+    {
+      "K": 4,
+      "keep_min": 0.197,
+      "keep_mean": 0.866,
+      "raw_kb": 648.0,
+      "latent_plus_codebook_kb": 648.1
+    },
+    {
+      "K": 5,
+      "keep_min": 0.979,
+      "keep_mean": 1.022,
+      "raw_kb": 648.0,
+      "latent_plus_codebook_kb": 648.1
+    },
+    {
+      "K": 6,
+      "keep_min": 0.981,
+      "keep_mean": 1.014,
+      "raw_kb": 648.0,
+      "latent_plus_codebook_kb": 648.1
+    }
+  ],
+  "acc_full": {
+    "2": 0.222,
+    "3": 0.197,
+    "4": 0.371,
+    "5": 0.426,
+    "6": 0.369,
+    "7": 0.407
+  },
+  "verdicts": {
+    "joint": "联合合并仍显著干扰，须隔离挂载",
+    "gene": "存在 K 使行为保真≥0.95 → 基因化在“技能近正交”的域成立（码本含全部方差，注意其大小）"
+  }
+}

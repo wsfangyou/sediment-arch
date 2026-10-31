@@ -1,0 +1,27 @@
+{
+ "tag": "qlora_train",
+ "protocol": {
+  "steps": 400,
+  "bs": 4,
+  "lr": 0.0002,
+  "replay": 0.35,
+  "n_eval": 50,
+  "train_precision": "nf4 + lora fp16"
+ },
+ "bare_ppl": 17.77,
+ "after": {
+  "A_tf": 0.9919,
+  "A_gen": 0.96,
+  "ppl": 15.02
+ },
+ "c_gate_regress": 0.8452,
+ "peak_gib": 6.43,
+ "minutes": 15.1,
+ "pass": true,
+ "fp16_reference": {
+  "A_tf": 0.9939,
+  "A_gen": 0.96,
+  "peak_gib": 16.8,
+  "minutes": 23
+ }
+}

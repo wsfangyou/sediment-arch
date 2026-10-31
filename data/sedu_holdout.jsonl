@@ -1,0 +1,600 @@
+{"id": "r4800", "task": "s2c", "q": "把这句Sedu语翻译成中文：numo ke toto", "a": "耳朵和沙子"}
+{"id": "r4801", "task": "c2s", "q": "把这句中文翻译成Sedu语：黄昏是很冷的", "a": "mora ve xe fubo ne"}
+{"id": "r4802", "task": "gloss", "q": "Sedu语词“reko”用中文怎么说？", "a": "河流"}
+{"id": "r4803", "task": "s2c", "q": "把这句Sedu语翻译成中文：mofu ne kopi xe ququ", "a": "冰雪的嘴巴很坏"}
+{"id": "r4804", "task": "c2s", "q": "把这句中文翻译成Sedu语：花朵思考树木", "a": "tobo tora nini"}
+{"id": "r4805", "task": "gloss", "q": "Sedu语词“lara”用中文怎么说？", "a": "雾"}
+{"id": "r4806", "task": "s2c", "q": "把这句Sedu语翻译成中文：sala ke moga", "a": "天空和头发"}
+{"id": "r4807", "task": "c2s", "q": "把这句中文翻译成Sedu语：夏天是很快的", "a": "gare ve xe mira ne"}
+{"id": "r4808", "task": "gloss", "q": "Sedu语词“deni”用中文怎么说？", "a": "种子"}
+{"id": "r4809", "task": "s2c", "q": "把这句Sedu语翻译成中文：laji ne koka xe dela", "a": "叶子的早晨很慢"}
+{"id": "r4810", "task": "c2s", "q": "把这句中文翻译成Sedu语：白天思考夜晚", "a": "rafu tora lunu"}
+{"id": "r4811", "task": "gloss", "q": "Sedu语词“luqu”用中文怎么说？", "a": "面包"}
+{"id": "r4812", "task": "s2c", "q": "把这句Sedu语翻译成中文：komi ke lala", "a": "云朵和秋天"}
+{"id": "r4813", "task": "c2s", "q": "把这句中文翻译成Sedu语：早晨是很坏的", "a": "koka ve xe ququ ne"}
+{"id": "r4814", "task": "gloss", "q": "Sedu语词“rebo”用中文怎么说？", "a": "心脏"}
+{"id": "r4815", "task": "s2c", "q": "把这句Sedu语翻译成中文：miga ne gare xe kaqu", "a": "果实的夏天很旧"}
+{"id": "r4816", "task": "c2s", "q": "把这句中文翻译成Sedu语：树木跑步石头", "a": "nini gapi safu"}
+{"id": "r4817", "task": "gloss", "q": "Sedu语词“dede”用中文怎么说？", "a": "雨水"}
+{"id": "r4818", "task": "s2c", "q": "把这句Sedu语翻译成中文：nunu ke jiho", "a": "草地和牛奶"}
+{"id": "r4819", "task": "c2s", "q": "把这句中文翻译成Sedu语：心脏是很冷的", "a": "rebo ve xe fubo ne"}
+{"id": "r4820", "task": "gloss", "q": "Sedu语词“miho”用中文怎么说？", "a": "鱼"}
+{"id": "r4821", "task": "s2c", "q": "把这句Sedu语翻译成中文：nunu ne fusa xe mira", "a": "草地的冬天很快"}
+{"id": "r4822", "task": "c2s", "q": "把这句中文翻译成Sedu语：云朵跳跃人", "a": "komi mifu kako"}
+{"id": "r4823", "task": "gloss", "q": "Sedu语词“jiho”用中文怎么说？", "a": "牛奶"}
+{"id": "r4824", "task": "s2c", "q": "把这句Sedu语翻译成中文：lunu ke kopi", "a": "夜晚和嘴巴"}
+{"id": "r4825", "task": "c2s", "q": "把这句中文翻译成Sedu语：火焰是很坏的", "a": "toni ve xe ququ ne"}
+{"id": "r4826", "task": "gloss", "q": "Sedu语词“gade”用中文怎么说？", "a": "马"}
+{"id": "r4827", "task": "s2c", "q": "把这句Sedu语翻译成中文：kola ne hopi xe pilu", "a": "春天的鸟很热"}
+{"id": "r4828", "task": "c2s", "q": "把这句中文翻译成Sedu语：冰雪睡觉马", "a": "mofu rara gade"}
+{"id": "r4829", "task": "gloss", "q": "Sedu语词“gade”用中文怎么说？", "a": "马"}
+{"id": "r4830", "task": "s2c", "q": "把这句Sedu语翻译成中文：rafu ke laji", "a": "白天和叶子"}
+{"id": "r4831", "task": "c2s", "q": "把这句中文翻译成Sedu语：嘴巴是很小的", "a": "kopi ve xe boqu ne"}
+{"id": "r4832", "task": "gloss", "q": "Sedu语词“tobo”用中文怎么说？", "a": "花朵"}
+{"id": "r4833", "task": "s2c", "q": "把这句Sedu语翻译成中文：safu ne gare xe bopi", "a": "石头的夏天很大"}
+{"id": "r4834", "task": "c2s", "q": "把这句中文翻译成Sedu语：石头工作沙子", "a": "safu kamo toto"}
+{"id": "r4835", "task": "gloss", "q": "Sedu语词“lunu”用中文怎么说？", "a": "夜晚"}
+{"id": "r4836", "task": "s2c", "q": "把这句Sedu语翻译成中文：gare ke mora", "a": "夏天和黄昏"}
+{"id": "r4837", "task": "c2s", "q": "把这句中文翻译成Sedu语：人是很快的", "a": "kako ve xe mira ne"}
+{"id": "r4838", "task": "gloss", "q": "Sedu语词“mode”用中文怎么说？", "a": "脚"}
+{"id": "r4839", "task": "s2c", "q": "把这句Sedu语翻译成中文：laji ne mofu xe ququ", "a": "叶子的冰雪很坏"}
+{"id": "r4840", "task": "c2s", "q": "把这句中文翻译成Sedu语：鱼观看森林", "a": "miho pifu hoqu"}
+{"id": "r4841", "task": "gloss", "q": "Sedu语词“hoqu”用中文怎么说？", "a": "森林"}
+{"id": "r4842", "task": "s2c", "q": "把这句Sedu语翻译成中文：numo ke boho", "a": "耳朵和月亮"}
+{"id": "r4843", "task": "c2s", "q": "把这句中文翻译成Sedu语：果实是很慢的", "a": "miga ve xe dela ne"}
+{"id": "r4844", "task": "gloss", "q": "Sedu语词“jiho”用中文怎么说？", "a": "牛奶"}
+{"id": "r4845", "task": "s2c", "q": "把这句Sedu语翻译成中文：pila ne tobo xe dela", "a": "太阳的花朵很慢"}
+{"id": "r4846", "task": "c2s", "q": "把这句中文翻译成Sedu语：鸟跑步鱼", "a": "hopi gapi miho"}
+{"id": "r4847", "task": "gloss", "q": "Sedu语词“hoqu”用中文怎么说？", "a": "森林"}
+{"id": "r4848", "task": "s2c", "q": "把这句Sedu语翻译成中文：gaga ke dede", "a": "眼睛和雨水"}
+{"id": "r4849", "task": "c2s", "q": "把这句中文翻译成Sedu语：叶子是很慢的", "a": "laji ve xe dela ne"}
+{"id": "r4850", "task": "gloss", "q": "Sedu语词“lamo”用中文怎么说？", "a": "牛"}
+{"id": "r4851", "task": "s2c", "q": "把这句Sedu语翻译成中文：mofu ne rafu xe mira", "a": "冰雪的白天很快"}
+{"id": "r4852", "task": "c2s", "q": "把这句中文翻译成Sedu语：早晨喝水脚", "a": "koka toka mode"}
+{"id": "r4853", "task": "gloss", "q": "Sedu语词“lala”用中文怎么说？", "a": "秋天"}
+{"id": "r4854", "task": "s2c", "q": "把这句Sedu语翻译成中文：koka ke reko", "a": "早晨和河流"}
+{"id": "r4855", "task": "c2s", "q": "把这句中文翻译成Sedu语：秋天是很大的", "a": "lala ve xe bopi ne"}
+{"id": "r4856", "task": "gloss", "q": "Sedu语词“lanu”用中文怎么说？", "a": "狗"}
+{"id": "r4857", "task": "s2c", "q": "把这句Sedu语翻译成中文：moji ne gade xe pito", "a": "彩虹的马很美丽"}
+{"id": "r4858", "task": "c2s", "q": "把这句中文翻译成Sedu语：黄昏思考冰雪", "a": "mora tora mofu"}
+{"id": "r4859", "task": "gloss", "q": "Sedu语词“mofu”用中文怎么说？", "a": "冰雪"}
+{"id": "r4860", "task": "s2c", "q": "把这句Sedu语翻译成中文：lara ke lanu", "a": "雾和狗"}
+{"id": "r4861", "task": "c2s", "q": "把这句中文翻译成Sedu语：山丘是很快的", "a": "rede ve xe mira ne"}
+{"id": "r4862", "task": "gloss", "q": "Sedu语词“bonu”用中文怎么说？", "a": "海洋"}
+{"id": "r4863", "task": "s2c", "q": "把这句Sedu语翻译成中文：kode ne gaga xe pito", "a": "猫的眼睛很美丽"}
+{"id": "r4864", "task": "c2s", "q": "把这句中文翻译成Sedu语：眼睛吃饭森林", "a": "gaga misa hoqu"}
+{"id": "r4865", "task": "gloss", "q": "Sedu语词“koka”用中文怎么说？", "a": "早晨"}
+{"id": "r4866", "task": "s2c", "q": "把这句Sedu语翻译成中文：toni ke koka", "a": "火焰和早晨"}
+{"id": "r4867", "task": "c2s", "q": "把这句中文翻译成Sedu语：沙子是很坏的", "a": "toto ve xe ququ ne"}
+{"id": "r4868", "task": "gloss", "q": "Sedu语词“jiho”用中文怎么说？", "a": "牛奶"}
+{"id": "r4869", "task": "s2c", "q": "把这句Sedu语翻译成中文：mode ne toni xe fubo", "a": "脚的火焰很冷"}
+{"id": "r4870", "task": "c2s", "q": "把这句中文翻译成Sedu语：云朵跳跃人", "a": "komi mifu kako"}
+{"id": "r4871", "task": "gloss", "q": "Sedu语词“lunu”用中文怎么说？", "a": "夜晚"}
+{"id": "r4872", "task": "s2c", "q": "把这句Sedu语翻译成中文：kora ke koka", "a": "电和早晨"}
+{"id": "r4873", "task": "c2s", "q": "把这句中文翻译成Sedu语：月亮是很坏的", "a": "boho ve xe ququ ne"}
+{"id": "r4874", "task": "gloss", "q": "Sedu语词“kode”用中文怎么说？", "a": "猫"}
+{"id": "r4875", "task": "s2c", "q": "把这句Sedu语翻译成中文：koqu ne numo xe kaqu", "a": "羊的耳朵很旧"}
+{"id": "r4876", "task": "c2s", "q": "把这句中文翻译成Sedu语：冰雪跑步天空", "a": "mofu gapi sala"}
+{"id": "r4877", "task": "gloss", "q": "Sedu语词“lafu”用中文怎么说？", "a": "星星"}
+{"id": "r4878", "task": "s2c", "q": "把这句Sedu语翻译成中文：tobo ke miga", "a": "花朵和果实"}
+{"id": "r4879", "task": "c2s", "q": "把这句中文翻译成Sedu语：石头是很旧的", "a": "safu ve xe kaqu ne"}
+{"id": "r4880", "task": "gloss", "q": "Sedu语词“nini”用中文怎么说？", "a": "树木"}
+{"id": "r4881", "task": "s2c", "q": "把这句Sedu语翻译成中文：sala ne rebo xe kaqu", "a": "天空的心脏很旧"}
+{"id": "r4882", "task": "c2s", "q": "把这句中文翻译成Sedu语：面包学习花朵", "a": "luqu hoka tobo"}
+{"id": "r4883", "task": "gloss", "q": "Sedu语词“gade”用中文怎么说？", "a": "马"}
+{"id": "r4884", "task": "s2c", "q": "把这句Sedu语翻译成中文：hoqu ke kode", "a": "森林和猫"}
+{"id": "r4885", "task": "c2s", "q": "把这句中文翻译成Sedu语：雾是很大的", "a": "lara ve xe bopi ne"}
+{"id": "r4886", "task": "gloss", "q": "Sedu语词“hoqu”用中文怎么说？", "a": "森林"}
+{"id": "r4887", "task": "s2c", "q": "把这句Sedu语翻译成中文：hoqu ne sala xe mini", "a": "森林的天空很新"}
+{"id": "r4888", "task": "c2s", "q": "把这句中文翻译成Sedu语：山丘跑步风", "a": "rede gapi kore"}
+{"id": "r4889", "task": "gloss", "q": "Sedu语词“kola”用中文怎么说？", "a": "春天"}
+{"id": "r4890", "task": "s2c", "q": "把这句Sedu语翻译成中文：repi ke bora", "a": "雷和手"}
+{"id": "r4891", "task": "c2s", "q": "把这句中文翻译成Sedu语：手是很好的", "a": "bora ve xe labo ne"}
+{"id": "r4892", "task": "gloss", "q": "Sedu语词“lara”用中文怎么说？", "a": "雾"}
+{"id": "r4893", "task": "s2c", "q": "把这句Sedu语翻译成中文：mofu ne boho xe bopi", "a": "冰雪的月亮很大"}
+{"id": "r4894", "task": "c2s", "q": "把这句中文翻译成Sedu语：雾观看云朵", "a": "lara pifu komi"}
+{"id": "r4895", "task": "gloss", "q": "Sedu语词“bora”用中文怎么说？", "a": "手"}
+{"id": "r4896", "task": "s2c", "q": "把这句Sedu语翻译成中文：kola ke kola", "a": "春天和春天"}
+{"id": "r4897", "task": "c2s", "q": "把这句中文翻译成Sedu语：春天是很小的", "a": "kola ve xe boqu ne"}
+{"id": "r4898", "task": "gloss", "q": "Sedu语词“nunu”用中文怎么说？", "a": "草地"}
+{"id": "r4899", "task": "s2c", "q": "把这句Sedu语翻译成中文：lamo ne rede xe pilu", "a": "牛的山丘很热"}
+{"id": "r4900", "task": "c2s", "q": "把这句中文翻译成Sedu语：秋天走路火焰", "a": "lala mimi toni"}
+{"id": "r4901", "task": "gloss", "q": "Sedu语词“gare”用中文怎么说？", "a": "夏天"}
+{"id": "r4902", "task": "s2c", "q": "把这句Sedu语翻译成中文：toni ke repi", "a": "火焰和雷"}
+{"id": "r4903", "task": "c2s", "q": "把这句中文翻译成Sedu语：手是很慢的", "a": "bora ve xe dela ne"}
+{"id": "r4904", "task": "gloss", "q": "Sedu语词“kako”用中文怎么说？", "a": "人"}
+{"id": "r4905", "task": "s2c", "q": "把这句Sedu语翻译成中文：hoqu ne hopi xe mira", "a": "森林的鸟很快"}
+{"id": "r4906", "task": "c2s", "q": "把这句中文翻译成Sedu语：人走路马", "a": "kako mimi gade"}
+{"id": "r4907", "task": "gloss", "q": "Sedu语词“moji”用中文怎么说？", "a": "彩虹"}
+{"id": "r4908", "task": "s2c", "q": "把这句Sedu语翻译成中文：repi ke gade", "a": "雷和马"}
+{"id": "r4909", "task": "c2s", "q": "把这句中文翻译成Sedu语：夜晚是很美丽的", "a": "lunu ve xe pito ne"}
+{"id": "r4910", "task": "gloss", "q": "Sedu语词“repi”用中文怎么说？", "a": "雷"}
+{"id": "r4911", "task": "s2c", "q": "把这句Sedu语翻译成中文：rebo ne boho xe pito", "a": "心脏的月亮很美丽"}
+{"id": "r4912", "task": "c2s", "q": "把这句中文翻译成Sedu语：海洋睡觉星星", "a": "bonu rara lafu"}
+{"id": "r4913", "task": "gloss", "q": "Sedu语词“koka”用中文怎么说？", "a": "早晨"}
+{"id": "r4914", "task": "s2c", "q": "把这句Sedu语翻译成中文：kola ke kola", "a": "春天和春天"}
+{"id": "r4915", "task": "c2s", "q": "把这句中文翻译成Sedu语：头发是很慢的", "a": "moga ve xe dela ne"}
+{"id": "r4916", "task": "gloss", "q": "Sedu语词“toto”用中文怎么说？", "a": "沙子"}
+{"id": "r4917", "task": "s2c", "q": "把这句Sedu语翻译成中文：mora ne dede xe hora", "a": "黄昏的雨水很明亮"}
+{"id": "r4918", "task": "c2s", "q": "把这句中文翻译成Sedu语：冰雪睡觉心脏", "a": "mofu rara rebo"}
+{"id": "r4919", "task": "gloss", "q": "Sedu语词“sala”用中文怎么说？", "a": "天空"}
+{"id": "r4920", "task": "s2c", "q": "把这句Sedu语翻译成中文：bora ke mora", "a": "手和黄昏"}
+{"id": "r4921", "task": "c2s", "q": "把这句中文翻译成Sedu语：果实是很好的", "a": "miga ve xe labo ne"}
+{"id": "r4922", "task": "gloss", "q": "Sedu语词“toni”用中文怎么说？", "a": "火焰"}
+{"id": "r4923", "task": "s2c", "q": "把这句Sedu语翻译成中文：nunu ne koka xe dela", "a": "草地的早晨很慢"}
+{"id": "r4924", "task": "c2s", "q": "把这句中文翻译成Sedu语：果实吃饭牛", "a": "miga misa lamo"}
+{"id": "r4925", "task": "gloss", "q": "Sedu语词“moji”用中文怎么说？", "a": "彩虹"}
+{"id": "r4926", "task": "s2c", "q": "把这句Sedu语翻译成中文：komi ke rafu", "a": "云朵和白天"}
+{"id": "r4927", "task": "c2s", "q": "把这句中文翻译成Sedu语：牛是很新的", "a": "lamo ve xe mini ne"}
+{"id": "r4928", "task": "gloss", "q": "Sedu语词“kore”用中文怎么说？", "a": "风"}
+{"id": "r4929", "task": "s2c", "q": "把这句Sedu语翻译成中文：lunu ne gade xe fubo", "a": "夜晚的马很冷"}
+{"id": "r4930", "task": "c2s", "q": "把这句中文翻译成Sedu语：海洋观看牛", "a": "bonu pifu lamo"}
+{"id": "r4931", "task": "gloss", "q": "Sedu语词“kopi”用中文怎么说？", "a": "嘴巴"}
+{"id": "r4932", "task": "s2c", "q": "把这句Sedu语翻译成中文：toni ke laji", "a": "火焰和叶子"}
+{"id": "r4933", "task": "c2s", "q": "把这句中文翻译成Sedu语：海洋是很新的", "a": "bonu ve xe mini ne"}
+{"id": "r4934", "task": "gloss", "q": "Sedu语词“kora”用中文怎么说？", "a": "电"}
+{"id": "r4935", "task": "s2c", "q": "把这句Sedu语翻译成中文：koka ne gare xe pilu", "a": "早晨的夏天很热"}
+{"id": "r4936", "task": "c2s", "q": "把这句中文翻译成Sedu语：山丘倾听月亮", "a": "rede jifu boho"}
+{"id": "r4937", "task": "gloss", "q": "Sedu语词“kopi”用中文怎么说？", "a": "嘴巴"}
+{"id": "r4938", "task": "s2c", "q": "把这句Sedu语翻译成中文：moji ke fusa", "a": "彩虹和冬天"}
+{"id": "r4939", "task": "c2s", "q": "把这句中文翻译成Sedu语：脚是很明亮的", "a": "mode ve xe hora ne"}
+{"id": "r4940", "task": "gloss", "q": "Sedu语词“bora”用中文怎么说？", "a": "手"}
+{"id": "r4941", "task": "s2c", "q": "把这句Sedu语翻译成中文：toni ne tobo xe dela", "a": "火焰的花朵很慢"}
+{"id": "r4942", "task": "c2s", "q": "把这句中文翻译成Sedu语：石头喝水沙子", "a": "safu toka toto"}
+{"id": "r4943", "task": "gloss", "q": "Sedu语词“koka”用中文怎么说？", "a": "早晨"}
+{"id": "r4944", "task": "s2c", "q": "把这句Sedu语翻译成中文：boho ke kako", "a": "月亮和人"}
+{"id": "r4945", "task": "c2s", "q": "把这句中文翻译成Sedu语：月亮是很好的", "a": "boho ve xe labo ne"}
+{"id": "r4946", "task": "gloss", "q": "Sedu语词“lamo”用中文怎么说？", "a": "牛"}
+{"id": "r4947", "task": "s2c", "q": "把这句Sedu语翻译成中文：laji ne rebo xe mini", "a": "叶子的心脏很新"}
+{"id": "r4948", "task": "c2s", "q": "把这句中文翻译成Sedu语：秋天工作牛", "a": "lala kamo lamo"}
+{"id": "r4949", "task": "gloss", "q": "Sedu语词“mode”用中文怎么说？", "a": "脚"}
+{"id": "r4950", "task": "s2c", "q": "把这句Sedu语翻译成中文：hoqu ke gade", "a": "森林和马"}
+{"id": "r4951", "task": "c2s", "q": "把这句中文翻译成Sedu语：面包是很坏的", "a": "luqu ve xe ququ ne"}
+{"id": "r4952", "task": "gloss", "q": "Sedu语词“bora”用中文怎么说？", "a": "手"}
+{"id": "r4953", "task": "s2c", "q": "把这句Sedu语翻译成中文：kola ne rede xe labo", "a": "春天的山丘很好"}
+{"id": "r4954", "task": "c2s", "q": "把这句中文翻译成Sedu语：面包吃饭春天", "a": "luqu misa kola"}
+{"id": "r4955", "task": "gloss", "q": "Sedu语词“tobo”用中文怎么说？", "a": "花朵"}
+{"id": "r4956", "task": "s2c", "q": "把这句Sedu语翻译成中文：nini ke bora", "a": "树木和手"}
+{"id": "r4957", "task": "c2s", "q": "把这句中文翻译成Sedu语：海洋是很快的", "a": "bonu ve xe mira ne"}
+{"id": "r4958", "task": "gloss", "q": "Sedu语词“kore”用中文怎么说？", "a": "风"}
+{"id": "r4959", "task": "s2c", "q": "把这句Sedu语翻译成中文：miga ne mofu xe bopi", "a": "果实的冰雪很大"}
+{"id": "r4960", "task": "c2s", "q": "把这句中文翻译成Sedu语：鱼跑步海洋", "a": "miho gapi bonu"}
+{"id": "r4961", "task": "gloss", "q": "Sedu语词“mora”用中文怎么说？", "a": "黄昏"}
+{"id": "r4962", "task": "s2c", "q": "把这句Sedu语翻译成中文：bonu ke mode", "a": "海洋和脚"}
+{"id": "r4963", "task": "c2s", "q": "把这句中文翻译成Sedu语：黄昏是很热的", "a": "mora ve xe pilu ne"}
+{"id": "r4964", "task": "gloss", "q": "Sedu语词“reko”用中文怎么说？", "a": "河流"}
+{"id": "r4965", "task": "s2c", "q": "把这句Sedu语翻译成中文：lanu ne mora xe mini", "a": "狗的黄昏很新"}
+{"id": "r4966", "task": "c2s", "q": "把这句中文翻译成Sedu语：天空说话马", "a": "sala nire gade"}
+{"id": "r4967", "task": "gloss", "q": "Sedu语词“pila”用中文怎么说？", "a": "太阳"}
+{"id": "r4968", "task": "s2c", "q": "把这句Sedu语翻译成中文：pila ke lafu", "a": "太阳和星星"}
+{"id": "r4969", "task": "c2s", "q": "把这句中文翻译成Sedu语：雨水是很明亮的", "a": "dede ve xe hora ne"}
+{"id": "r4970", "task": "gloss", "q": "Sedu语词“boho”用中文怎么说？", "a": "月亮"}
+{"id": "r4971", "task": "s2c", "q": "把这句Sedu语翻译成中文：rafu ne jiho xe pito", "a": "白天的牛奶很美丽"}
+{"id": "r4972", "task": "c2s", "q": "把这句中文翻译成Sedu语：早晨走路夏天", "a": "koka mimi gare"}
+{"id": "r4973", "task": "gloss", "q": "Sedu语词“moji”用中文怎么说？", "a": "彩虹"}
+{"id": "r4974", "task": "s2c", "q": "把这句Sedu语翻译成中文：kola ke deni", "a": "春天和种子"}
+{"id": "r4975", "task": "c2s", "q": "把这句中文翻译成Sedu语：人是很大的", "a": "kako ve xe bopi ne"}
+{"id": "r4976", "task": "gloss", "q": "Sedu语词“koka”用中文怎么说？", "a": "早晨"}
+{"id": "r4977", "task": "s2c", "q": "把这句Sedu语翻译成中文：lanu ne lafu xe kaqu", "a": "狗的星星很旧"}
+{"id": "r4978", "task": "c2s", "q": "把这句中文翻译成Sedu语：彩虹倾听星星", "a": "moji jifu lafu"}
+{"id": "r4979", "task": "gloss", "q": "Sedu语词“bora”用中文怎么说？", "a": "手"}
+{"id": "r4980", "task": "s2c", "q": "把这句Sedu语翻译成中文：kore ke toto", "a": "风和沙子"}
+{"id": "r4981", "task": "c2s", "q": "把这句中文翻译成Sedu语：白天是很坏的", "a": "rafu ve xe ququ ne"}
+{"id": "r4982", "task": "gloss", "q": "Sedu语词“boho”用中文怎么说？", "a": "月亮"}
+{"id": "r4983", "task": "s2c", "q": "把这句Sedu语翻译成中文：miho ne koka xe pito", "a": "鱼的早晨很美丽"}
+{"id": "r4984", "task": "c2s", "q": "把这句中文翻译成Sedu语：冰雪工作天空", "a": "mofu kamo sala"}
+{"id": "r4985", "task": "gloss", "q": "Sedu语词“fusa”用中文怎么说？", "a": "冬天"}
+{"id": "r4986", "task": "s2c", "q": "把这句Sedu语翻译成中文：bonu ke toni", "a": "海洋和火焰"}
+{"id": "r4987", "task": "c2s", "q": "把这句中文翻译成Sedu语：山丘是很新的", "a": "rede ve xe mini ne"}
+{"id": "r4988", "task": "gloss", "q": "Sedu语词“nini”用中文怎么说？", "a": "树木"}
+{"id": "r4989", "task": "s2c", "q": "把这句Sedu语翻译成中文：kora ne koka xe ququ", "a": "电的早晨很坏"}
+{"id": "r4990", "task": "c2s", "q": "把这句中文翻译成Sedu语：夜晚说话沙子", "a": "lunu nire toto"}
+{"id": "r4991", "task": "gloss", "q": "Sedu语词“lafu”用中文怎么说？", "a": "星星"}
+{"id": "r4992", "task": "s2c", "q": "把这句Sedu语翻译成中文：gare ke nini", "a": "夏天和树木"}
+{"id": "r4993", "task": "c2s", "q": "把这句中文翻译成Sedu语：云朵是很冷的", "a": "komi ve xe fubo ne"}
+{"id": "r4994", "task": "gloss", "q": "Sedu语词“rebo”用中文怎么说？", "a": "心脏"}
+{"id": "r4995", "task": "s2c", "q": "把这句Sedu语翻译成中文：lunu ne rafu xe hora", "a": "夜晚的白天很明亮"}
+{"id": "r4996", "task": "c2s", "q": "把这句中文翻译成Sedu语：白天喝水羊", "a": "rafu toka koqu"}
+{"id": "r4997", "task": "gloss", "q": "Sedu语词“jiho”用中文怎么说？", "a": "牛奶"}
+{"id": "r4998", "task": "s2c", "q": "把这句Sedu语翻译成中文：moji ke lamo", "a": "彩虹和牛"}
+{"id": "r4999", "task": "c2s", "q": "把这句中文翻译成Sedu语：牛是很慢的", "a": "lamo ve xe dela ne"}
+{"id": "r5000", "task": "gloss", "q": "Sedu语词“lunu”用中文怎么说？", "a": "夜晚"}
+{"id": "r5001", "task": "s2c", "q": "把这句Sedu语翻译成中文：komi ne gade xe labo", "a": "云朵的马很好"}
+{"id": "r5002", "task": "c2s", "q": "把这句中文翻译成Sedu语：雾跳跃火焰", "a": "lara mifu toni"}
+{"id": "r5003", "task": "gloss", "q": "Sedu语词“koka”用中文怎么说？", "a": "早晨"}
+{"id": "r5004", "task": "s2c", "q": "把这句Sedu语翻译成中文：luqu ke gade", "a": "面包和马"}
+{"id": "r5005", "task": "c2s", "q": "把这句中文翻译成Sedu语：夏天是很慢的", "a": "gare ve xe dela ne"}
+{"id": "r5006", "task": "gloss", "q": "Sedu语词“lafu”用中文怎么说？", "a": "星星"}
+{"id": "r5007", "task": "s2c", "q": "把这句Sedu语翻译成中文：toni ne boho xe kaqu", "a": "火焰的月亮很旧"}
+{"id": "r5008", "task": "c2s", "q": "把这句中文翻译成Sedu语：彩虹观看眼睛", "a": "moji pifu gaga"}
+{"id": "r5009", "task": "gloss", "q": "Sedu语词“repi”用中文怎么说？", "a": "雷"}
+{"id": "r5010", "task": "s2c", "q": "把这句Sedu语翻译成中文：gaga ke pila", "a": "眼睛和太阳"}
+{"id": "r5011", "task": "c2s", "q": "把这句中文翻译成Sedu语：人是很明亮的", "a": "kako ve xe hora ne"}
+{"id": "r5012", "task": "gloss", "q": "Sedu语词“komi”用中文怎么说？", "a": "云朵"}
+{"id": "r5013", "task": "s2c", "q": "把这句Sedu语翻译成中文：nunu ne gade xe bopi", "a": "草地的马很大"}
+{"id": "r5014", "task": "c2s", "q": "把这句中文翻译成Sedu语：冬天学习头发", "a": "fusa hoka moga"}
+{"id": "r5015", "task": "gloss", "q": "Sedu语词“toni”用中文怎么说？", "a": "火焰"}
+{"id": "r5016", "task": "s2c", "q": "把这句Sedu语翻译成中文：kode ke kora", "a": "猫和电"}
+{"id": "r5017", "task": "c2s", "q": "把这句中文翻译成Sedu语：天空是很快的", "a": "sala ve xe mira ne"}
+{"id": "r5018", "task": "gloss", "q": "Sedu语词“komi”用中文怎么说？", "a": "云朵"}
+{"id": "r5019", "task": "s2c", "q": "把这句Sedu语翻译成中文：lara ne mora xe dela", "a": "雾的黄昏很慢"}
+{"id": "r5020", "task": "c2s", "q": "把这句中文翻译成Sedu语：心脏跑步花朵", "a": "rebo gapi tobo"}
+{"id": "r5021", "task": "gloss", "q": "Sedu语词“reko”用中文怎么说？", "a": "河流"}
+{"id": "r5022", "task": "s2c", "q": "把这句Sedu语翻译成中文：kora ke lunu", "a": "电和夜晚"}
+{"id": "r5023", "task": "c2s", "q": "把这句中文翻译成Sedu语：森林是很冷的", "a": "hoqu ve xe fubo ne"}
+{"id": "r5024", "task": "gloss", "q": "Sedu语词“mofu”用中文怎么说？", "a": "冰雪"}
+{"id": "r5025", "task": "s2c", "q": "把这句Sedu语翻译成中文：numo ne kora xe dela", "a": "耳朵的电很慢"}
+{"id": "r5026", "task": "c2s", "q": "把这句中文翻译成Sedu语：沙子跑步山丘", "a": "toto gapi rede"}
+{"id": "r5027", "task": "gloss", "q": "Sedu语词“numo”用中文怎么说？", "a": "耳朵"}
+{"id": "r5028", "task": "s2c", "q": "把这句Sedu语翻译成中文：gaga ke reko", "a": "眼睛和河流"}
+{"id": "r5029", "task": "c2s", "q": "把这句中文翻译成Sedu语：花朵是很慢的", "a": "tobo ve xe dela ne"}
+{"id": "r5030", "task": "gloss", "q": "Sedu语词“kako”用中文怎么说？", "a": "人"}
+{"id": "r5031", "task": "s2c", "q": "把这句Sedu语翻译成中文：gare ne bonu xe bopi", "a": "夏天的海洋很大"}
+{"id": "r5032", "task": "c2s", "q": "把这句中文翻译成Sedu语：果实倾听山丘", "a": "miga jifu rede"}
+{"id": "r5033", "task": "gloss", "q": "Sedu语词“gaga”用中文怎么说？", "a": "眼睛"}
+{"id": "r5034", "task": "s2c", "q": "把这句Sedu语翻译成中文：kore ke sala", "a": "风和天空"}
+{"id": "r5035", "task": "c2s", "q": "把这句中文翻译成Sedu语：沙子是很好的", "a": "toto ve xe labo ne"}
+{"id": "r5036", "task": "gloss", "q": "Sedu语词“boho”用中文怎么说？", "a": "月亮"}
+{"id": "r5037", "task": "s2c", "q": "把这句Sedu语翻译成中文：kore ne koqu xe pilu", "a": "风的羊很热"}
+{"id": "r5038", "task": "c2s", "q": "把这句中文翻译成Sedu语：云朵睡觉人", "a": "komi rara kako"}
+{"id": "r5039", "task": "gloss", "q": "Sedu语词“lamo”用中文怎么说？", "a": "牛"}
+{"id": "r5040", "task": "s2c", "q": "把这句Sedu语翻译成中文：tobo ke nunu", "a": "花朵和草地"}
+{"id": "r5041", "task": "c2s", "q": "把这句中文翻译成Sedu语：河流是很旧的", "a": "reko ve xe kaqu ne"}
+{"id": "r5042", "task": "gloss", "q": "Sedu语词“gare”用中文怎么说？", "a": "夏天"}
+{"id": "r5043", "task": "s2c", "q": "把这句Sedu语翻译成中文：fusa ne mofu xe boqu", "a": "冬天的冰雪很小"}
+{"id": "r5044", "task": "c2s", "q": "把这句中文翻译成Sedu语：手睡觉种子", "a": "bora rara deni"}
+{"id": "r5045", "task": "gloss", "q": "Sedu语词“lara”用中文怎么说？", "a": "雾"}
+{"id": "r5046", "task": "s2c", "q": "把这句Sedu语翻译成中文：miga ke moji", "a": "果实和彩虹"}
+{"id": "r5047", "task": "c2s", "q": "把这句中文翻译成Sedu语：牛奶是很热的", "a": "jiho ve xe pilu ne"}
+{"id": "r5048", "task": "gloss", "q": "Sedu语词“kore”用中文怎么说？", "a": "风"}
+{"id": "r5049", "task": "s2c", "q": "把这句Sedu语翻译成中文：tobo ne koqu xe pilu", "a": "花朵的羊很热"}
+{"id": "r5050", "task": "c2s", "q": "把这句中文翻译成Sedu语：果实观看云朵", "a": "miga pifu komi"}
+{"id": "r5051", "task": "gloss", "q": "Sedu语词“mofu”用中文怎么说？", "a": "冰雪"}
+{"id": "r5052", "task": "s2c", "q": "把这句Sedu语翻译成中文：numo ke boho", "a": "耳朵和月亮"}
+{"id": "r5053", "task": "c2s", "q": "把这句中文翻译成Sedu语：雾是很明亮的", "a": "lara ve xe hora ne"}
+{"id": "r5054", "task": "gloss", "q": "Sedu语词“rede”用中文怎么说？", "a": "山丘"}
+{"id": "r5055", "task": "s2c", "q": "把这句Sedu语翻译成中文：komi ne toto xe fubo", "a": "云朵的沙子很冷"}
+{"id": "r5056", "task": "c2s", "q": "把这句中文翻译成Sedu语：石头睡觉花朵", "a": "safu rara tobo"}
+{"id": "r5057", "task": "gloss", "q": "Sedu语词“rede”用中文怎么说？", "a": "山丘"}
+{"id": "r5058", "task": "s2c", "q": "把这句Sedu语翻译成中文：miga ke jiho", "a": "果实和牛奶"}
+{"id": "r5059", "task": "c2s", "q": "把这句中文翻译成Sedu语：黄昏是很小的", "a": "mora ve xe boqu ne"}
+{"id": "r5060", "task": "gloss", "q": "Sedu语词“sala”用中文怎么说？", "a": "天空"}
+{"id": "r5061", "task": "s2c", "q": "把这句Sedu语翻译成中文：moga ne safu xe labo", "a": "头发的石头很好"}
+{"id": "r5062", "task": "c2s", "q": "把这句中文翻译成Sedu语：叶子吃饭头发", "a": "laji misa moga"}
+{"id": "r5063", "task": "gloss", "q": "Sedu语词“bonu”用中文怎么说？", "a": "海洋"}
+{"id": "r5064", "task": "s2c", "q": "把这句Sedu语翻译成中文：jiho ke kola", "a": "牛奶和春天"}
+{"id": "r5065", "task": "c2s", "q": "把这句中文翻译成Sedu语：脚是很好的", "a": "mode ve xe labo ne"}
+{"id": "r5066", "task": "gloss", "q": "Sedu语词“kako”用中文怎么说？", "a": "人"}
+{"id": "r5067", "task": "s2c", "q": "把这句Sedu语翻译成中文：gade ne kora xe dela", "a": "马的电很慢"}
+{"id": "r5068", "task": "c2s", "q": "把这句中文翻译成Sedu语：马跳跃海洋", "a": "gade mifu bonu"}
+{"id": "r5069", "task": "gloss", "q": "Sedu语词“kopi”用中文怎么说？", "a": "嘴巴"}
+{"id": "r5070", "task": "s2c", "q": "把这句Sedu语翻译成中文：dede ke nini", "a": "雨水和树木"}
+{"id": "r5071", "task": "c2s", "q": "把这句中文翻译成Sedu语：马是很快的", "a": "gade ve xe mira ne"}
+{"id": "r5072", "task": "gloss", "q": "Sedu语词“lafu”用中文怎么说？", "a": "星星"}
+{"id": "r5073", "task": "s2c", "q": "把这句Sedu语翻译成中文：bora ne dede xe fubo", "a": "手的雨水很冷"}
+{"id": "r5074", "task": "c2s", "q": "把这句中文翻译成Sedu语：火焰跳跃眼睛", "a": "toni mifu gaga"}
+{"id": "r5075", "task": "gloss", "q": "Sedu语词“fusa”用中文怎么说？", "a": "冬天"}
+{"id": "r5076", "task": "s2c", "q": "把这句Sedu语翻译成中文：bora ke lanu", "a": "手和狗"}
+{"id": "r5077", "task": "c2s", "q": "把这句中文翻译成Sedu语：风是很慢的", "a": "kore ve xe dela ne"}
+{"id": "r5078", "task": "gloss", "q": "Sedu语词“mode”用中文怎么说？", "a": "脚"}
+{"id": "r5079", "task": "s2c", "q": "把这句Sedu语翻译成中文：rede ne numo xe mira", "a": "山丘的耳朵很快"}
+{"id": "r5080", "task": "c2s", "q": "把这句中文翻译成Sedu语：早晨跑步脚", "a": "koka gapi mode"}
+{"id": "r5081", "task": "gloss", "q": "Sedu语词“lamo”用中文怎么说？", "a": "牛"}
+{"id": "r5082", "task": "s2c", "q": "把这句Sedu语翻译成中文：koqu ke gade", "a": "羊和马"}
+{"id": "r5083", "task": "c2s", "q": "把这句中文翻译成Sedu语：森林是很旧的", "a": "hoqu ve xe kaqu ne"}
+{"id": "r5084", "task": "gloss", "q": "Sedu语词“kore”用中文怎么说？", "a": "风"}
+{"id": "r5085", "task": "s2c", "q": "把这句Sedu语翻译成中文：pila ne numo xe labo", "a": "太阳的耳朵很好"}
+{"id": "r5086", "task": "c2s", "q": "把这句中文翻译成Sedu语：海洋倾听脚", "a": "bonu jifu mode"}
+{"id": "r5087", "task": "gloss", "q": "Sedu语词“mofu”用中文怎么说？", "a": "冰雪"}
+{"id": "r5088", "task": "s2c", "q": "把这句Sedu语翻译成中文：kako ke toni", "a": "人和火焰"}
+{"id": "r5089", "task": "c2s", "q": "把这句中文翻译成Sedu语：花朵是很慢的", "a": "tobo ve xe dela ne"}
+{"id": "r5090", "task": "gloss", "q": "Sedu语词“reko”用中文怎么说？", "a": "河流"}
+{"id": "r5091", "task": "s2c", "q": "把这句Sedu语翻译成中文：kore ne mofu xe mira", "a": "风的冰雪很快"}
+{"id": "r5092", "task": "c2s", "q": "把这句中文翻译成Sedu语：早晨说话黄昏", "a": "koka nire mora"}
+{"id": "r5093", "task": "gloss", "q": "Sedu语词“nini”用中文怎么说？", "a": "树木"}
+{"id": "r5094", "task": "s2c", "q": "把这句Sedu语翻译成中文：reko ke mora", "a": "河流和黄昏"}
+{"id": "r5095", "task": "c2s", "q": "把这句中文翻译成Sedu语：冬天是很好的", "a": "fusa ve xe labo ne"}
+{"id": "r5096", "task": "gloss", "q": "Sedu语词“mora”用中文怎么说？", "a": "黄昏"}
+{"id": "r5097", "task": "s2c", "q": "把这句Sedu语翻译成中文：luqu ne toto xe fubo", "a": "面包的沙子很冷"}
+{"id": "r5098", "task": "c2s", "q": "把这句中文翻译成Sedu语：马观看花朵", "a": "gade pifu tobo"}
+{"id": "r5099", "task": "gloss", "q": "Sedu语词“sala”用中文怎么说？", "a": "天空"}
+{"id": "r5100", "task": "s2c", "q": "把这句Sedu语翻译成中文：dede ke gare", "a": "雨水和夏天"}
+{"id": "r5101", "task": "c2s", "q": "把这句中文翻译成Sedu语：云朵是很小的", "a": "komi ve xe boqu ne"}
+{"id": "r5102", "task": "gloss", "q": "Sedu语词“nunu”用中文怎么说？", "a": "草地"}
+{"id": "r5103", "task": "s2c", "q": "把这句Sedu语翻译成中文：reko ne komi xe mira", "a": "河流的云朵很快"}
+{"id": "r5104", "task": "c2s", "q": "把这句中文翻译成Sedu语：果实工作鸟", "a": "miga kamo hopi"}
+{"id": "r5105", "task": "gloss", "q": "Sedu语词“rafu”用中文怎么说？", "a": "白天"}
+{"id": "r5106", "task": "s2c", "q": "把这句Sedu语翻译成中文：deni ke gaga", "a": "种子和眼睛"}
+{"id": "r5107", "task": "c2s", "q": "把这句中文翻译成Sedu语：森林是很热的", "a": "hoqu ve xe pilu ne"}
+{"id": "r5108", "task": "gloss", "q": "Sedu语词“hopi”用中文怎么说？", "a": "鸟"}
+{"id": "r5109", "task": "s2c", "q": "把这句Sedu语翻译成中文：pila ne kode xe labo", "a": "太阳的猫很好"}
+{"id": "r5110", "task": "c2s", "q": "把这句中文翻译成Sedu语：河流喝水太阳", "a": "reko toka pila"}
+{"id": "r5111", "task": "gloss", "q": "Sedu语词“lamo”用中文怎么说？", "a": "牛"}
+{"id": "r5112", "task": "s2c", "q": "把这句Sedu语翻译成中文：toni ke repi", "a": "火焰和雷"}
+{"id": "r5113", "task": "c2s", "q": "把这句中文翻译成Sedu语：早晨是很慢的", "a": "koka ve xe dela ne"}
+{"id": "r5114", "task": "gloss", "q": "Sedu语词“toto”用中文怎么说？", "a": "沙子"}
+{"id": "r5115", "task": "s2c", "q": "把这句Sedu语翻译成中文：hopi ne lara xe bopi", "a": "鸟的雾很大"}
+{"id": "r5116", "task": "c2s", "q": "把这句中文翻译成Sedu语：雨水跳跃脚", "a": "dede mifu mode"}
+{"id": "r5117", "task": "gloss", "q": "Sedu语词“reko”用中文怎么说？", "a": "河流"}
+{"id": "r5118", "task": "s2c", "q": "把这句Sedu语翻译成中文：kola ke numo", "a": "春天和耳朵"}
+{"id": "r5119", "task": "c2s", "q": "把这句中文翻译成Sedu语：冰雪是很坏的", "a": "mofu ve xe ququ ne"}
+{"id": "r5120", "task": "gloss", "q": "Sedu语词“nini”用中文怎么说？", "a": "树木"}
+{"id": "r5121", "task": "s2c", "q": "把这句Sedu语翻译成中文：koka ne numo xe labo", "a": "早晨的耳朵很好"}
+{"id": "r5122", "task": "c2s", "q": "把这句中文翻译成Sedu语：冬天倾听鸟", "a": "fusa jifu hopi"}
+{"id": "r5123", "task": "gloss", "q": "Sedu语词“safu”用中文怎么说？", "a": "石头"}
+{"id": "r5124", "task": "s2c", "q": "把这句Sedu语翻译成中文：rafu ke sala", "a": "白天和天空"}
+{"id": "r5125", "task": "c2s", "q": "把这句中文翻译成Sedu语：心脏是很旧的", "a": "rebo ve xe kaqu ne"}
+{"id": "r5126", "task": "gloss", "q": "Sedu语词“bora”用中文怎么说？", "a": "手"}
+{"id": "r5127", "task": "s2c", "q": "把这句Sedu语翻译成中文：pila ne repi xe kaqu", "a": "太阳的雷很旧"}
+{"id": "r5128", "task": "c2s", "q": "把这句中文翻译成Sedu语：耳朵说话月亮", "a": "numo nire boho"}
+{"id": "r5129", "task": "gloss", "q": "Sedu语词“koqu”用中文怎么说？", "a": "羊"}
+{"id": "r5130", "task": "s2c", "q": "把这句Sedu语翻译成中文：mora ke fusa", "a": "黄昏和冬天"}
+{"id": "r5131", "task": "c2s", "q": "把这句中文翻译成Sedu语：羊是很新的", "a": "koqu ve xe mini ne"}
+{"id": "r5132", "task": "gloss", "q": "Sedu语词“luqu”用中文怎么说？", "a": "面包"}
+{"id": "r5133", "task": "s2c", "q": "把这句Sedu语翻译成中文：kode ne toto xe pilu", "a": "猫的沙子很热"}
+{"id": "r5134", "task": "c2s", "q": "把这句中文翻译成Sedu语：果实走路白天", "a": "miga mimi rafu"}
+{"id": "r5135", "task": "gloss", "q": "Sedu语词“gare”用中文怎么说？", "a": "夏天"}
+{"id": "r5136", "task": "s2c", "q": "把这句Sedu语翻译成中文：lafu ke gaga", "a": "星星和眼睛"}
+{"id": "r5137", "task": "c2s", "q": "把这句中文翻译成Sedu语：河流是很快的", "a": "reko ve xe mira ne"}
+{"id": "r5138", "task": "gloss", "q": "Sedu语词“lunu”用中文怎么说？", "a": "夜晚"}
+{"id": "r5139", "task": "s2c", "q": "把这句Sedu语翻译成中文：fusa ne kode xe fubo", "a": "冬天的猫很冷"}
+{"id": "r5140", "task": "c2s", "q": "把这句中文翻译成Sedu语：雷观看脚", "a": "repi pifu mode"}
+{"id": "r5141", "task": "gloss", "q": "Sedu语词“komi”用中文怎么说？", "a": "云朵"}
+{"id": "r5142", "task": "s2c", "q": "把这句Sedu语翻译成中文：dede ke reko", "a": "雨水和河流"}
+{"id": "r5143", "task": "c2s", "q": "把这句中文翻译成Sedu语：羊是很热的", "a": "koqu ve xe pilu ne"}
+{"id": "r5144", "task": "gloss", "q": "Sedu语词“dede”用中文怎么说？", "a": "雨水"}
+{"id": "r5145", "task": "s2c", "q": "把这句Sedu语翻译成中文：luqu ne miga xe fubo", "a": "面包的果实很冷"}
+{"id": "r5146", "task": "c2s", "q": "把这句中文翻译成Sedu语：白天观看森林", "a": "rafu pifu hoqu"}
+{"id": "r5147", "task": "gloss", "q": "Sedu语词“gade”用中文怎么说？", "a": "马"}
+{"id": "r5148", "task": "s2c", "q": "把这句Sedu语翻译成中文：hopi ke toto", "a": "鸟和沙子"}
+{"id": "r5149", "task": "c2s", "q": "把这句中文翻译成Sedu语：狗是很大的", "a": "lanu ve xe bopi ne"}
+{"id": "r5150", "task": "gloss", "q": "Sedu语词“bonu”用中文怎么说？", "a": "海洋"}
+{"id": "r5151", "task": "s2c", "q": "把这句Sedu语翻译成中文：mora ne numo xe pilu", "a": "黄昏的耳朵很热"}
+{"id": "r5152", "task": "c2s", "q": "把这句中文翻译成Sedu语：草地睡觉夏天", "a": "nunu rara gare"}
+{"id": "r5153", "task": "gloss", "q": "Sedu语词“rebo”用中文怎么说？", "a": "心脏"}
+{"id": "r5154", "task": "s2c", "q": "把这句Sedu语翻译成中文：lanu ke gare", "a": "狗和夏天"}
+{"id": "r5155", "task": "c2s", "q": "把这句中文翻译成Sedu语：早晨是很坏的", "a": "koka ve xe ququ ne"}
+{"id": "r5156", "task": "gloss", "q": "Sedu语词“laji”用中文怎么说？", "a": "叶子"}
+{"id": "r5157", "task": "s2c", "q": "把这句Sedu语翻译成中文：koqu ne rede xe hora", "a": "羊的山丘很明亮"}
+{"id": "r5158", "task": "c2s", "q": "把这句中文翻译成Sedu语：鱼学习鸟", "a": "miho hoka hopi"}
+{"id": "r5159", "task": "gloss", "q": "Sedu语词“rede”用中文怎么说？", "a": "山丘"}
+{"id": "r5160", "task": "s2c", "q": "把这句Sedu语翻译成中文：lara ke sala", "a": "雾和天空"}
+{"id": "r5161", "task": "c2s", "q": "把这句中文翻译成Sedu语：彩虹是很快的", "a": "moji ve xe mira ne"}
+{"id": "r5162", "task": "gloss", "q": "Sedu语词“tobo”用中文怎么说？", "a": "花朵"}
+{"id": "r5163", "task": "s2c", "q": "把这句Sedu语翻译成中文：nunu ne toto xe mira", "a": "草地的沙子很快"}
+{"id": "r5164", "task": "c2s", "q": "把这句中文翻译成Sedu语：嘴巴思考眼睛", "a": "kopi tora gaga"}
+{"id": "r5165", "task": "gloss", "q": "Sedu语词“lafu”用中文怎么说？", "a": "星星"}
+{"id": "r5166", "task": "s2c", "q": "把这句Sedu语翻译成中文：lanu ke safu", "a": "狗和石头"}
+{"id": "r5167", "task": "c2s", "q": "把这句中文翻译成Sedu语：牛奶是很大的", "a": "jiho ve xe bopi ne"}
+{"id": "r5168", "task": "gloss", "q": "Sedu语词“numo”用中文怎么说？", "a": "耳朵"}
+{"id": "r5169", "task": "s2c", "q": "把这句Sedu语翻译成中文：kode ne tobo xe fubo", "a": "猫的花朵很冷"}
+{"id": "r5170", "task": "c2s", "q": "把这句中文翻译成Sedu语：太阳睡觉火焰", "a": "pila rara toni"}
+{"id": "r5171", "task": "gloss", "q": "Sedu语词“gade”用中文怎么说？", "a": "马"}
+{"id": "r5172", "task": "s2c", "q": "把这句Sedu语翻译成中文：safu ke mofu", "a": "石头和冰雪"}
+{"id": "r5173", "task": "c2s", "q": "把这句中文翻译成Sedu语：雾是很美丽的", "a": "lara ve xe pito ne"}
+{"id": "r5174", "task": "gloss", "q": "Sedu语词“mode”用中文怎么说？", "a": "脚"}
+{"id": "r5175", "task": "s2c", "q": "把这句Sedu语翻译成中文：hoqu ne dede xe labo", "a": "森林的雨水很好"}
+{"id": "r5176", "task": "c2s", "q": "把这句中文翻译成Sedu语：白天倾听马", "a": "rafu jifu gade"}
+{"id": "r5177", "task": "gloss", "q": "Sedu语词“miga”用中文怎么说？", "a": "果实"}
+{"id": "r5178", "task": "s2c", "q": "把这句Sedu语翻译成中文：kola ke boho", "a": "春天和月亮"}
+{"id": "r5179", "task": "c2s", "q": "把这句中文翻译成Sedu语：彩虹是很冷的", "a": "moji ve xe fubo ne"}
+{"id": "r5180", "task": "gloss", "q": "Sedu语词“pila”用中文怎么说？", "a": "太阳"}
+{"id": "r5181", "task": "s2c", "q": "把这句Sedu语翻译成中文：numo ne nunu xe kaqu", "a": "耳朵的草地很旧"}
+{"id": "r5182", "task": "c2s", "q": "把这句中文翻译成Sedu语：羊跑步雨水", "a": "koqu gapi dede"}
+{"id": "r5183", "task": "gloss", "q": "Sedu语词“reko”用中文怎么说？", "a": "河流"}
+{"id": "r5184", "task": "s2c", "q": "把这句Sedu语翻译成中文：reko ke gare", "a": "河流和夏天"}
+{"id": "r5185", "task": "c2s", "q": "把这句中文翻译成Sedu语：冬天是很明亮的", "a": "fusa ve xe hora ne"}
+{"id": "r5186", "task": "gloss", "q": "Sedu语词“lara”用中文怎么说？", "a": "雾"}
+{"id": "r5187", "task": "s2c", "q": "把这句Sedu语翻译成中文：gade ne sala xe boqu", "a": "马的天空很小"}
+{"id": "r5188", "task": "c2s", "q": "把这句中文翻译成Sedu语：牛说话山丘", "a": "lamo nire rede"}
+{"id": "r5189", "task": "gloss", "q": "Sedu语词“lanu”用中文怎么说？", "a": "狗"}
+{"id": "r5190", "task": "s2c", "q": "把这句Sedu语翻译成中文：mode ke laji", "a": "脚和叶子"}
+{"id": "r5191", "task": "c2s", "q": "把这句中文翻译成Sedu语：眼睛是很坏的", "a": "gaga ve xe ququ ne"}
+{"id": "r5192", "task": "gloss", "q": "Sedu语词“kode”用中文怎么说？", "a": "猫"}
+{"id": "r5193", "task": "s2c", "q": "把这句Sedu语翻译成中文：komi ne lafu xe bopi", "a": "云朵的星星很大"}
+{"id": "r5194", "task": "c2s", "q": "把这句中文翻译成Sedu语：面包吃饭雨水", "a": "luqu misa dede"}
+{"id": "r5195", "task": "gloss", "q": "Sedu语词“koka”用中文怎么说？", "a": "早晨"}
+{"id": "r5196", "task": "s2c", "q": "把这句Sedu语翻译成中文：reko ke lafu", "a": "河流和星星"}
+{"id": "r5197", "task": "c2s", "q": "把这句中文翻译成Sedu语：草地是很好的", "a": "nunu ve xe labo ne"}
+{"id": "r5198", "task": "gloss", "q": "Sedu语词“rede”用中文怎么说？", "a": "山丘"}
+{"id": "r5199", "task": "s2c", "q": "把这句Sedu语翻译成中文：nunu ne reko xe bopi", "a": "草地的河流很大"}
+{"id": "r5200", "task": "c2s", "q": "把这句中文翻译成Sedu语：黄昏睡觉脚", "a": "mora rara mode"}
+{"id": "r5201", "task": "gloss", "q": "Sedu语词“gade”用中文怎么说？", "a": "马"}
+{"id": "r5202", "task": "s2c", "q": "把这句Sedu语翻译成中文：komi ke fusa", "a": "云朵和冬天"}
+{"id": "r5203", "task": "c2s", "q": "把这句中文翻译成Sedu语：夜晚是很新的", "a": "lunu ve xe mini ne"}
+{"id": "r5204", "task": "gloss", "q": "Sedu语词“pila”用中文怎么说？", "a": "太阳"}
+{"id": "r5205", "task": "s2c", "q": "把这句Sedu语翻译成中文：bonu ne rede xe boqu", "a": "海洋的山丘很小"}
+{"id": "r5206", "task": "c2s", "q": "把这句中文翻译成Sedu语：天空跳跃秋天", "a": "sala mifu lala"}
+{"id": "r5207", "task": "gloss", "q": "Sedu语词“luqu”用中文怎么说？", "a": "面包"}
+{"id": "r5208", "task": "s2c", "q": "把这句Sedu语翻译成中文：sala ke rafu", "a": "天空和白天"}
+{"id": "r5209", "task": "c2s", "q": "把这句中文翻译成Sedu语：彩虹是很热的", "a": "moji ve xe pilu ne"}
+{"id": "r5210", "task": "gloss", "q": "Sedu语词“laji”用中文怎么说？", "a": "叶子"}
+{"id": "r5211", "task": "s2c", "q": "把这句Sedu语翻译成中文：sala ne boho xe mira", "a": "天空的月亮很快"}
+{"id": "r5212", "task": "c2s", "q": "把这句中文翻译成Sedu语：黄昏喝水冬天", "a": "mora toka fusa"}
+{"id": "r5213", "task": "gloss", "q": "Sedu语词“mora”用中文怎么说？", "a": "黄昏"}
+{"id": "r5214", "task": "s2c", "q": "把这句Sedu语翻译成中文：tobo ke mofu", "a": "花朵和冰雪"}
+{"id": "r5215", "task": "c2s", "q": "把这句中文翻译成Sedu语：狗是很旧的", "a": "lanu ve xe kaqu ne"}
+{"id": "r5216", "task": "gloss", "q": "Sedu语词“hopi”用中文怎么说？", "a": "鸟"}
+{"id": "r5217", "task": "s2c", "q": "把这句Sedu语翻译成中文：laji ne gaga xe mira", "a": "叶子的眼睛很快"}
+{"id": "r5218", "task": "c2s", "q": "把这句中文翻译成Sedu语：雷吃饭天空", "a": "repi misa sala"}
+{"id": "r5219", "task": "gloss", "q": "Sedu语词“koqu”用中文怎么说？", "a": "羊"}
+{"id": "r5220", "task": "s2c", "q": "把这句Sedu语翻译成中文：bonu ke tobo", "a": "海洋和花朵"}
+{"id": "r5221", "task": "c2s", "q": "把这句中文翻译成Sedu语：耳朵是很小的", "a": "numo ve xe boqu ne"}
+{"id": "r5222", "task": "gloss", "q": "Sedu语词“safu”用中文怎么说？", "a": "石头"}
+{"id": "r5223", "task": "s2c", "q": "把这句Sedu语翻译成中文：laji ne boho xe fubo", "a": "叶子的月亮很冷"}
+{"id": "r5224", "task": "c2s", "q": "把这句中文翻译成Sedu语：树木学习鱼", "a": "nini hoka miho"}
+{"id": "r5225", "task": "gloss", "q": "Sedu语词“lala”用中文怎么说？", "a": "秋天"}
+{"id": "r5226", "task": "s2c", "q": "把这句Sedu语翻译成中文：nini ke gaga", "a": "树木和眼睛"}
+{"id": "r5227", "task": "c2s", "q": "把这句中文翻译成Sedu语：石头是很明亮的", "a": "safu ve xe hora ne"}
+{"id": "r5228", "task": "gloss", "q": "Sedu语词“koka”用中文怎么说？", "a": "早晨"}
+{"id": "r5229", "task": "s2c", "q": "把这句Sedu语翻译成中文：hoqu ne sala xe pito", "a": "森林的天空很美丽"}
+{"id": "r5230", "task": "c2s", "q": "把这句中文翻译成Sedu语：雾工作白天", "a": "lara kamo rafu"}
+{"id": "r5231", "task": "gloss", "q": "Sedu语词“gaga”用中文怎么说？", "a": "眼睛"}
+{"id": "r5232", "task": "s2c", "q": "把这句Sedu语翻译成中文：sala ke fusa", "a": "天空和冬天"}
+{"id": "r5233", "task": "c2s", "q": "把这句中文翻译成Sedu语：牛是很大的", "a": "lamo ve xe bopi ne"}
+{"id": "r5234", "task": "gloss", "q": "Sedu语词“mofu”用中文怎么说？", "a": "冰雪"}
+{"id": "r5235", "task": "s2c", "q": "把这句Sedu语翻译成中文：lunu ne dede xe fubo", "a": "夜晚的雨水很冷"}
+{"id": "r5236", "task": "c2s", "q": "把这句中文翻译成Sedu语：秋天说话秋天", "a": "lala nire lala"}
+{"id": "r5237", "task": "gloss", "q": "Sedu语词“nini”用中文怎么说？", "a": "树木"}
+{"id": "r5238", "task": "s2c", "q": "把这句Sedu语翻译成中文：jiho ke koqu", "a": "牛奶和羊"}
+{"id": "r5239", "task": "c2s", "q": "把这句中文翻译成Sedu语：人是很坏的", "a": "kako ve xe ququ ne"}
+{"id": "r5240", "task": "gloss", "q": "Sedu语词“tobo”用中文怎么说？", "a": "花朵"}
+{"id": "r5241", "task": "s2c", "q": "把这句Sedu语翻译成中文：kopi ne dede xe hora", "a": "嘴巴的雨水很明亮"}
+{"id": "r5242", "task": "c2s", "q": "把这句中文翻译成Sedu语：叶子观看天空", "a": "laji pifu sala"}
+{"id": "r5243", "task": "gloss", "q": "Sedu语词“koqu”用中文怎么说？", "a": "羊"}
+{"id": "r5244", "task": "s2c", "q": "把这句Sedu语翻译成中文：lafu ke bora", "a": "星星和手"}
+{"id": "r5245", "task": "c2s", "q": "把这句中文翻译成Sedu语：白天是很小的", "a": "rafu ve xe boqu ne"}
+{"id": "r5246", "task": "gloss", "q": "Sedu语词“repi”用中文怎么说？", "a": "雷"}
+{"id": "r5247", "task": "s2c", "q": "把这句Sedu语翻译成中文：repi ne rede xe boqu", "a": "雷的山丘很小"}
+{"id": "r5248", "task": "c2s", "q": "把这句中文翻译成Sedu语：牛走路天空", "a": "lamo mimi sala"}
+{"id": "r5249", "task": "gloss", "q": "Sedu语词“tobo”用中文怎么说？", "a": "花朵"}
+{"id": "r5250", "task": "s2c", "q": "把这句Sedu语翻译成中文：pila ke lanu", "a": "太阳和狗"}
+{"id": "r5251", "task": "c2s", "q": "把这句中文翻译成Sedu语：春天是很新的", "a": "kola ve xe mini ne"}
+{"id": "r5252", "task": "gloss", "q": "Sedu语词“numo”用中文怎么说？", "a": "耳朵"}
+{"id": "r5253", "task": "s2c", "q": "把这句Sedu语翻译成中文：deni ne mora xe boqu", "a": "种子的黄昏很小"}
+{"id": "r5254", "task": "c2s", "q": "把这句中文翻译成Sedu语：沙子思考云朵", "a": "toto tora komi"}
+{"id": "r5255", "task": "gloss", "q": "Sedu语词“reko”用中文怎么说？", "a": "河流"}
+{"id": "r5256", "task": "s2c", "q": "把这句Sedu语翻译成中文：gare ke jiho", "a": "夏天和牛奶"}
+{"id": "r5257", "task": "c2s", "q": "把这句中文翻译成Sedu语：天空是很美丽的", "a": "sala ve xe pito ne"}
+{"id": "r5258", "task": "gloss", "q": "Sedu语词“moga”用中文怎么说？", "a": "头发"}
+{"id": "r5259", "task": "s2c", "q": "把这句Sedu语翻译成中文：bora ne rede xe dela", "a": "手的山丘很慢"}
+{"id": "r5260", "task": "c2s", "q": "把这句中文翻译成Sedu语：冰雪喝水夜晚", "a": "mofu toka lunu"}
+{"id": "r5261", "task": "gloss", "q": "Sedu语词“mofu”用中文怎么说？", "a": "冰雪"}
+{"id": "r5262", "task": "s2c", "q": "把这句Sedu语翻译成中文：laji ke kore", "a": "叶子和风"}
+{"id": "r5263", "task": "c2s", "q": "把这句中文翻译成Sedu语：猫是很慢的", "a": "kode ve xe dela ne"}
+{"id": "r5264", "task": "gloss", "q": "Sedu语词“laji”用中文怎么说？", "a": "叶子"}
+{"id": "r5265", "task": "s2c", "q": "把这句Sedu语翻译成中文：mora ne kopi xe boqu", "a": "黄昏的嘴巴很小"}
+{"id": "r5266", "task": "c2s", "q": "把这句中文翻译成Sedu语：猫倾听黄昏", "a": "kode jifu mora"}
+{"id": "r5267", "task": "gloss", "q": "Sedu语词“hoqu”用中文怎么说？", "a": "森林"}
+{"id": "r5268", "task": "s2c", "q": "把这句Sedu语翻译成中文：lunu ke dede", "a": "夜晚和雨水"}
+{"id": "r5269", "task": "c2s", "q": "把这句中文翻译成Sedu语：天空是很坏的", "a": "sala ve xe ququ ne"}
+{"id": "r5270", "task": "gloss", "q": "Sedu语词“kora”用中文怎么说？", "a": "电"}
+{"id": "r5271", "task": "s2c", "q": "把这句Sedu语翻译成中文：koka ne miho xe boqu", "a": "早晨的鱼很小"}
+{"id": "r5272", "task": "c2s", "q": "把这句中文翻译成Sedu语：种子跳跃猫", "a": "deni mifu kode"}
+{"id": "r5273", "task": "gloss", "q": "Sedu语词“kola”用中文怎么说？", "a": "春天"}
+{"id": "r5274", "task": "s2c", "q": "把这句Sedu语翻译成中文：rebo ke miga", "a": "心脏和果实"}
+{"id": "r5275", "task": "c2s", "q": "把这句中文翻译成Sedu语：雨水是很旧的", "a": "dede ve xe kaqu ne"}
+{"id": "r5276", "task": "gloss", "q": "Sedu语词“nini”用中文怎么说？", "a": "树木"}
+{"id": "r5277", "task": "s2c", "q": "把这句Sedu语翻译成中文：kore ne gade xe mira", "a": "风的马很快"}
+{"id": "r5278", "task": "c2s", "q": "把这句中文翻译成Sedu语：鱼说话火焰", "a": "miho nire toni"}
+{"id": "r5279", "task": "gloss", "q": "Sedu语词“rede”用中文怎么说？", "a": "山丘"}
+{"id": "r5280", "task": "s2c", "q": "把这句Sedu语翻译成中文：moga ke lamo", "a": "头发和牛"}
+{"id": "r5281", "task": "c2s", "q": "把这句中文翻译成Sedu语：果实是很新的", "a": "miga ve xe mini ne"}
+{"id": "r5282", "task": "gloss", "q": "Sedu语词“fusa”用中文怎么说？", "a": "冬天"}
+{"id": "r5283", "task": "s2c", "q": "把这句Sedu语翻译成中文：lala ne pila xe hora", "a": "秋天的太阳很明亮"}
+{"id": "r5284", "task": "c2s", "q": "把这句中文翻译成Sedu语：电倾听风", "a": "kora jifu kore"}
+{"id": "r5285", "task": "gloss", "q": "Sedu语词“moji”用中文怎么说？", "a": "彩虹"}
+{"id": "r5286", "task": "s2c", "q": "把这句Sedu语翻译成中文：mode ke nunu", "a": "脚和草地"}
+{"id": "r5287", "task": "c2s", "q": "把这句中文翻译成Sedu语：秋天是很好的", "a": "lala ve xe labo ne"}
+{"id": "r5288", "task": "gloss", "q": "Sedu语词“tobo”用中文怎么说？", "a": "花朵"}
+{"id": "r5289", "task": "s2c", "q": "把这句Sedu语翻译成中文：repi ne kore xe mira", "a": "雷的风很快"}
+{"id": "r5290", "task": "c2s", "q": "把这句中文翻译成Sedu语：白天思考冬天", "a": "rafu tora fusa"}
+{"id": "r5291", "task": "gloss", "q": "Sedu语词“toni”用中文怎么说？", "a": "火焰"}
+{"id": "r5292", "task": "s2c", "q": "把这句Sedu语翻译成中文：mofu ke lunu", "a": "冰雪和夜晚"}
+{"id": "r5293", "task": "c2s", "q": "把这句中文翻译成Sedu语：白天是很美丽的", "a": "rafu ve xe pito ne"}
+{"id": "r5294", "task": "gloss", "q": "Sedu语词“lamo”用中文怎么说？", "a": "牛"}
+{"id": "r5295", "task": "s2c", "q": "把这句Sedu语翻译成中文：komi ne repi xe mira", "a": "云朵的雷很快"}
+{"id": "r5296", "task": "c2s", "q": "把这句中文翻译成Sedu语：种子倾听月亮", "a": "deni jifu boho"}
+{"id": "r5297", "task": "gloss", "q": "Sedu语词“toni”用中文怎么说？", "a": "火焰"}
+{"id": "r5298", "task": "s2c", "q": "把这句Sedu语翻译成中文：toni ke luqu", "a": "火焰和面包"}
+{"id": "r5299", "task": "c2s", "q": "把这句中文翻译成Sedu语：火焰是很旧的", "a": "toni ve xe kaqu ne"}
+{"id": "r5300", "task": "gloss", "q": "Sedu语词“koka”用中文怎么说？", "a": "早晨"}
+{"id": "r5301", "task": "s2c", "q": "把这句Sedu语翻译成中文：numo ne bora xe mira", "a": "耳朵的手很快"}
+{"id": "r5302", "task": "c2s", "q": "把这句中文翻译成Sedu语：夏天吃饭森林", "a": "gare misa hoqu"}
+{"id": "r5303", "task": "gloss", "q": "Sedu语词“fusa”用中文怎么说？", "a": "冬天"}
+{"id": "r5304", "task": "s2c", "q": "把这句Sedu语翻译成中文：pila ke kode", "a": "太阳和猫"}
+{"id": "r5305", "task": "c2s", "q": "把这句中文翻译成Sedu语：风是很快的", "a": "kore ve xe mira ne"}
+{"id": "r5306", "task": "gloss", "q": "Sedu语词“repi”用中文怎么说？", "a": "雷"}
+{"id": "r5307", "task": "s2c", "q": "把这句Sedu语翻译成中文：kora ne gare xe boqu", "a": "电的夏天很小"}
+{"id": "r5308", "task": "c2s", "q": "把这句中文翻译成Sedu语：鸟喝水海洋", "a": "hopi toka bonu"}
+{"id": "r5309", "task": "gloss", "q": "Sedu语词“gade”用中文怎么说？", "a": "马"}
+{"id": "r5310", "task": "s2c", "q": "把这句Sedu语翻译成中文：rafu ke bora", "a": "白天和手"}
+{"id": "r5311", "task": "c2s", "q": "把这句中文翻译成Sedu语：果实是很快的", "a": "miga ve xe mira ne"}
+{"id": "r5312", "task": "gloss", "q": "Sedu语词“hoqu”用中文怎么说？", "a": "森林"}
+{"id": "r5313", "task": "s2c", "q": "把这句Sedu语翻译成中文：gare ne kora xe labo", "a": "夏天的电很好"}
+{"id": "r5314", "task": "c2s", "q": "把这句中文翻译成Sedu语：耳朵吃饭眼睛", "a": "numo misa gaga"}
+{"id": "r5315", "task": "gloss", "q": "Sedu语词“gare”用中文怎么说？", "a": "夏天"}
+{"id": "r5316", "task": "s2c", "q": "把这句Sedu语翻译成中文：moji ke kopi", "a": "彩虹和嘴巴"}
+{"id": "r5317", "task": "c2s", "q": "把这句中文翻译成Sedu语：树木是很冷的", "a": "nini ve xe fubo ne"}
+{"id": "r5318", "task": "gloss", "q": "Sedu语词“lunu”用中文怎么说？", "a": "夜晚"}
+{"id": "r5319", "task": "s2c", "q": "把这句Sedu语翻译成中文：lala ne bora xe mini", "a": "秋天的手很新"}
+{"id": "r5320", "task": "c2s", "q": "把这句中文翻译成Sedu语：冬天思考雷", "a": "fusa tora repi"}
+{"id": "r5321", "task": "gloss", "q": "Sedu语词“moji”用中文怎么说？", "a": "彩虹"}
+{"id": "r5322", "task": "s2c", "q": "把这句Sedu语翻译成中文：kako ke mode", "a": "人和脚"}
+{"id": "r5323", "task": "c2s", "q": "把这句中文翻译成Sedu语：火焰是很小的", "a": "toni ve xe boqu ne"}
+{"id": "r5324", "task": "gloss", "q": "Sedu语词“boho”用中文怎么说？", "a": "月亮"}
+{"id": "r5325", "task": "s2c", "q": "把这句Sedu语翻译成中文：laji ne repi xe pilu", "a": "叶子的雷很热"}
+{"id": "r5326", "task": "c2s", "q": "把这句中文翻译成Sedu语：牛奶喝水夜晚", "a": "jiho toka lunu"}
+{"id": "r5327", "task": "gloss", "q": "Sedu语词“boho”用中文怎么说？", "a": "月亮"}
+{"id": "r5328", "task": "s2c", "q": "把这句Sedu语翻译成中文：miho ke numo", "a": "鱼和耳朵"}
+{"id": "r5329", "task": "c2s", "q": "把这句中文翻译成Sedu语：马是很慢的", "a": "gade ve xe dela ne"}
+{"id": "r5330", "task": "gloss", "q": "Sedu语词“kola”用中文怎么说？", "a": "春天"}
+{"id": "r5331", "task": "s2c", "q": "把这句Sedu语翻译成中文：sala ne gare xe labo", "a": "天空的夏天很好"}
+{"id": "r5332", "task": "c2s", "q": "把这句中文翻译成Sedu语：果实思考夏天", "a": "miga tora gare"}
+{"id": "r5333", "task": "gloss", "q": "Sedu语词“kola”用中文怎么说？", "a": "春天"}
+{"id": "r5334", "task": "s2c", "q": "把这句Sedu语翻译成中文：gaga ke lunu", "a": "眼睛和夜晚"}
+{"id": "r5335", "task": "c2s", "q": "把这句中文翻译成Sedu语：眼睛是很快的", "a": "gaga ve xe mira ne"}
+{"id": "r5336", "task": "gloss", "q": "Sedu语词“kola”用中文怎么说？", "a": "春天"}
+{"id": "r5337", "task": "s2c", "q": "把这句Sedu语翻译成中文：bora ne tobo xe mira", "a": "手的花朵很快"}
+{"id": "r5338", "task": "c2s", "q": "把这句中文翻译成Sedu语：雾说话种子", "a": "lara nire deni"}
+{"id": "r5339", "task": "gloss", "q": "Sedu语词“bora”用中文怎么说？", "a": "手"}
+{"id": "r5340", "task": "s2c", "q": "把这句Sedu语翻译成中文：lunu ke koqu", "a": "夜晚和羊"}
+{"id": "r5341", "task": "c2s", "q": "把这句中文翻译成Sedu语：树木是很美丽的", "a": "nini ve xe pito ne"}
+{"id": "r5342", "task": "gloss", "q": "Sedu语词“kopi”用中文怎么说？", "a": "嘴巴"}
+{"id": "r5343", "task": "s2c", "q": "把这句Sedu语翻译成中文：mode ne safu xe bopi", "a": "脚的石头很大"}
+{"id": "r5344", "task": "c2s", "q": "把这句中文翻译成Sedu语：秋天跳跃狗", "a": "lala mifu lanu"}
+{"id": "r5345", "task": "gloss", "q": "Sedu语词“moji”用中文怎么说？", "a": "彩虹"}
+{"id": "r5346", "task": "s2c", "q": "把这句Sedu语翻译成中文：jiho ke lara", "a": "牛奶和雾"}
+{"id": "r5347", "task": "c2s", "q": "把这句中文翻译成Sedu语：夜晚是很坏的", "a": "lunu ve xe ququ ne"}
+{"id": "r5348", "task": "gloss", "q": "Sedu语词“fusa”用中文怎么说？", "a": "冬天"}
+{"id": "r5349", "task": "s2c", "q": "把这句Sedu语翻译成中文：mora ne miga xe bopi", "a": "黄昏的果实很大"}
+{"id": "r5350", "task": "c2s", "q": "把这句中文翻译成Sedu语：云朵睡觉果实", "a": "komi rara miga"}
+{"id": "r5351", "task": "gloss", "q": "Sedu语词“bonu”用中文怎么说？", "a": "海洋"}
+{"id": "r5352", "task": "s2c", "q": "把这句Sedu语翻译成中文：kore ke dede", "a": "风和雨水"}
+{"id": "r5353", "task": "c2s", "q": "把这句中文翻译成Sedu语：白天是很大的", "a": "rafu ve xe bopi ne"}
+{"id": "r5354", "task": "gloss", "q": "Sedu语词“lamo”用中文怎么说？", "a": "牛"}
+{"id": "r5355", "task": "s2c", "q": "把这句Sedu语翻译成中文：fusa ne safu xe fubo", "a": "冬天的石头很冷"}
+{"id": "r5356", "task": "c2s", "q": "把这句中文翻译成Sedu语：河流学习手", "a": "reko hoka bora"}
+{"id": "r5357", "task": "gloss", "q": "Sedu语词“miga”用中文怎么说？", "a": "果实"}
+{"id": "r5358", "task": "s2c", "q": "把这句Sedu语翻译成中文：gaga ke luqu", "a": "眼睛和面包"}
+{"id": "r5359", "task": "c2s", "q": "把这句中文翻译成Sedu语：河流是很快的", "a": "reko ve xe mira ne"}
+{"id": "r5360", "task": "gloss", "q": "Sedu语词“hoqu”用中文怎么说？", "a": "森林"}
+{"id": "r5361", "task": "s2c", "q": "把这句Sedu语翻译成中文：lala ne mode xe boqu", "a": "秋天的脚很小"}
+{"id": "r5362", "task": "c2s", "q": "把这句中文翻译成Sedu语：牛奶跑步叶子", "a": "jiho gapi laji"}
+{"id": "r5363", "task": "gloss", "q": "Sedu语词“koka”用中文怎么说？", "a": "早晨"}
+{"id": "r5364", "task": "s2c", "q": "把这句Sedu语翻译成中文：bora ke laji", "a": "手和叶子"}
+{"id": "r5365", "task": "c2s", "q": "把这句中文翻译成Sedu语：牛是很快的", "a": "lamo ve xe mira ne"}
+{"id": "r5366", "task": "gloss", "q": "Sedu语词“mode”用中文怎么说？", "a": "脚"}
+{"id": "r5367", "task": "s2c", "q": "把这句Sedu语翻译成中文：pila ne miga xe mini", "a": "太阳的果实很新"}
+{"id": "r5368", "task": "c2s", "q": "把这句中文翻译成Sedu语：电学习早晨", "a": "kora hoka koka"}
+{"id": "r5369", "task": "gloss", "q": "Sedu语词“reko”用中文怎么说？", "a": "河流"}
+{"id": "r5370", "task": "s2c", "q": "把这句Sedu语翻译成中文：lanu ke laji", "a": "狗和叶子"}
+{"id": "r5371", "task": "c2s", "q": "把这句中文翻译成Sedu语：脚是很美丽的", "a": "mode ve xe pito ne"}
+{"id": "r5372", "task": "gloss", "q": "Sedu语词“luqu”用中文怎么说？", "a": "面包"}
+{"id": "r5373", "task": "s2c", "q": "把这句Sedu语翻译成中文：koka ne lamo xe boqu", "a": "早晨的牛很小"}
+{"id": "r5374", "task": "c2s", "q": "把这句中文翻译成Sedu语：雨水思考沙子", "a": "dede tora toto"}
+{"id": "r5375", "task": "gloss", "q": "Sedu语词“luqu”用中文怎么说？", "a": "面包"}
+{"id": "r5376", "task": "s2c", "q": "把这句Sedu语翻译成中文：lamo ke miho", "a": "牛和鱼"}
+{"id": "r5377", "task": "c2s", "q": "把这句中文翻译成Sedu语：海洋是很热的", "a": "bonu ve xe pilu ne"}
+{"id": "r5378", "task": "gloss", "q": "Sedu语词“safu”用中文怎么说？", "a": "石头"}
+{"id": "r5379", "task": "s2c", "q": "把这句Sedu语翻译成中文：kola ne numo xe mini", "a": "春天的耳朵很新"}
+{"id": "r5380", "task": "c2s", "q": "把这句中文翻译成Sedu语：冬天工作猫", "a": "fusa kamo kode"}
+{"id": "r5381", "task": "gloss", "q": "Sedu语词“kola”用中文怎么说？", "a": "春天"}
+{"id": "r5382", "task": "s2c", "q": "把这句Sedu语翻译成中文：sala ke komi", "a": "天空和云朵"}
+{"id": "r5383", "task": "c2s", "q": "把这句中文翻译成Sedu语：电是很旧的", "a": "kora ve xe kaqu ne"}
+{"id": "r5384", "task": "gloss", "q": "Sedu语词“mode”用中文怎么说？", "a": "脚"}
+{"id": "r5385", "task": "s2c", "q": "把这句Sedu语翻译成中文：lala ne koka xe bopi", "a": "秋天的早晨很大"}
+{"id": "r5386", "task": "c2s", "q": "把这句中文翻译成Sedu语：鸟工作面包", "a": "hopi kamo luqu"}
+{"id": "r5387", "task": "gloss", "q": "Sedu语词“kode”用中文怎么说？", "a": "猫"}
+{"id": "r5388", "task": "s2c", "q": "把这句Sedu语翻译成中文：pila ke boho", "a": "太阳和月亮"}
+{"id": "r5389", "task": "c2s", "q": "把这句中文翻译成Sedu语：太阳是很坏的", "a": "pila ve xe ququ ne"}
+{"id": "r5390", "task": "gloss", "q": "Sedu语词“lunu”用中文怎么说？", "a": "夜晚"}
+{"id": "r5391", "task": "s2c", "q": "把这句Sedu语翻译成中文：rafu ne kako xe hora", "a": "白天的人很明亮"}
+{"id": "r5392", "task": "c2s", "q": "把这句中文翻译成Sedu语：秋天说话黄昏", "a": "lala nire mora"}
+{"id": "r5393", "task": "gloss", "q": "Sedu语词“moji”用中文怎么说？", "a": "彩虹"}
+{"id": "r5394", "task": "s2c", "q": "把这句Sedu语翻译成中文：toto ke mofu", "a": "沙子和冰雪"}
+{"id": "r5395", "task": "c2s", "q": "把这句中文翻译成Sedu语：叶子是很大的", "a": "laji ve xe bopi ne"}
+{"id": "r5396", "task": "gloss", "q": "Sedu语词“lanu”用中文怎么说？", "a": "狗"}
+{"id": "r5397", "task": "s2c", "q": "把这句Sedu语翻译成中文：toto ne pila xe ququ", "a": "沙子的太阳很坏"}
+{"id": "r5398", "task": "c2s", "q": "把这句中文翻译成Sedu语：树木走路白天", "a": "nini mimi rafu"}
+{"id": "r5399", "task": "gloss", "q": "Sedu语词“pila”用中文怎么说？", "a": "太阳"}

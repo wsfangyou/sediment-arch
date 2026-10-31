@@ -1,0 +1,78 @@
+{
+ "n_pairs": 47,
+ "vocab": 151936,
+ "backbones": {
+  "reference": "Qwen2.5-3B-Instruct (layer 18, d=2048)",
+  "target": "Sediment-Base L0 (layer 12, d=1536)"
+ },
+ "arms": {
+  "a_joint_L0": 1.0,
+  "b_isa_Qwen2L0": 0.0213,
+  "b_isa_calib_keys": 0.0,
+  "b_isa_calib_hidden": 0.0213,
+  "b0_no_calib": 0.0213,
+  "q_native": 1.0
+ },
+ "n_anchors": 200,
+ "map": "PCA-32 + ridge(lam=0.1)",
+ "ratio_b_over_a": 0.0213,
+ "map_diagnostic": {
+  "pair_cos": 0.6398,
+  "pair_retrieval_at1": 0.0213
+ },
+ "drift_curve": [
+  {
+   "anchors": 8,
+   "acc": 0.0213
+  },
+  {
+   "anchors": 16,
+   "acc": 0.0213
+  },
+  {
+   "anchors": 32,
+   "acc": 0.0213
+  },
+  {
+   "anchors": 64,
+   "acc": 0.0213
+  },
+  {
+   "anchors": 128,
+   "acc": 0.0213
+  },
+  {
+   "anchors": 200,
+   "acc": 0.0
+  }
+ ],
+ "prereg": "b/a >= 0.95 → ISA 成立；0.90–0.95 部分成立",
+ "verdict": "❌ 转译损失过大（b/a = 0.021）",
+ "pairs": [
+  {
+   "cue": "pila",
+   "answer": "太阳",
+   "ans_id": 101281
+  },
+  {
+   "cue": "boho",
+   "answer": "月亮",
+   "ans_id": 108194
+  },
+  {
+   "cue": "lafu",
+   "answer": "星星",
+   "ans_id": 109014
+  },
+  {
+   "cue": "sala",
+   "answer": "天空",
+   "ans_id": 101916
+  },
+  {
+   "cue": "dede",
+   "answer": "雨水",
+   "ans_id": 110375
+  }
+ ]
+}

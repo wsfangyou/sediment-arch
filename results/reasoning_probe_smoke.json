@@ -1,0 +1,36 @@
+{
+ "n_items": 36,
+ "protocol": {
+  "scoring": "选项对数似然（A/B/C/D 四字母比较），3-shot，每题一次前向",
+  "chance": 0.25
+ },
+ "models": {
+  "L0_0.83B": {
+   "per_cat": {
+    "unit": 0.3333,
+    "logic2": 0.1667,
+    "arith2": 0.4167,
+    "arith4": 0.25
+   },
+   "overall": 0.3056
+  },
+  "Qwen3-4B_base": {
+   "per_cat": {
+    "unit": 0.3333,
+    "logic2": 1.0,
+    "arith2": 0.3333,
+    "arith4": 0.0833
+   },
+   "overall": 0.3611
+  },
+  "Qwen3-4B_+Sedu": {
+   "per_cat": {
+    "unit": 0.3333,
+    "logic2": 0.6667,
+    "arith2": 0.3333,
+    "arith4": 0.0833
+   },
+   "overall": 0.3056
+  }
+ }
+}

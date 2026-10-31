@@ -1,0 +1,30 @@
+{
+ "protocol": {
+  "steps": 400,
+  "bs": 4,
+  "lr": 0.0001,
+  "replay_ratio": 1.0,
+  "gen_seq": 256,
+  "n_eval": 50,
+  "replay_samples": 1600,
+  "prereg": "C 门 ppl_regress<=1.02 全救回 / <=1.15 部分救回；技能保持率>=0.90 可接受"
+ },
+ "bare": {
+  "ppl": 56.92,
+  "A_gen": 0.0
+ },
+ "tf_curve": [],
+ "after": {
+  "A_tf": 0.9659,
+  "A_gen": 0.86,
+  "ppl_general": 58.88
+ },
+ "ppl_regress_vs_bare": 1.0344,
+ "skill_retention_vs_pure": 1.3286,
+ "baseline_pure_skill": {
+  "A_tf": 0.727,
+  "ppl_regress_vs_bare": 1.338,
+  "source": "e1_l1.json（同 600 步 / bs4 / 无混采）"
+ },
+ "verdict": "⚠️ C 门部分救回（1.034×，较纯技能的 1.338× 明显改善，仍不过 1.02 门）"
+}
